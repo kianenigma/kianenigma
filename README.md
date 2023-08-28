@@ -1,16 +1,31 @@
-### Hi there 👋
+# Kian Paimani aka `kianenigma`
 
-<!--
-**kianenigma/kianenigma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Wisdom
 
-Here are some ideas to get you started:
+<!--START_SECTION:cowsay-->
+```
+ _______________________________________
+/ You shall be rewarded for a dastardly \
+\ deed.                                 /
+ ---------------------------------------
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```
+<!--END_SECTION:cowsay-->
+
+
+## Stats
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kianenigma)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kianenigma&hide=Tex,SCSS)](https://github.com/anuraghazra/github-readme-stats)
+
+![kianenigma's GitHub stats](https://github-readme-stats.vercel.app/api?username=kianenigma)
+
+
+
+
