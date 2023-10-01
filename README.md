@@ -4,10 +4,10 @@
 
 <!--START_SECTION:cowsay-->
 ```
- _______________________________________
-/ You shall be rewarded for a dastardly \
-\ deed.                                 /
- ---------------------------------------
+ ________________________________________
+/ Q: Why did the chicken cross the road? \
+\ A: He was giving it last rites.        /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
