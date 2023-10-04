@@ -4,13 +4,9 @@
 
 <!--START_SECTION:cowsay-->
 ```
- ___________________________________
-/ After all, all he did was string  \
-| together a lot of old, well-known |
-| quotations.                       |
-|                                   |
-\ -- H. L. Mencken, on Shakespeare  /
- -----------------------------------
+ ________________________________________
+< You enjoy the company of other people. >
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
