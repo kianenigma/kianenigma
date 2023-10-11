@@ -4,9 +4,11 @@
 
 <!--START_SECTION:cowsay-->
 ```
- _________________________________
-< You will be successful in love. >
- ---------------------------------
+ ____________________________________
+/ This life is yours. Some of it was \
+| given to you; the rest, you made   |
+\ yourself.                          /
+ ------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
