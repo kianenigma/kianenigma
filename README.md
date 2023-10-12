@@ -4,11 +4,10 @@
 
 <!--START_SECTION:cowsay-->
 ```
- ____________________________________
-/ This life is yours. Some of it was \
-| given to you; the rest, you made   |
-\ yourself.                          /
- ------------------------------------
+ ________________________________________
+/ Q: What's a WASP's idea of             \
+\ open-mindedness? A: Dating a Canadian. /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
