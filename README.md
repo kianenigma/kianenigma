@@ -4,9 +4,11 @@
 
 <!--START_SECTION:cowsay-->
 ```
- _______________________________________
-< You will be run over by a beer truck. >
- ---------------------------------------
+ ______________________________________
+/ You're definitely on their list. The \
+| question to ask next is what list it |
+\ is.                                  /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
