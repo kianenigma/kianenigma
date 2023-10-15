@@ -5,9 +5,8 @@
 <!--START_SECTION:cowsay-->
 ```
  ______________________________________
-/ You're definitely on their list. The \
-| question to ask next is what list it |
-\ is.                                  /
+/ Q: Why did Menachem Begin invade     \
+\ Lebanon? A: To impress Jodie Foster. /
  --------------------------------------
         \   ^__^
          \  (oo)\_______
