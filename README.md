@@ -4,11 +4,10 @@
 
 <!--START_SECTION:cowsay-->
 ```
- _________________________________________
-/ You'll feel devilish tonight. Toss      \
-| dynamite caps under a flamenco dancer's |
-\ heel.                                   /
- -----------------------------------------
+ ____________________________________
+/ You will be a winner today. Pick a \
+\ fight with a four-year-old.        /
+ ------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
