@@ -4,10 +4,9 @@
 
 <!--START_SECTION:cowsay-->
 ```
- ____________________________________
-/ You will be a winner today. Pick a \
-\ fight with a four-year-old.        /
- ------------------------------------
+ ______________________________________
+< Stay away from flying saucers today. >
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
