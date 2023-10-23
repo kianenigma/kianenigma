@@ -5,10 +5,11 @@
 <!--START_SECTION:cowsay-->
 ```
  _________________________________________
-/ The first thing we do, let's kill all   \
-| the lawyers.                            |
+/ In the Spring, I have counted 136       \
+| different kinds of weather inside of 24 |
+| hours.                                  |
 |                                         |
-\ -- Wm. Shakespeare, "Henry VI", Part IV /
+\ -- Mark Twain, on New England weather   /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
