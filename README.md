@@ -5,11 +5,9 @@
 <!--START_SECTION:cowsay-->
 ```
  _________________________________________
-/ In the Spring, I have counted 136       \
-| different kinds of weather inside of 24 |
-| hours.                                  |
-|                                         |
-\ -- Mark Twain, on New England weather   /
+/ You will lose your present job and have \
+| to become a door to door mayonnaise     |
+\ salesman.                               /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
