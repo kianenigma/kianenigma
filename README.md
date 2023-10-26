@@ -4,10 +4,13 @@
 
 <!--START_SECTION:cowsay-->
 ```
- ________________________________________
-/ Your boss is a few sandwiches short of \
-\ a picnic.                              /
- ----------------------------------------
+ _________________________________________
+/ FORTUNE PROVIDES QUESTIONS FOR THE      \
+| GREAT ANSWERS: #5 A: The Halls of       |
+| Montezuma and the Shores of Tripoli. Q: |
+| Name two families whose kids won't join |
+\ the Marines.                            /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
