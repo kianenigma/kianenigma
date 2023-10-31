@@ -4,10 +4,11 @@
 
 <!--START_SECTION:cowsay-->
 ```
- ______________________________________
-/ Artistic ventures highlighted. Rob a \
-\ museum.                              /
- --------------------------------------
+ ____________________________________
+/ This life is yours. Some of it was \
+| given to you; the rest, you made   |
+\ yourself.                          /
+ ------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
