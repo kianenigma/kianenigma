@@ -4,11 +4,10 @@
 
 <!--START_SECTION:cowsay-->
 ```
- ____________________________________
-/ This life is yours. Some of it was \
-| given to you; the rest, you made   |
-\ yourself.                          /
- ------------------------------------
+ _________________________________________
+/ Of course you have a purpose -- to find \
+\ a purpose.                              /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
