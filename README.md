@@ -4,10 +4,12 @@
 
 <!--START_SECTION:cowsay-->
 ```
- _________________________________________
-/ Of course you have a purpose -- to find \
-\ a purpose.                              /
- -----------------------------------------
+ ______________________________________
+/ "Not Hercules could have knock'd out \
+| his brains, for he had none."        |
+|                                      |
+\ -- Shakespeare                       /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
