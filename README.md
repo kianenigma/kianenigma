@@ -5,17 +5,11 @@
 <!--START_SECTION:cowsay-->
 ```
  _________________________________________
-/ October.                                \
+/ In the Spring, I have counted 136       \
+| different kinds of weather inside of 24 |
+| hours.                                  |
 |                                         |
-| This is one of the peculiarly dangerous |
-| months to speculate in stocks in.       |
-|                                         |
-| The others are July, January,           |
-| September, April, November, May, March, |
-| June, December, August, and February.   |
-|                                         |
-| -- Mark Twain, "Pudd'nhead Wilson's     |
-\ Calendar"                               /
+\ -- Mark Twain, on New England weather   /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
