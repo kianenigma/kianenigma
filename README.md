@@ -4,13 +4,13 @@
 
 <!--START_SECTION:cowsay-->
 ```
- _________________________________________
-/ In the Spring, I have counted 136       \
-| different kinds of weather inside of 24 |
-| hours.                                  |
-|                                         |
-\ -- Mark Twain, on New England weather   /
- -----------------------------------------
+ _______________________________________
+/ Few things are harder to put up with  \
+| than the annoyance of a good example. |
+|                                       |
+| -- "Mark Twain, Pudd'nhead Wilson's   |
+\ Calendar"                             /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
