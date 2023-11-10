@@ -4,10 +4,10 @@
 
 <!--START_SECTION:cowsay-->
 ```
- _____________________________________
-/ Today is National Existential Ennui \
-\ Awareness Day.                      /
- -------------------------------------
+ _________________________________________
+/ Don't look now, but the man in the moon \
+\ is laughing at you.                     /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
