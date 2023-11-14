@@ -4,10 +4,9 @@
 
 <!--START_SECTION:cowsay-->
 ```
- _________________________________________
-/ Perfect day for scrubbing the floor and \
-\ other exciting things.                  /
- -----------------------------------------
+ _______________________________________
+< You will inherit millions of dollars. >
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
