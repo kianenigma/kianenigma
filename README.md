@@ -4,9 +4,12 @@
 
 <!--START_SECTION:cowsay-->
 ```
- _____________________________
-< Your lucky color has faded. >
- -----------------------------
+ _________________________________________
+/ Be careful of reading health books, you \
+| might die of a misprint.                |
+|                                         |
+\ -- Mark Twain                           /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
