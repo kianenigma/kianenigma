@@ -4,12 +4,10 @@
 
 <!--START_SECTION:cowsay-->
 ```
- _________________________________________
-/ Be careful of reading health books, you \
-| might die of a misprint.                |
-|                                         |
-\ -- Mark Twain                           /
- -----------------------------------------
+ ___________________________________
+/ Q: Who cuts the grass on Walton's \
+\ Mountain? A: Lawn Boy.            /
+ -----------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
