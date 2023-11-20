@@ -4,10 +4,12 @@
 
 <!--START_SECTION:cowsay-->
 ```
- ______________________________________
-/ You are a fluke of the universe; you \
-\ have no right to be here.            /
- --------------------------------------
+ _________________________________________
+/ Extreme fear can neither fight nor fly. \
+|                                         |
+| -- William Shakespeare, "The Rape of    |
+\ Lucrece"                                /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
