@@ -5,10 +5,8 @@
 <!--START_SECTION:cowsay-->
 ```
  _________________________________________
-/ Extreme fear can neither fight nor fly. \
-|                                         |
-| -- William Shakespeare, "The Rape of    |
-\ Lucrece"                                /
+/ Today is the tomorrow you worried about \
+\ yesterday.                              /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
