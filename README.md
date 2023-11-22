@@ -4,10 +4,12 @@
 
 <!--START_SECTION:cowsay-->
 ```
- _________________________________________
-/ Today is the tomorrow you worried about \
-\ yesterday.                              /
- -----------------------------------------
+ ________________________________
+/ She is not refined. She is not \
+| unrefined. She keeps a parrot. |
+|                                |
+\ -- Mark Twain                  /
+ --------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
