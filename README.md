@@ -4,12 +4,11 @@
 
 <!--START_SECTION:cowsay-->
 ```
- ________________________________
-/ She is not refined. She is not \
-| unrefined. She keeps a parrot. |
-|                                |
-\ -- Mark Twain                  /
- --------------------------------
+ _________________________________________
+/ You will pay for your sins. If you have \
+| already paid, please disregard this     |
+\ message.                                /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
