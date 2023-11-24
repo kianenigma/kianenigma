@@ -4,11 +4,9 @@
 
 <!--START_SECTION:cowsay-->
 ```
- _________________________________________
-/ You will pay for your sins. If you have \
-| already paid, please disregard this     |
-\ message.                                /
- -----------------------------------------
+ ___________________________________
+< You will outgrow your usefulness. >
+ -----------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
