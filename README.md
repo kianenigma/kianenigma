@@ -4,9 +4,12 @@
 
 <!--START_SECTION:cowsay-->
 ```
- ___________________________________
-< You will outgrow your usefulness. >
- -----------------------------------
+ ____________________________________
+/ Lord, what fools these mortals be! \
+|                                    |
+| -- William Shakespeare, "A         |
+\ Midsummer-Night's Dream"           /
+ ------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
