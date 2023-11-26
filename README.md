@@ -4,12 +4,15 @@
 
 <!--START_SECTION:cowsay-->
 ```
- ____________________________________
-/ Lord, what fools these mortals be! \
-|                                    |
-| -- William Shakespeare, "A         |
-\ Midsummer-Night's Dream"           /
- ------------------------------------
+ _________________________________
+/ AWAKE! FEAR! FIRE! FOES! AWAKE! \
+|                                 |
+| FEAR! FIRE! FOES!               |
+|                                 |
+| AWAKE! AWAKE!                   |
+|                                 |
+\ -- J. R. R. Tolkien             /
+ ---------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
