@@ -5,45 +5,21 @@
 <!--START_SECTION:cowsay-->
 ```
  _________________________________________
-/ Like an expensive sports car,           \
-| fine-tuned and well-built, Portia was   |
-| sleek, shapely, and gorgeous, her red   |
-| jumpsuit moulding her body, which was   |
-| as warm as seatcovers in July, her hair |
-| as dark as new tires, her eyes flashing |
-| like bright hubcaps, and her lips as    |
-| dewy as the beads of fresh rain on the  |
-| hood; she was a woman driven -- fueled  |
-| by a single accelerant -- and she       |
-| needed a man, a man who wouldn't shift  |
-| from his views, a man to steer her      |
-| along the right road: a man like Alf    |
-| Romeo.                                  |
+/ Q: How many journalists does it take to \
+| screw in a light bulb? A: Three. One to |
+| report it as an inspired government     |
+| program to bring                        |
 |                                         |
-| -- Rachel Sheeley, winner               |
+| light to the people, one to report it   |
+| as a diabolical government plot         |
 |                                         |
-| The hair ball blocking the drain of the |
-| shower reminded Laura she would never   |
-| see her little dog Pritzi again.        |
+| to deprive the poor of darkness, and    |
+| one to win a Pulitzer prize for         |
 |                                         |
-| -- Claudia Fields, runner-up            |
+| reporting that Electric Company hired a |
+| light bulb-assassin to break            |
 |                                         |
-| It could have been an organically based |
-| disturbance of the brain -- perhaps a   |
-| tumor or a metabolic deficiency -- but  |
-| after a thorough neurological exam it   |
-| was determined that Byron was simply a  |
-| jerk.                                   |
-|                                         |
-| -- Jeff Jahnke, runner-up               |
-|                                         |
-| Winners in the 7th Annual Bulwer-Lytton |
-| Bad Writing Contest. The contest is     |
-| named after the author of the immortal  |
-| lines: "It was a dark and stormy        |
-| night." The object of the contest is to |
-| write the opening sentence of the worst |
-\ possible novel.                         /
+\ the bulb in the first place.            /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
