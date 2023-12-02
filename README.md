@@ -4,10 +4,11 @@
 
 <!--START_SECTION:cowsay-->
 ```
- _____________________________________
-/ Today is National Existential Ennui \
-\ Awareness Day.                      /
- -------------------------------------
+ _________________
+/ A is for Apple. \
+|                 |
+\ -- Hester Pryne /
+ -----------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
