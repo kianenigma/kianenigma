@@ -4,10 +4,10 @@
 
 <!--START_SECTION:cowsay-->
 ```
- ___________________________________
-/ Time to be aggressive. Go after a \
-\ tattooed Virgo.                   /
- -----------------------------------
+ _____________________________________
+/ Don't you feel more like you do now \
+\ than you did when you came in?      /
+ -------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
