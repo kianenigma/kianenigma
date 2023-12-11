@@ -4,10 +4,10 @@
 
 <!--START_SECTION:cowsay-->
 ```
- _____________________________________
-/ Don't you feel more like you do now \
-\ than you did when you came in?      /
- -------------------------------------
+ _________________________________________
+/ If you stand on your head, you will get \
+\ footprints in your hair.                /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
