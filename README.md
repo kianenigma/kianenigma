@@ -5,8 +5,8 @@
 <!--START_SECTION:cowsay-->
 ```
  _________________________________________
-/ If you stand on your head, you will get \
-\ footprints in your hair.                /
+/ You will always get the greatest        \
+\ recognition for the job you least like. /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
