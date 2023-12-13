@@ -5,8 +5,8 @@
 <!--START_SECTION:cowsay-->
 ```
  _________________________________________
-/ You will always get the greatest        \
-\ recognition for the job you least like. /
+/ You have a strong desire for a home and \
+\ your family interests come first.       /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
