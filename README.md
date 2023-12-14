@@ -5,8 +5,11 @@
 <!--START_SECTION:cowsay-->
 ```
  _________________________________________
-/ You have a strong desire for a home and \
-\ your family interests come first.       /
+/ Q: Why do ducks have big flat feet? A:  \
+| To stamp out forest fires.              |
+|                                         |
+| Q: Why do elephants have big flat feet? |
+\ A: To stamp out flaming ducks.          /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
