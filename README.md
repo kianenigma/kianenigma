@@ -4,13 +4,14 @@
 
 <!--START_SECTION:cowsay-->
 ```
- _________________________________________
-/ Q: Why do ducks have big flat feet? A:  \
-| To stamp out forest fires.              |
-|                                         |
-| Q: Why do elephants have big flat feet? |
-\ A: To stamp out flaming ducks.          /
- -----------------------------------------
+ ________________________________________
+/ A banker is a fellow who lends you his \
+| umbrella when the sun is shining and   |
+| wants it back the minute it begins to  |
+| rain.                                  |
+|                                        |
+\ -- Mark Twain                          /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
