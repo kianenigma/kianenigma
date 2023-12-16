@@ -4,14 +4,17 @@
 
 <!--START_SECTION:cowsay-->
 ```
- ________________________________________
-/ A banker is a fellow who lends you his \
-| umbrella when the sun is shining and   |
-| wants it back the minute it begins to  |
-| rain.                                  |
-|                                        |
-\ -- Mark Twain                          /
- ----------------------------------------
+ _________________________________________
+/ It is right that he too should have his \
+| little chronicle, his memories, his     |
+| reason, and be able to recognize the    |
+| good in the bad, the bad in the worst,  |
+| and so grow gently old all down the     |
+| unchanging days and die one day like    |
+| any other day, only shorter.            |
+|                                         |
+\ -- Samuel Beckett, "Malone Dies"        /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
