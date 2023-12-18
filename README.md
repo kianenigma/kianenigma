@@ -5,13 +5,11 @@
 <!--START_SECTION:cowsay-->
 ```
  _________________________________________
-/ In Marseilles they make half the toilet \
-| soap we consume in America, but the     |
-| Marseillaise only have a vague          |
-| theoretical idea of its use, which they |
-| have obtained from books of travel.     |
+/ If one cannot enjoy reading a book over \
+| and over again, there is no use in      |
+| reading it at all.                      |
 |                                         |
-\ -- Mark Twain                           /
+\ -- Oscar Wilde                          /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
