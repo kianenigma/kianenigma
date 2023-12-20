@@ -4,11 +4,10 @@
 
 <!--START_SECTION:cowsay-->
 ```
- ____________________________________
-/ It's lucky you're going so slowly, \
-| because you're going in the wrong  |
-\ direction.                         /
- ------------------------------------
+ _________________________________________
+/ Q: What do you call a blind, deaf-mute, \
+\ quadraplegic Virginian? A: Trustworthy. /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
