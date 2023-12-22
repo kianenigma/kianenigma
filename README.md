@@ -4,10 +4,11 @@
 
 <!--START_SECTION:cowsay-->
 ```
- ________________________________________
-/ You are sick, twisted and perverted. I \
-\ like that in a person.                 /
- ----------------------------------------
+ ______________________________________
+/ You're definitely on their list. The \
+| question to ask next is what list it |
+\ is.                                  /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
