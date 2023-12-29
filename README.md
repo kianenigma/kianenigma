@@ -4,11 +4,10 @@
 
 <!--START_SECTION:cowsay-->
 ```
- _____________________________________
-/ You never know how many friends you \
-| have until you rent a house on the  |
-\ beach.                              /
- -------------------------------------
+ ________________________________________
+/ Your business will go through a period \
+\ of considerable expansion.             /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
