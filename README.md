@@ -4,10 +4,10 @@
 
 <!--START_SECTION:cowsay-->
 ```
- ________________________________________
-/ Your business will go through a period \
-\ of considerable expansion.             /
- ----------------------------------------
+ ______________________________________
+/ You will hear good news from one you \
+\ thought unfriendly to you.           /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
