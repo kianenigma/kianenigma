@@ -4,10 +4,9 @@
 
 <!--START_SECTION:cowsay-->
 ```
- ______________________________________
-/ You will hear good news from one you \
-\ thought unfriendly to you.           /
- --------------------------------------
+ ______________________________
+< There is a fly on your nose. >
+ ------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
