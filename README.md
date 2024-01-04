@@ -4,9 +4,13 @@
 
 <!--START_SECTION:cowsay-->
 ```
- ____________________________
-< You will soon forget this. >
- ----------------------------
+ _______________________________________
+/ You never have to change anything you \
+| got up in the middle of the night to  |
+| write.                                |
+|                                       |
+\ -- Saul Bellow                        /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
