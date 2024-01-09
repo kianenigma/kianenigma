@@ -4,13 +4,11 @@
 
 <!--START_SECTION:cowsay-->
 ```
- _______________________________________
-/ Grief can take care of itself; but to \
-| get the full value of a joy you must  |
-| have somebody to divide it with.      |
-|                                       |
-\ -- Mark Twain                         /
- ---------------------------------------
+ ________________________________________
+/ Q: Why do firemen wear red suspenders? \
+| A: To conform with departmental        |
+\ regulations concerning uniform dress.  /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
