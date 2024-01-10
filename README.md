@@ -5,9 +5,8 @@
 <!--START_SECTION:cowsay-->
 ```
  ________________________________________
-/ Q: Why do firemen wear red suspenders? \
-| A: To conform with departmental        |
-\ regulations concerning uniform dress.  /
+/ You possess a mind not merely twisted, \
+\ but actually sprained.                 /
  ----------------------------------------
         \   ^__^
          \  (oo)\_______
