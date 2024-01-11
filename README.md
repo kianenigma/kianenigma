@@ -4,10 +4,10 @@
 
 <!--START_SECTION:cowsay-->
 ```
- ________________________________________
-/ You possess a mind not merely twisted, \
-\ but actually sprained.                 /
- ----------------------------------------
+ _______________________________________
+/ Q: Why don't lawyers go to the beach? \
+\ A: The cats keep trying to bury them. /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
