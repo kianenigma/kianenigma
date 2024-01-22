@@ -5,8 +5,8 @@
 <!--START_SECTION:cowsay-->
 ```
  _________________________________________
-/ Never commit yourself! Let someone else \
-\ commit you.                             /
+/ Give your very best today. Heaven knows \
+\ it's little enough.                     /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
