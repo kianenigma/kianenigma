@@ -4,10 +4,12 @@
 
 <!--START_SECTION:cowsay-->
 ```
- _________________________________________
-/ You are a very redundant person, that's \
-\ what kind of person you are.            /
- -----------------------------------------
+ ____________________________________
+/ Suspicion always haunts the guilty \
+| mind.                              |
+|                                    |
+\ -- Wm. Shakespeare                 /
+ ------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
