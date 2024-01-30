@@ -4,11 +4,10 @@
 
 <!--START_SECTION:cowsay-->
 ```
- ________________________________________
-/ You can do very well in speculation    \
-| where land or anything to do with dirt |
-\ is concerned.                          /
- ----------------------------------------
+ _________________________________________
+/ Q: What's yellow, and equivalent to the \
+\ Axiom of Choice? A: Zorn's Lemon.       /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
