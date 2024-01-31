@@ -5,8 +5,9 @@
 <!--START_SECTION:cowsay-->
 ```
  _________________________________________
-/ Q: What's yellow, and equivalent to the \
-\ Axiom of Choice? A: Zorn's Lemon.       /
+/ You will lose your present job and have \
+| to become a door to door mayonnaise     |
+\ salesman.                               /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
