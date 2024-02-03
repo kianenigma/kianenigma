@@ -4,10 +4,10 @@
 
 <!--START_SECTION:cowsay-->
 ```
- _______________________________________
-/ If you sow your wild oats, hope for a \
-\ crop failure.                         /
- ---------------------------------------
+ _________________________________________
+/ People are beginning to notice you. Try \
+\ dressing before you leave the house.    /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
