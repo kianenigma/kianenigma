@@ -4,10 +4,10 @@
 
 <!--START_SECTION:cowsay-->
 ```
- _________________________________________
-/ People are beginning to notice you. Try \
-\ dressing before you leave the house.    /
- -----------------------------------------
+ ________________________________________
+/ Q: How was Thomas J. Watson buried? A: \
+\ 9 edge down.                           /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
