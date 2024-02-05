@@ -4,10 +4,17 @@
 
 <!--START_SECTION:cowsay-->
 ```
- ________________________________________
-/ Q: How was Thomas J. Watson buried? A: \
-\ 9 edge down.                           /
- ----------------------------------------
+ ________________________________
+/ To be or not to be.            \
+|                                |
+| -- Shakespeare To do is to be. |
+|                                |
+| -- Nietzsche To be is to do.   |
+|                                |
+| -- Sartre Do be do be do.      |
+|                                |
+\ -- Sinatra                     /
+ --------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
