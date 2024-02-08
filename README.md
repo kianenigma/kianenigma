@@ -4,15 +4,13 @@
 
 <!--START_SECTION:cowsay-->
 ```
- _____________________________________
-/ Remark of Dr. Baldwin's concerning  \
-| upstarts: We don't care to eat      |
-| toadstools that think they are      |
-| truffles.                           |
-|                                     |
-| -- Mark Twain, "Pudd'nhead Wilson's |
-\ Calendar"                           /
- -------------------------------------
+ ________________________________________
+/ Reader, suppose you were an idiot. And \
+| suppose you were a member of Congress. |
+| But I repeat myself.                   |
+|                                        |
+\ -- Mark Twain                          /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
