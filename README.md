@@ -4,13 +4,10 @@
 
 <!--START_SECTION:cowsay-->
 ```
- ________________________________________
-/ Reader, suppose you were an idiot. And \
-| suppose you were a member of Congress. |
-| But I repeat myself.                   |
-|                                        |
-\ -- Mark Twain                          /
- ----------------------------------------
+ _______________________________________
+/ You'll be called to a post requiring  \
+\ ability in handling groups of people. /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
