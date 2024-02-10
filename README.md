@@ -4,10 +4,12 @@
 
 <!--START_SECTION:cowsay-->
 ```
- _______________________________________
-/ You'll be called to a post requiring  \
-\ ability in handling groups of people. /
- ---------------------------------------
+ ________________________________
+/ She is not refined. She is not \
+| unrefined. She keeps a parrot. |
+|                                |
+\ -- Mark Twain                  /
+ --------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
