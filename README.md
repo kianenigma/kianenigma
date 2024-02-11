@@ -4,12 +4,10 @@
 
 <!--START_SECTION:cowsay-->
 ```
- ________________________________
-/ She is not refined. She is not \
-| unrefined. She keeps a parrot. |
-|                                |
-\ -- Mark Twain                  /
- --------------------------------
+ _____________________________________
+/ Chicken Little only has to be right \
+\ once.                               /
+ -------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
