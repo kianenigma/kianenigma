@@ -5,8 +5,8 @@
 <!--START_SECTION:cowsay-->
 ```
  _______________________________________
-/ You will feel hungry again in another \
-\ hour.                                 /
+/ You will give someone a piece of your \
+\ mind, which you can ill afford.       /
  ---------------------------------------
         \   ^__^
          \  (oo)\_______
