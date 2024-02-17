@@ -4,10 +4,12 @@
 
 <!--START_SECTION:cowsay-->
 ```
- _______________________________________
-/ You will give someone a piece of your \
-\ mind, which you can ill afford.       /
- ---------------------------------------
+ ___________________________________
+/ Repartee is something we think of \
+| twenty-four hours too late.       |
+|                                   |
+\ -- Mark Twain                     /
+ -----------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
