@@ -4,12 +4,9 @@
 
 <!--START_SECTION:cowsay-->
 ```
- ___________________________________
-/ Repartee is something we think of \
-| twenty-four hours too late.       |
-|                                   |
-\ -- Mark Twain                     /
- -----------------------------------
+ _____________________________________
+< Excellent day to have a rotten day. >
+ -------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
