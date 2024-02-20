@@ -4,10 +4,11 @@
 
 <!--START_SECTION:cowsay-->
 ```
- _______________________________________
-/ Today is the last day of your life so \
-\ far.                                  /
- ---------------------------------------
+ ______________________________________
+/ You're definitely on their list. The \
+| question to ask next is what list it |
+\ is.                                  /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
