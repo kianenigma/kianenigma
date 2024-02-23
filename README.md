@@ -4,10 +4,10 @@
 
 <!--START_SECTION:cowsay-->
 ```
- _____________________________________
-/ You will be the victim of a bizarre \
-\ joke.                               /
- -------------------------------------
+ _______________________________________
+/ Good news. Ten weeks from Friday will \
+\ be a pretty good day.                 /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
