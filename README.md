@@ -4,10 +4,13 @@
 
 <!--START_SECTION:cowsay-->
 ```
- _______________________________________
-/ Good news. Ten weeks from Friday will \
-\ be a pretty good day.                 /
- ---------------------------------------
+ _________________________________________
+/ He that is giddy thinks the world turns \
+| round.                                  |
+|                                         |
+| -- William Shakespeare, "The Taming of  |
+\ the Shrew"                              /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
