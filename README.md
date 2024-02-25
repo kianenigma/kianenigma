@@ -4,13 +4,10 @@
 
 <!--START_SECTION:cowsay-->
 ```
- _________________________________________
-/ He that is giddy thinks the world turns \
-| round.                                  |
-|                                         |
-| -- William Shakespeare, "The Taming of  |
-\ the Shrew"                              /
- -----------------------------------------
+ _______________________________________
+/ You can rent this space for only $5 a \
+\ week.                                 /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
