@@ -4,10 +4,16 @@
 
 <!--START_SECTION:cowsay-->
 ```
- ______________________________________
-/ You will receive a legacy which will \
-\ place you above want.                /
- --------------------------------------
+ _______________________________________
+/ October 12, the Discovery.            \
+|                                       |
+| It was wonderful to find America, but |
+| it would have been more wonderful to  |
+| miss it.                              |
+|                                       |
+| -- Mark Twain, "Pudd'nhead Wilson's   |
+\ Calendar"                             /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
