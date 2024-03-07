@@ -4,11 +4,16 @@
 
 <!--START_SECTION:cowsay-->
 ```
- ______________________________________
-/ Good night to spend with family, but \
-| avoid arguments with your mate's new |
-\ lover.                               /
- --------------------------------------
+ _________________________________________
+/ In India, "cold weather" is merely a    \
+| conventional phrase and has come into   |
+| use through the necessity of having     |
+| some way to distinguish between weather |
+| which will melt a brass door-knob and   |
+| weather which will only make it mushy.  |
+|                                         |
+\ -- Mark Twain                           /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
