@@ -5,9 +5,8 @@
 <!--START_SECTION:cowsay-->
 ```
  ______________________________________
-/ Good night to spend with family, but \
-| avoid arguments with your mate's new |
-\ lover.                               /
+/ You could live a better life, if you \
+\ had a better mind and a better body. /
  --------------------------------------
         \   ^__^
          \  (oo)\_______
