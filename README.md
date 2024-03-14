@@ -4,13 +4,10 @@
 
 <!--START_SECTION:cowsay-->
 ```
- _______________________________________
-/ "Life, loathe it or ignore it, you    \
-| can't like it."                       |
-|                                       |
-| -- Marvin, "Hitchhiker's Guide to the |
-\ Galaxy"                               /
- ---------------------------------------
+ ________________________________________
+/ Tonight you will pay the wages of sin; \
+\ Don't forget to leave a tip.           /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
