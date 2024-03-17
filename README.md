@@ -4,9 +4,11 @@
 
 <!--START_SECTION:cowsay-->
 ```
- _______________________________________
-< Be careful! UGLY strikes 9 out of 10! >
- ---------------------------------------
+ _____________________________________
+/ You have the body of a 19 year old. \
+| Please return it before it gets     |
+\ wrinkled.                           /
+ -------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
