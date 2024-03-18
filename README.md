@@ -4,11 +4,9 @@
 
 <!--START_SECTION:cowsay-->
 ```
- _____________________________________
-/ You have the body of a 19 year old. \
-| Please return it before it gets     |
-\ wrinkled.                           /
- -------------------------------------
+ ________________________________________
+< Your present plans will be successful. >
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
