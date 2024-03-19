@@ -5,7 +5,11 @@
 <!--START_SECTION:cowsay-->
 ```
  ________________________________________
-< Your present plans will be successful. >
+/ Q: How do you play religious roulette? \
+| A: You stand around in a circle and    |
+| blaspheme and see who gets             |
+|                                        |
+\ struck by lightning first.             /
  ----------------------------------------
         \   ^__^
          \  (oo)\_______
