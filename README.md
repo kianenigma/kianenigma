@@ -4,9 +4,10 @@
 
 <!--START_SECTION:cowsay-->
 ```
- ________________________________________
-< You have a truly strong individuality. >
- ----------------------------------------
+ _____________________________________
+/ Don't you feel more like you do now \
+\ than you did when you came in?      /
+ -------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
