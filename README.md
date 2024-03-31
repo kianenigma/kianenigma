@@ -4,10 +4,10 @@
 
 <!--START_SECTION:cowsay-->
 ```
- _____________________________________
-/ Don't you feel more like you do now \
-\ than you did when you came in?      /
- -------------------------------------
+ ______________________________________
+/ Never be led astray onto the path of \
+\ virtue.                              /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
