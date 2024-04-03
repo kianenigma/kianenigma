@@ -5,9 +5,8 @@
 <!--START_SECTION:cowsay-->
 ```
  _________________________________________
-/ Q: What's the difference between an     \
-| Irish wedding and an Irish wake? A: One |
-\ less drunk.                             /
+/ Q: What's yellow, and equivalent to the \
+\ Axiom of Choice? A: Zorn's Lemon.       /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
