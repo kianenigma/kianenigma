@@ -4,10 +4,10 @@
 
 <!--START_SECTION:cowsay-->
 ```
- _________________________________________
-/ Q: What's yellow, and equivalent to the \
-\ Axiom of Choice? A: Zorn's Lemon.       /
- -----------------------------------------
+ ________________________________
+/ Your business will assume vast \
+\ proportions.                   /
+ --------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
