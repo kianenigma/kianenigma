@@ -4,10 +4,10 @@
 
 <!--START_SECTION:cowsay-->
 ```
- ________________________________
-/ Your business will assume vast \
-\ proportions.                   /
- --------------------------------
+ _____________________________________
+/ A visit to a fresh place will bring \
+\ strange work.                       /
+ -------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
