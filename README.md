@@ -4,10 +4,10 @@
 
 <!--START_SECTION:cowsay-->
 ```
- _____________________________________
-/ A visit to a fresh place will bring \
-\ strange work.                       /
- -------------------------------------
+ ___________________________________
+/ You will not be elected to public \
+\ office this year.                 /
+ -----------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
