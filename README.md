@@ -4,10 +4,13 @@
 
 <!--START_SECTION:cowsay-->
 ```
- ___________________________________
-/ You will not be elected to public \
-\ office this year.                 /
- -----------------------------------
+ _____________________________________
+/ When angry, count four; when very   \
+| angry, swear.                       |
+|                                     |
+| -- Mark Twain, "Pudd'nhead Wilson's |
+\ Calendar"                           /
+ -------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
