@@ -5,11 +5,10 @@
 <!--START_SECTION:cowsay-->
 ```
  _____________________________________
-/ When angry, count four; when very   \
-| angry, swear.                       |
+/ Truth is the most valuable thing we \
+| have -- so let us economize it.     |
 |                                     |
-| -- Mark Twain, "Pudd'nhead Wilson's |
-\ Calendar"                           /
+\ -- Mark Twain                       /
  -------------------------------------
         \   ^__^
          \  (oo)\_______
