@@ -4,12 +4,10 @@
 
 <!--START_SECTION:cowsay-->
 ```
- _____________________________________
-/ Truth is the most valuable thing we \
-| have -- so let us economize it.     |
-|                                     |
-\ -- Mark Twain                       /
- -------------------------------------
+ _________________________________________
+/ Your fly might be open (but don't check \
+\ it just now).                           /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
