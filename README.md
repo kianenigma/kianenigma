@@ -4,11 +4,12 @@
 
 <!--START_SECTION:cowsay-->
 ```
- ______________________________________
-/ Q: How did you get into artificial   \
-| intelligence? A: Seemed logical -- I |
-\ didn't have any real intelligence.   /
- --------------------------------------
+ __________________________________
+/ Wagner's music is better than it \
+| sounds.                          |
+|                                  |
+\ -- Mark Twain                    /
+ ----------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
