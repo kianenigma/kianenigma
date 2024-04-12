@@ -4,12 +4,10 @@
 
 <!--START_SECTION:cowsay-->
 ```
- __________________________________
-/ Wagner's music is better than it \
-| sounds.                          |
-|                                  |
-\ -- Mark Twain                    /
- ----------------------------------
+ ________________________________________
+/ Q: Why did the chicken cross the road? \
+\ A: He was giving it last rites.        /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
