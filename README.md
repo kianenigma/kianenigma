@@ -4,12 +4,10 @@
 
 <!--START_SECTION:cowsay-->
 ```
- _________________________________________
-/ I think we are in Rats' Alley where the \
-| dead men lost their bones.              |
-|                                         |
-\ -- T.S. Eliot                           /
- -----------------------------------------
+ ______________________________________
+/ You teach best what you most need to \
+\ learn.                               /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
