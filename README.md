@@ -4,10 +4,13 @@
 
 <!--START_SECTION:cowsay-->
 ```
- ______________________________________
-/ You teach best what you most need to \
-\ learn.                               /
- --------------------------------------
+ _________________________________________
+/ This night methinks is but the daylight \
+| sick.                                   |
+|                                         |
+| -- William Shakespeare, "The Merchant   |
+\ of Venice"                              /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
