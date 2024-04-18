@@ -4,13 +4,12 @@
 
 <!--START_SECTION:cowsay-->
 ```
- _________________________________________
-/ This night methinks is but the daylight \
-| sick.                                   |
-|                                         |
-| -- William Shakespeare, "The Merchant   |
-\ of Venice"                              /
- -----------------------------------------
+ ________________________________________
+/ FORTUNE PROVIDES QUESTIONS FOR THE     \
+| GREAT ANSWERS: #4 A: Go west, young    |
+| man, go west! Q: What do wabbits do    |
+\ when they get tiwed of wunning awound? /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
