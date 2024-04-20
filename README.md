@@ -5,8 +5,9 @@
 <!--START_SECTION:cowsay-->
 ```
  ________________________________________
-/ The very ink with which all history is \
-| written is merely fluid prejudice.     |
+/ No group of professionals meets except \
+| to conspire against the public at      |
+| large.                                 |
 |                                        |
 \ -- Mark Twain                          /
  ----------------------------------------
