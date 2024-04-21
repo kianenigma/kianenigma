@@ -4,13 +4,11 @@
 
 <!--START_SECTION:cowsay-->
 ```
- ________________________________________
-/ No group of professionals meets except \
-| to conspire against the public at      |
-| large.                                 |
-|                                        |
-\ -- Mark Twain                          /
- ----------------------------------------
+ _________________________________________
+/ This was the most unkindest cut of all. \
+|                                         |
+\ -- William Shakespeare, "Julius Caesar" /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
