@@ -4,11 +4,9 @@
 
 <!--START_SECTION:cowsay-->
 ```
- _________________________________________
-/ This was the most unkindest cut of all. \
-|                                         |
-\ -- William Shakespeare, "Julius Caesar" /
- -----------------------------------------
+ _______________________________________
+< Your domestic life may be harmonious. >
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
