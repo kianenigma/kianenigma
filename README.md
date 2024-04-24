@@ -4,10 +4,10 @@
 
 <!--START_SECTION:cowsay-->
 ```
- ______________________________________
-/ Q: What's a light-year? A: One-third \
-\ less calories than a regular year.   /
- --------------------------------------
+ _____________________________________
+/ Don't you feel more like you do now \
+\ than you did when you came in?      /
+ -------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
