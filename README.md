@@ -5,8 +5,8 @@
 <!--START_SECTION:cowsay-->
 ```
  _____________________________________
-/ Don't you feel more like you do now \
-\ than you did when you came in?      /
+/ Things will be bright in P.M. A cop \
+\ will shine a light in your face.    /
  -------------------------------------
         \   ^__^
          \  (oo)\_______
