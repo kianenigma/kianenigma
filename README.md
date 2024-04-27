@@ -5,10 +5,9 @@
 <!--START_SECTION:cowsay-->
 ```
  ____________________________________
-/ Suspicion always haunts the guilty \
-| mind.                              |
-|                                    |
-\ -- Wm. Shakespeare                 /
+/ You may be gone tomorrow, but that \
+| doesn't mean that you weren't here |
+\ today.                             /
  ------------------------------------
         \   ^__^
          \  (oo)\_______
