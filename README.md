@@ -4,11 +4,11 @@
 
 <!--START_SECTION:cowsay-->
 ```
- ____________________________________
-/ You may be gone tomorrow, but that \
-| doesn't mean that you weren't here |
-\ today.                             /
- ------------------------------------
+ _________________________________________
+/ While you recently had your problems on \
+| the run, they've regrouped and are      |
+\ making another attack.                  /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
