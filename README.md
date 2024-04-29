@@ -4,11 +4,13 @@
 
 <!--START_SECTION:cowsay-->
 ```
- _________________________________________
-/ While you recently had your problems on \
-| the run, they've regrouped and are      |
-\ making another attack.                  /
- -----------------------------------------
+ _____________________________________
+/ Many a writer seems to think he is  \
+| never profound except when he can't |
+| understand his own meaning.         |
+|                                     |
+\ -- George D. Prentice               /
+ -------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
