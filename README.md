@@ -5,8 +5,12 @@
 <!--START_SECTION:cowsay-->
 ```
  _______________________________________
-/ You have an ability to sense and know \
-\ higher truth.                         /
+/ So so is good, very good, very        \
+| excellent good: and yet it is not; it |
+| is but so so.                         |
+|                                       |
+| -- William Shakespeare, "As You Like  |
+\ It"                                   /
  ---------------------------------------
         \   ^__^
          \  (oo)\_______
