@@ -5,12 +5,11 @@
 <!--START_SECTION:cowsay-->
 ```
  _______________________________________
-/ So so is good, very good, very        \
-| excellent good: and yet it is not; it |
-| is but so so.                         |
+/ Q: What do you call the money you pay \
+| to the government when                |
 |                                       |
-| -- William Shakespeare, "As You Like  |
-\ It"                                   /
+| you ride into the country on the back |
+\ of an elephant? A: A howdah duty.     /
  ---------------------------------------
         \   ^__^
          \  (oo)\_______
