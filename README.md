@@ -4,11 +4,10 @@
 
 <!--START_SECTION:cowsay-->
 ```
- _________________________________________
-/ You may be infinitely smaller than some \
-| things, but you're infinitely larger    |
-\ than others.                            /
- -----------------------------------------
+ _____________________________________
+/ You will be the victim of a bizarre \
+\ joke.                               /
+ -------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
