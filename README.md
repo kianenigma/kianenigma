@@ -4,10 +4,12 @@
 
 <!--START_SECTION:cowsay-->
 ```
- _____________________________________
-/ You will be the victim of a bizarre \
-\ joke.                               /
- -------------------------------------
+ _______________________________
+/ The surest protection against \
+| temptation is cowardice.      |
+|                               |
+\ -- Mark Twain                 /
+ -------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
