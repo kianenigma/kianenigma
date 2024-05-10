@@ -4,12 +4,9 @@
 
 <!--START_SECTION:cowsay-->
 ```
- _______________________________
-/ The surest protection against \
-| temptation is cowardice.      |
-|                               |
-\ -- Mark Twain                 /
- -------------------------------
+ _________________________________________
+< Do something unusual today. Pay a bill. >
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
