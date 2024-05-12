@@ -4,11 +4,13 @@
 
 <!--START_SECTION:cowsay-->
 ```
- ________________________________
-/ When in doubt, tell the truth. \
-|                                |
-\ -- Mark Twain                  /
- --------------------------------
+ _______________________________
+/ Civilization is the limitless \
+| multiplication of unnecessary |
+| necessities.                  |
+|                               |
+\ -- Mark Twain                 /
+ -------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
