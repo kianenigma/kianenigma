@@ -5,12 +5,8 @@
 <!--START_SECTION:cowsay-->
 ```
  _______________________________________
-/ The difference between the right word \
-| and the almost right word is the      |
-| difference between lightning and the  |
-| lightning bug.                        |
-|                                       |
-\ -- Mark Twain                         /
+/ Many changes of mind and mood; do not \
+\ hesitate too long.                    /
  ---------------------------------------
         \   ^__^
          \  (oo)\_______
