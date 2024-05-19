@@ -5,10 +5,8 @@
 <!--START_SECTION:cowsay-->
 ```
  ________________________________________
-/ There is no distinctly native American \
-| criminal class except Congress.        |
-|                                        |
-\ -- Mark Twain                          /
+/ You will become rich and famous unless \
+\ you don't.                             /
  ----------------------------------------
         \   ^__^
          \  (oo)\_______
