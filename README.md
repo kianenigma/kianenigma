@@ -5,13 +5,10 @@
 <!--START_SECTION:cowsay-->
 ```
  _________________________________________
-/ "I understand this is your first dead   \
-| client," Sabian was saying. The         |
-| absurdity of the statement made me want |
-| to laugh but they don't call me Deadpan |
-| Allie and lie.                          |
+/ Clothes make the man. Naked people have \
+| little or no influence on society.      |
 |                                         |
-\ -- Pat Cadigan, "Mindplayers"           /
+\ -- Mark Twain                           /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
