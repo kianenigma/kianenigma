@@ -4,12 +4,9 @@
 
 <!--START_SECTION:cowsay-->
 ```
- _________________________________________
-/ Clothes make the man. Naked people have \
-| little or no influence on society.      |
-|                                         |
-\ -- Mark Twain                           /
- -----------------------------------------
+ ________________________________________
+< Your supervisor is thinking about you. >
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
