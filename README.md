@@ -5,7 +5,7 @@
 <!--START_SECTION:cowsay-->
 ```
  ________________________________________
-< Your supervisor is thinking about you. >
+< You have taken yourself too seriously. >
  ----------------------------------------
         \   ^__^
          \  (oo)\_______
