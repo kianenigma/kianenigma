@@ -5,7 +5,8 @@
 <!--START_SECTION:cowsay-->
 ```
  ________________________________________
-< You have a truly strong individuality. >
+/ Q: Why did the tachyon cross the road? \
+\ A: Because it was on the other side.   /
  ----------------------------------------
         \   ^__^
          \  (oo)\_______
