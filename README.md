@@ -5,19 +5,12 @@
 <!--START_SECTION:cowsay-->
 ```
  _________________________________________
-/ Awash with unfocused desire, Everett    \
-| twisted the lobe of his one remaining   |
-| ear and felt the presence of somebody   |
-| else behind him, which caused terror to |
-| push through his nervous system like a  |
-| flash flood roaring down the mid-fork   |
-| of the Feather River before the         |
-| completion of the Oroville Dam in 1959. |
+/ There is an old time toast which is     \
+| golden for its beauty. "When you ascend |
+| the hill of prosperity may you not meet |
+| a friend."                              |
 |                                         |
-| -- Grand Panjandrum's Special Award,    |
-| 1984 Bulwer-Lytton                      |
-|                                         |
-\ bad fiction contest.                    /
+\ -- Mark Twain                           /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
