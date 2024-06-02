@@ -4,9 +4,14 @@
 
 <!--START_SECTION:cowsay-->
 ```
- _____________________________________
-< Your step will soil many countries. >
- -------------------------------------
+ ________________________________________
+/ I don't know half of you half as well  \
+| as I should like; and I like less than |
+| half of you half as well as you        |
+| deserve.                               |
+|                                        |
+\ -- J. R. R. Tolkien                    /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
