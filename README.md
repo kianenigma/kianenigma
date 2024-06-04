@@ -4,10 +4,9 @@
 
 <!--START_SECTION:cowsay-->
 ```
- _________________________________________
-/ Are you ever going to do the dishes? Or \
-\ will you change your major to biology?  /
- -----------------------------------------
+ _____________________________________
+< You will be divorced within a year. >
+ -------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
