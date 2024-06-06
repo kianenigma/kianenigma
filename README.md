@@ -5,8 +5,9 @@
 <!--START_SECTION:cowsay-->
 ```
  _________________________________________
-/ Tuesday is the Wednesday of the rest of \
-\ your life.                              /
+/ The Public is merely a multiplied "me." \
+|                                         |
+\ -- Mark Twain                           /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
