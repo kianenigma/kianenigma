@@ -4,11 +4,12 @@
 
 <!--START_SECTION:cowsay-->
 ```
- _________________________________________
-/ The Public is merely a multiplied "me." \
-|                                         |
-\ -- Mark Twain                           /
- -----------------------------------------
+ ______________________________________
+/ O, what a tangled web we weave, When \
+| first we practice to deceive.        |
+|                                      |
+\ -- Sir Walter Scott, "Marmion"       /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
