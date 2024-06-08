@@ -5,10 +5,8 @@
 <!--START_SECTION:cowsay-->
 ```
  ______________________________________
-/ O, what a tangled web we weave, When \
-| first we practice to deceive.        |
-|                                      |
-\ -- Sir Walter Scott, "Marmion"       /
+/ Q: What's a light-year? A: One-third \
+\ less calories than a regular year.   /
  --------------------------------------
         \   ^__^
          \  (oo)\_______
