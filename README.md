@@ -4,10 +4,12 @@
 
 <!--START_SECTION:cowsay-->
 ```
- ______________________________________
-/ Q: What's a light-year? A: One-third \
-\ less calories than a regular year.   /
- --------------------------------------
+ ________________________________________
+/ It usually takes more than three weeks \
+| to prepare a good impromptu speech.    |
+|                                        |
+\ -- Mark Twain                          /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
