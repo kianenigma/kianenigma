@@ -4,10 +4,11 @@
 
 <!--START_SECTION:cowsay-->
 ```
- _________________________________________
-/ A vivid and creative mind characterizes \
-\ you.                                    /
- -----------------------------------------
+ _____________________________________
+/ Q: What do you call a half-dozen    \
+| Indians with Asian flu? A: Six sick |
+\ Sikhs (sic).                        /
+ -------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
