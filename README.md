@@ -4,11 +4,11 @@
 
 <!--START_SECTION:cowsay-->
 ```
- _____________________________________
-/ Q: What do you call a half-dozen    \
-| Indians with Asian flu? A: Six sick |
-\ Sikhs (sic).                        /
- -------------------------------------
+ ________________________________________
+/ Q: Why did the lone ranger kill Tonto? \
+| A: He found out what "kimosabe" really |
+\ means.                                 /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
