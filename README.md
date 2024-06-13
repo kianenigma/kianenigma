@@ -4,11 +4,12 @@
 
 <!--START_SECTION:cowsay-->
 ```
- ________________________________________
-/ Q: Why did the lone ranger kill Tonto? \
-| A: He found out what "kimosabe" really |
-\ means.                                 /
- ----------------------------------------
+ _____________________________________
+/ It's a very *__UN*lucky week in which \
+| to be took dead.                    |
+|                                     |
+\ -- Churchy La Femme                 /
+ -------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
