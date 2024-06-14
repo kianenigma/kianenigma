@@ -4,12 +4,10 @@
 
 <!--START_SECTION:cowsay-->
 ```
- _____________________________________
-/ It's a very *__UN*lucky week in which \
-| to be took dead.                    |
-|                                     |
-\ -- Churchy La Femme                 /
- -------------------------------------
+ _______________________________________
+/ You will reach the highest possible   \
+\ point in your business or profession. /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
