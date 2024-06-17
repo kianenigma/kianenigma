@@ -4,9 +4,12 @@
 
 <!--START_SECTION:cowsay-->
 ```
- _____________________________
-< Do not overtax your powers. >
- -----------------------------
+ _______________________________________
+/ Wrinkles should merely indicate where \
+| smiles have been.                     |
+|                                       |
+\ -- Mark Twain                         /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
