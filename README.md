@@ -4,12 +4,9 @@
 
 <!--START_SECTION:cowsay-->
 ```
- _______________________________________
-/ Wrinkles should merely indicate where \
-| smiles have been.                     |
-|                                       |
-\ -- Mark Twain                         /
- ---------------------------------------
+ ________________________________
+< It's all in the mind, ya know. >
+ --------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
