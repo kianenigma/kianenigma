@@ -5,8 +5,8 @@
 <!--START_SECTION:cowsay-->
 ```
  _______________________________________
-/ You will feel hungry again in another \
-\ hour.                                 /
+/ Your society will be sought by people \
+\ of taste and refinement.              /
  ---------------------------------------
         \   ^__^
          \  (oo)\_______
