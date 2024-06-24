@@ -4,10 +4,10 @@
 
 <!--START_SECTION:cowsay-->
 ```
- _______________________________________
-/ Your society will be sought by people \
-\ of taste and refinement.              /
- ---------------------------------------
+ ______________________________________
+/ Expect the worst, it's the least you \
+\ can do.                              /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
