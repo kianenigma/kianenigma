@@ -4,14 +4,9 @@
 
 <!--START_SECTION:cowsay-->
 ```
- ________________________________________
-/ Q: Why did the chicken cross the road? \
-| A: To see his friend Gregory peck.     |
-|                                        |
-| Q: Why did the chicken cross the       |
-| playground? A: To get to the other     |
-\ slide.                                 /
- ----------------------------------------
+ ______________________________________
+< Stay away from flying saucers today. >
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
