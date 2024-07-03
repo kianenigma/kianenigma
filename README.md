@@ -4,10 +4,10 @@
 
 <!--START_SECTION:cowsay-->
 ```
- ___________________________________
-/ You have literary talent that you \
-\ should take pains to develop.     /
- -----------------------------------
+ ________________________________________
+/ You work very hard. Don't try to think \
+\ as well.                               /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
