@@ -4,10 +4,11 @@
 
 <!--START_SECTION:cowsay-->
 ```
- ________________________________________
-/ You work very hard. Don't try to think \
-\ as well.                               /
- ----------------------------------------
+ ____________________________________
+/ Small things make base men proud.  \
+|                                    |
+\ -- William Shakespeare, "Henry VI" /
+ ------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
