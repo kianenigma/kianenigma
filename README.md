@@ -4,11 +4,10 @@
 
 <!--START_SECTION:cowsay-->
 ```
- ____________________________________
-/ Small things make base men proud.  \
-|                                    |
-\ -- William Shakespeare, "Henry VI" /
- ------------------------------------
+ ______________________________________
+/ Another good night not to sleep in a \
+\ eucalyptus tree.                     /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
