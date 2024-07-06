@@ -4,10 +4,10 @@
 
 <!--START_SECTION:cowsay-->
 ```
- ______________________________________
-/ Another good night not to sleep in a \
-\ eucalyptus tree.                     /
- --------------------------------------
+ __________________________________
+/ Break into jail and claim police \
+\ brutality.                       /
+ ----------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
