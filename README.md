@@ -4,10 +4,10 @@
 
 <!--START_SECTION:cowsay-->
 ```
- __________________________________
-/ Break into jail and claim police \
-\ brutality.                       /
- ----------------------------------
+ ________________________________________
+/ Everything that you know is wrong, but \
+\ you can be straightened out.           /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
