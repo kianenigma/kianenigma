@@ -4,12 +4,11 @@
 
 <!--START_SECTION:cowsay-->
 ```
- _______________________________________
-/ Q: How many IBM CPU's does it take to \
-| do a logical right shift? A: 33. 1 to |
-| hold the bits and 32 to push the      |
-\ register.                             /
- ---------------------------------------
+ ________________________________________
+/ Just because the message may never be  \
+| received does not mean it is not worth |
+\ sending.                               /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
