@@ -4,11 +4,12 @@
 
 <!--START_SECTION:cowsay-->
 ```
- ________________________________________
-/ Just because the message may never be  \
-| received does not mean it is not worth |
-\ sending.                               /
- ----------------------------------------
+ _________________________________________
+/ The human race has one really effective \
+| weapon, and that is laughter.           |
+|                                         |
+\ -- Mark Twain                           /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
