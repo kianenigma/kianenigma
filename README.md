@@ -4,13 +4,12 @@
 
 <!--START_SECTION:cowsay-->
 ```
- _______________________________________
-/ Q: What do you call the money you pay \
-| to the government when                |
-|                                       |
-| you ride into the country on the back |
-\ of an elephant? A: A howdah duty.     /
- ---------------------------------------
+ ________________________________________
+/ There is a great discovery still to be \
+| made in Literature: that of paying     |
+| literary men by the quantity they do   |
+\ NOT write.                             /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
