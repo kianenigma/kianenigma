@@ -4,12 +4,10 @@
 
 <!--START_SECTION:cowsay-->
 ```
- ________________________________________
-/ There is a great discovery still to be \
-| made in Literature: that of paying     |
-| literary men by the quantity they do   |
-\ NOT write.                             /
- ----------------------------------------
+ _______________________________________
+/ Excellent day for putting Slinkies on \
+\ an escalator.                         /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
