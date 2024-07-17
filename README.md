@@ -5,8 +5,12 @@
 <!--START_SECTION:cowsay-->
 ```
  _______________________________________
-/ Excellent day for putting Slinkies on \
-\ an escalator.                         /
+/ The difference between the right word \
+| and the almost right word is the      |
+| difference between lightning and the  |
+| lightning bug.                        |
+|                                       |
+\ -- Mark Twain                         /
  ---------------------------------------
         \   ^__^
          \  (oo)\_______
