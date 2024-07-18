@@ -4,14 +4,12 @@
 
 <!--START_SECTION:cowsay-->
 ```
- _______________________________________
-/ The difference between the right word \
-| and the almost right word is the      |
-| difference between lightning and the  |
-| lightning bug.                        |
-|                                       |
-\ -- Mark Twain                         /
- ---------------------------------------
+ ____________________________________
+/ Tempt not a desperate man.         \
+|                                    |
+| -- William Shakespeare, "Romeo and |
+\ Juliet"                            /
+ ------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
