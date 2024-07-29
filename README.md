@@ -4,10 +4,11 @@
 
 <!--START_SECTION:cowsay-->
 ```
- ________________________________________
-/ You will be advanced socially, without \
-\ any special effort on your part.       /
- ----------------------------------------
+ ____________________________________
+/ Harp not on that string.           \
+|                                    |
+\ -- William Shakespeare, "Henry VI" /
+ ------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
