@@ -4,9 +4,14 @@
 
 <!--START_SECTION:cowsay-->
 ```
- _______________________________________
-< You will be awarded some great honor. >
- ---------------------------------------
+ ________________________________________
+/ My only love sprung from my only hate! \
+| Too early seen unknown, and known too  |
+| late!                                  |
+|                                        |
+| -- William Shakespeare, "Romeo and     |
+\ Juliet"                                /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
