@@ -5,12 +5,12 @@
 <!--START_SECTION:cowsay-->
 ```
  ________________________________________
-/ My only love sprung from my only hate! \
-| Too early seen unknown, and known too  |
-| late!                                  |
+/ Your manuscript is both good and       \
+| original, but the part that is good is |
+| not original and the part that is      |
+| original is not good.                  |
 |                                        |
-| -- William Shakespeare, "Romeo and     |
-\ Juliet"                                /
+\ -- Samuel Johnson                      /
  ----------------------------------------
         \   ^__^
          \  (oo)\_______
