@@ -4,12 +4,10 @@
 
 <!--START_SECTION:cowsay-->
 ```
- _________________________________________
-/ A light wife doth make a heavy husband. \
-|                                         |
-| -- Wm. Shakespeare, "The Merchant of    |
-\ Venice"                                 /
- -----------------------------------------
+ _______________________________________
+/ This will be a memorable month -- no  \
+\ matter how hard you try to forget it. /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
