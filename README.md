@@ -4,10 +4,13 @@
 
 <!--START_SECTION:cowsay-->
 ```
- _______________________________________
-/ Q: How do you save a drowning lawyer? \
-\ A: Throw him a rock.                  /
- ---------------------------------------
+ ____________________________________
+/ The last thing one knows in        \
+| constructing a work is what to put |
+| first.                             |
+|                                    |
+\ -- Blaise Pascal                   /
+ ------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
