@@ -4,9 +4,10 @@
 
 <!--START_SECTION:cowsay-->
 ```
- ___________________________________
-< You may be recognized soon. Hide. >
- -----------------------------------
+ _____________________________________
+/ Q: What is purple and conquered the \
+\ world? A: Alexander the Grape.      /
+ -------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
