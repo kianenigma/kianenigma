@@ -4,10 +4,11 @@
 
 <!--START_SECTION:cowsay-->
 ```
- _____________________________________
-/ Q: What is purple and conquered the \
-\ world? A: Alexander the Grape.      /
- -------------------------------------
+ _______________________________________
+/ You had some happiness once, but your \
+| parents moved away, and you had to    |
+\ leave it behind.                      /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
