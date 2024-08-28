@@ -4,10 +4,11 @@
 
 <!--START_SECTION:cowsay-->
 ```
- _________________________________________
-/ Q: What do you call a blind, deaf-mute, \
-\ quadraplegic Virginian? A: Trustworthy. /
- -----------------------------------------
+ ________________________________________
+/ Q: How many lawyers does it take to    \
+| change a light bulb? A: One. Only it's |
+\ his light bulb when he's done.         /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
