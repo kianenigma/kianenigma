@@ -4,10 +4,14 @@
 
 <!--START_SECTION:cowsay-->
 ```
- _____________________________________
-/ A visit to a fresh place will bring \
-\ strange work.                       /
- -------------------------------------
+ ________________________________________
+/ Why is it that we rejoice at a birth   \
+| and grieve at a funeral? It is because |
+| we are not the person involved.        |
+|                                        |
+| -- Mark Twain, "Pudd'nhead Wilson's    |
+\ Calendar"                              /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
