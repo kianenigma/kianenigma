@@ -4,14 +4,19 @@
 
 <!--START_SECTION:cowsay-->
 ```
- ________________________________________
-/ Why is it that we rejoice at a birth   \
-| and grieve at a funeral? It is because |
-| we are not the person involved.        |
-|                                        |
-| -- Mark Twain, "Pudd'nhead Wilson's    |
-\ Calendar"                              /
- ----------------------------------------
+ _________________________________________
+/ October.                                \
+|                                         |
+| This is one of the peculiarly dangerous |
+| months to speculate in stocks in.       |
+|                                         |
+| The others are July, January,           |
+| September, April, November, May, March, |
+| June, December, August, and February.   |
+|                                         |
+| -- Mark Twain, "Pudd'nhead Wilson's     |
+\ Calendar"                               /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
