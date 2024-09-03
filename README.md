@@ -4,10 +4,17 @@
 
 <!--START_SECTION:cowsay-->
 ```
- ________________________________________
-/ You will be Told about it Tomorrow. Go \
-\ Home and Prepare Thyself.              /
- ----------------------------------------
+ _________________________________________
+/ I got a hint of things to come when I   \
+| overheard my boss lamenting, 'The books |
+| are done and we still don't have an     |
+| author! I must sign someone today!      |
+|                                         |
+| -- Tamim Ansary, "Edutopia Magazine,    |
+| Issue 2, November 2004"                 |
+|                                         |
+\ on the topic of school textbooks        /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
