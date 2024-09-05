@@ -4,10 +4,10 @@
 
 <!--START_SECTION:cowsay-->
 ```
- ________________________________________
-/ Tonight you will pay the wages of sin; \
-\ Don't forget to leave a tip.           /
- ----------------------------------------
+ ______________________________________
+/ You will have good luck and overcome \
+\ many hardships.                      /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
