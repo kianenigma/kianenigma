@@ -5,7 +5,8 @@
 <!--START_SECTION:cowsay-->
 ```
  ______________________________________
-< You are fairminded, just and loving. >
+/ You need more time; and you probably \
+\ always will.                         /
  --------------------------------------
         \   ^__^
          \  (oo)\_______
