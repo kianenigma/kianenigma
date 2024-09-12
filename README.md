@@ -4,10 +4,10 @@
 
 <!--START_SECTION:cowsay-->
 ```
- ____________________________________
-/ You will gain money by a fattening \
-\ action.                            /
- ------------------------------------
+ ________________________________________
+/ You will be married within a year, and \
+\ divorced within two.                   /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
