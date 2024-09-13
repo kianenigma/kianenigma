@@ -4,10 +4,10 @@
 
 <!--START_SECTION:cowsay-->
 ```
- ________________________________________
-/ You will be married within a year, and \
-\ divorced within two.                   /
- ----------------------------------------
+ _________________________________________
+/ You will be traveling and coming into a \
+\ fortune.                                /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
