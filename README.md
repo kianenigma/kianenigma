@@ -4,9 +4,12 @@
 
 <!--START_SECTION:cowsay-->
 ```
- __________________________________
-< You will pass away very quickly. >
- ----------------------------------
+ _____________________________________
+/ A kind of Batman of contemporary    \
+| letters.                            |
+|                                     |
+\ -- Philip Larkin on Anthony Burgess /
+ -------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
