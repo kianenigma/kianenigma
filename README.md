@@ -4,12 +4,10 @@
 
 <!--START_SECTION:cowsay-->
 ```
- _____________________________________
-/ A kind of Batman of contemporary    \
-| letters.                            |
-|                                     |
-\ -- Philip Larkin on Anthony Burgess /
- -------------------------------------
+ ______________________________________
+/ You will probably marry after a very \
+\ brief courtship.                     /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
