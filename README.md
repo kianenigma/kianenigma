@@ -4,10 +4,10 @@
 
 <!--START_SECTION:cowsay-->
 ```
- ______________________________________
-/ You will probably marry after a very \
-\ brief courtship.                     /
- --------------------------------------
+ ________________________________
+/ It was all so different before \
+\ everything changed.            /
+ --------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
