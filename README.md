@@ -4,10 +4,10 @@
 
 <!--START_SECTION:cowsay-->
 ```
- ________________________________________
-/ You prefer the company of the opposite \
-\ sex, but are well liked by your own.   /
- ----------------------------------------
+ _________________________________________
+/ Truth will out this morning. (Which may \
+\ really mess things up.)                 /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
