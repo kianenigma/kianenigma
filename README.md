@@ -4,10 +4,10 @@
 
 <!--START_SECTION:cowsay-->
 ```
- _________________________________________
-/ Truth will out this morning. (Which may \
-\ really mess things up.)                 /
- -----------------------------------------
+ ______________________________________
+/ Try to value useful qualities in one \
+\ who loves you.                       /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
