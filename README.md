@@ -4,12 +4,11 @@
 
 <!--START_SECTION:cowsay-->
 ```
- _________________________________________
-/ By trying we can easily learn to endure \
-| adversity. Another man's, I mean.       |
-|                                         |
-\ -- Mark Twain                           /
- -----------------------------------------
+ _____________________________________
+/ You learn to write as if to someone \
+| else because NEXT YEAR YOU WILL BE  |
+\ "SOMEONE ELSE."                     /
+ -------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
