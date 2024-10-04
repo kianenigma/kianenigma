@@ -4,11 +4,13 @@
 
 <!--START_SECTION:cowsay-->
 ```
- _____________________________________
-/ You learn to write as if to someone \
-| else because NEXT YEAR YOU WILL BE  |
-\ "SOMEONE ELSE."                     /
- -------------------------------------
+ ________________________________________
+/ Its name is Public Opinion. It is held \
+| in reverence. It settles everything.   |
+| Some think it is the voice of God.     |
+|                                        |
+\ -- Mark Twain                          /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
