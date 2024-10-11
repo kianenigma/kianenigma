@@ -4,10 +4,12 @@
 
 <!--START_SECTION:cowsay-->
 ```
- _________________________________________
-/ Your fly might be open (but don't check \
-\ it just now).                           /
- -----------------------------------------
+ ____________________________________
+/ Lord, what fools these mortals be! \
+|                                    |
+| -- William Shakespeare, "A         |
+\ Midsummer-Night's Dream"           /
+ ------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
