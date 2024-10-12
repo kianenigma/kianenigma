@@ -4,12 +4,14 @@
 
 <!--START_SECTION:cowsay-->
 ```
- ____________________________________
-/ Lord, what fools these mortals be! \
-|                                    |
-| -- William Shakespeare, "A         |
-\ Midsummer-Night's Dream"           /
- ------------------------------------
+ _________________________________________
+/ In a museum in Havana, there are two    \
+| skulls of Christopher Columbus, "one    |
+| when he was a boy and one when he was a |
+| man."                                   |
+|                                         |
+\ -- Mark Twain                           /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
