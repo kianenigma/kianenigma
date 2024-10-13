@@ -4,14 +4,10 @@
 
 <!--START_SECTION:cowsay-->
 ```
- _________________________________________
-/ In a museum in Havana, there are two    \
-| skulls of Christopher Columbus, "one    |
-| when he was a boy and one when he was a |
-| man."                                   |
-|                                         |
-\ -- Mark Twain                           /
- -----------------------------------------
+ ______________________________________
+/ Lady Luck brings added income today. \
+\ Lady friend takes it away tonight.   /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
