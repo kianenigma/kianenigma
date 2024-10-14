@@ -4,10 +4,15 @@
 
 <!--START_SECTION:cowsay-->
 ```
- ______________________________________
-/ Lady Luck brings added income today. \
-\ Lady friend takes it away tonight.   /
- --------------------------------------
+ ____________________________________
+/ Q: What do you call a blind        \
+| pre-historic animal? A:            |
+| Diyathinkhesaurus.                 |
+|                                    |
+| Q: What do you call a blind        |
+| pre-historic animal with a dog? A: |
+\ Diyathinkhesaurus Rex.             /
+ ------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
