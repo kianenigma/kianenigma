@@ -4,11 +4,9 @@
 
 <!--START_SECTION:cowsay-->
 ```
- _________________________________________
-/ Q: What's the difference between an     \
-| Irish wedding and an Irish wake? A: One |
-\ less drunk.                             /
- -----------------------------------------
+ ________________________________________
+< Your ignorance cramps my conversation. >
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
