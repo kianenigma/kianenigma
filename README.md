@@ -4,9 +4,12 @@
 
 <!--START_SECTION:cowsay-->
 ```
- ________________________________________
-< Your ignorance cramps my conversation. >
- ----------------------------------------
+ _________________________________________
+/ FORTUNE PROVIDES QUESTIONS FOR THE      \
+| GREAT ANSWERS: #31 A: Chicken Teriyaki. |
+| Q: What is the name of the world's      |
+\ oldest kamikaze pilot?                  /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
