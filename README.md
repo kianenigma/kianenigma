@@ -4,12 +4,9 @@
 
 <!--START_SECTION:cowsay-->
 ```
- _________________________________________
-/ FORTUNE PROVIDES QUESTIONS FOR THE      \
-| GREAT ANSWERS: #31 A: Chicken Teriyaki. |
-| Q: What is the name of the world's      |
-\ oldest kamikaze pilot?                  /
- -----------------------------------------
+ _______________________________________
+< Your domestic life may be harmonious. >
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
