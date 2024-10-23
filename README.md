@@ -5,8 +5,8 @@
 <!--START_SECTION:cowsay-->
 ```
  _________________________________________
-/ You have a deep interest in all that is \
-\ artistic.                               /
+/ You are deeply attached to your friends \
+\ and acquaintances.                      /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
