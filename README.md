@@ -4,11 +4,9 @@
 
 <!--START_SECTION:cowsay-->
 ```
- ______________________________________
-/ Q: How did you get into artificial   \
-| intelligence? A: Seemed logical -- I |
-\ didn't have any real intelligence.   /
- --------------------------------------
+ ________________________________________
+< You enjoy the company of other people. >
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
