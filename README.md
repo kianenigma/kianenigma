@@ -4,9 +4,10 @@
 
 <!--START_SECTION:cowsay-->
 ```
- ________________________________________
-< You enjoy the company of other people. >
- ----------------------------------------
+ _______________________________________
+/ Try to have as good a life as you can \
+\ under the circumstances.              /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
