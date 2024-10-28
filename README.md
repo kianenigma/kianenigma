@@ -4,10 +4,13 @@
 
 <!--START_SECTION:cowsay-->
 ```
- _________________________________________
-/ You're working under a slight handicap. \
-\ You happen to be human.                 /
- -----------------------------------------
+ ________________________________________
+/ "You have been in Afghanistan, I       \
+| perceive."                             |
+|                                        |
+| -- Sir Arthur Conan Doyle, "A Study in |
+\ Scarlet"                               /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
