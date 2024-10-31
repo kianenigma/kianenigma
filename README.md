@@ -4,11 +4,10 @@
 
 <!--START_SECTION:cowsay-->
 ```
- _________________________
-/ Questionable day.       \
-|                         |
-\ Ask somebody something. /
- -------------------------
+ ______________________________________
+/ You love your home and want it to be \
+\ beautiful.                           /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
