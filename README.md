@@ -4,9 +4,13 @@
 
 <!--START_SECTION:cowsay-->
 ```
- __________________________________
-< Make a wish, it might come true. >
- ----------------------------------
+ _________________________________________
+/ Q: What's the difference between a dead \
+| dog in the road and a dead              |
+|                                         |
+| lawyer in the road? A: There are skid   |
+\ marks in front of the dog.              /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
