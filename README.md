@@ -4,11 +4,10 @@
 
 <!--START_SECTION:cowsay-->
 ```
- _________________________________________
-/ Be free and open and breezy! Enjoy!     \
-| Things won't get any better so get used |
-\ to it.                                  /
- -----------------------------------------
+ _______________________________________
+/ Today is the first day of the rest of \
+\ the mess.                             /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
