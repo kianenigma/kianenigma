@@ -4,10 +4,12 @@
 
 <!--START_SECTION:cowsay-->
 ```
- _______________________________________
-/ Today is the first day of the rest of \
-\ the mess.                             /
- ---------------------------------------
+ ______________________________________
+/ All things that are, are with more   \
+| spirit chased than enjoyed.          |
+|                                      |
+\ -- Shakespeare, "Merchant of Venice" /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
