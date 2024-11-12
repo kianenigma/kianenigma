@@ -4,12 +4,9 @@
 
 <!--START_SECTION:cowsay-->
 ```
- ______________________________________
-/ All things that are, are with more   \
-| spirit chased than enjoyed.          |
-|                                      |
-\ -- Shakespeare, "Merchant of Venice" /
- --------------------------------------
+ ____________________
+< You'll be sorry... >
+ --------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
