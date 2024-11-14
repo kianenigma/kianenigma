@@ -4,11 +4,11 @@
 
 <!--START_SECTION:cowsay-->
 ```
- _________________________________________
-/ FORTUNE PROVIDES QUESTIONS FOR THE      \
-| GREAT ANSWERS: #19 A: To be or not to   |
-\ be. Q: What is the square root of 4b^2? /
- -----------------------------------------
+ ______________________________________
+/ Q: How many marketing people does it \
+| take to change a light bulb? A: I'll |
+\ have to get back to you on that.     /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
