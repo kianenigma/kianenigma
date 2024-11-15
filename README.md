@@ -4,11 +4,15 @@
 
 <!--START_SECTION:cowsay-->
 ```
- ______________________________________
-/ Q: How many marketing people does it \
-| take to change a light bulb? A: I'll |
-\ have to get back to you on that.     /
- --------------------------------------
+ ________________________________________
+/ All say, "How hard it is that we have  \
+| to die"--a strange complaint to come   |
+| from the mouths of people who have had |
+| to live.                               |
+|                                        |
+| -- Mark Twain, "Pudd'nhead Wilson's    |
+\ Calendar"                              /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
