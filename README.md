@@ -4,15 +4,15 @@
 
 <!--START_SECTION:cowsay-->
 ```
- ________________________________________
-/ All say, "How hard it is that we have  \
-| to die"--a strange complaint to come   |
-| from the mouths of people who have had |
-| to live.                               |
-|                                        |
-| -- Mark Twain, "Pudd'nhead Wilson's    |
-\ Calendar"                              /
- ----------------------------------------
+ _________________________________________
+/  You will remember, Watson, how the     \
+| dreadful business of the Abernetty      |
+| family was first brought to my notice   |
+| by the depth which the parsley had sunk |
+| into the butter upon a hot day.         |
+|                                         |
+\ -- Sherlock Holmes                      /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
