@@ -4,11 +4,10 @@
 
 <!--START_SECTION:cowsay-->
 ```
- ________________________________________
-/ Living your life is a task so          \
-| difficult, it has never been attempted |
-\ before.                                /
- ----------------------------------------
+ _________________________________
+/ You will engage in a profitable \
+\ business activity.              /
+ ---------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
