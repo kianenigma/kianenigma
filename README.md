@@ -4,10 +4,13 @@
 
 <!--START_SECTION:cowsay-->
 ```
- _________________________________
-/ You will engage in a profitable \
-\ business activity.              /
- ---------------------------------
+ _________________________________________
+/ They spell it "da Vinci" and pronounce  \
+| it "da Vinchy". Foreigners always spell |
+| better than they pronounce.             |
+|                                         |
+\ -- Mark Twain                           /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
