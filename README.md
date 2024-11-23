@@ -4,10 +4,10 @@
 
 <!--START_SECTION:cowsay-->
 ```
- ___________________________________
-/ Do not sleep in a eucalyptus tree \
-\ tonight.                          /
- -----------------------------------
+ ________________________________________
+/ Accent on helpful side of your nature. \
+\ Drain the moat.                        /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
