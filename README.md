@@ -5,8 +5,12 @@
 <!--START_SECTION:cowsay-->
 ```
  ________________________________________
-/ Accent on helpful side of your nature. \
-\ Drain the moat.                        /
+/ Your manuscript is both good and       \
+| original, but the part that is good is |
+| not original and the part that is      |
+| original is not good.                  |
+|                                        |
+\ -- Samuel Johnson                      /
  ----------------------------------------
         \   ^__^
          \  (oo)\_______
