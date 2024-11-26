@@ -4,10 +4,12 @@
 
 <!--START_SECTION:cowsay-->
 ```
- ________________________________
-/ It was all so different before \
-\ everything changed.            /
- --------------------------------
+ ______________________________________
+/ Things past redress and now with me  \
+| past care.                           |
+|                                      |
+\ -- William Shakespeare, "Richard II" /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
