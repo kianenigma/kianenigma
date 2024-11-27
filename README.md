@@ -4,12 +4,10 @@
 
 <!--START_SECTION:cowsay-->
 ```
- ______________________________________
-/ Things past redress and now with me  \
-| past care.                           |
-|                                      |
-\ -- William Shakespeare, "Richard II" /
- --------------------------------------
+ _______________________________________
+/ Many changes of mind and mood; do not \
+\ hesitate too long.                    /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
