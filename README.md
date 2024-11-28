@@ -4,10 +4,10 @@
 
 <!--START_SECTION:cowsay-->
 ```
- _______________________________________
-/ Many changes of mind and mood; do not \
-\ hesitate too long.                    /
- ---------------------------------------
+ _________________________________________
+/ You're ugly and your mother dresses you \
+\ funny.                                  /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
