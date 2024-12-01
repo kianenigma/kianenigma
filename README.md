@@ -5,8 +5,8 @@
 <!--START_SECTION:cowsay-->
 ```
  _______________________________________
-/ Q: How do you save a drowning lawyer? \
-\ A: Throw him a rock.                  /
+/ You are a bundle of energy, always on \
+\ the go.                               /
  ---------------------------------------
         \   ^__^
          \  (oo)\_______
