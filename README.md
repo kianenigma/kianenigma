@@ -4,10 +4,11 @@
 
 <!--START_SECTION:cowsay-->
 ```
- _______________________________________
-/ You are a bundle of energy, always on \
-\ the go.                               /
- ---------------------------------------
+ _________________________________________
+/ Q: What do you say to a New Yorker with \
+| a job? A: Big Mac, fries and a Coke,    |
+\ please!                                 /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
