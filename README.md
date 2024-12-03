@@ -4,11 +4,9 @@
 
 <!--START_SECTION:cowsay-->
 ```
- _________________________________________
-/ Q: What do you say to a New Yorker with \
-| a job? A: Big Mac, fries and a Coke,    |
-\ please!                                 /
- -----------------------------------------
+ ____________________________________
+< Your aim is high and to the right. >
+ ------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
