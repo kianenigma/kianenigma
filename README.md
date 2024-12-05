@@ -4,13 +4,13 @@
 
 <!--START_SECTION:cowsay-->
 ```
- ________________________________________
-/ Q: Why does Washington have the most   \
-| lawyers per capita and                 |
-|                                        |
-| New Jersey the most toxic waste dumps? |
-\ A: God gave New Jersey first choice.   /
- ----------------------------------------
+ _______________________________________
+/ "Life, loathe it or ignore it, you    \
+| can't like it."                       |
+|                                       |
+| -- Marvin, "Hitchhiker's Guide to the |
+\ Galaxy"                               /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
