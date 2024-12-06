@@ -4,13 +4,12 @@
 
 <!--START_SECTION:cowsay-->
 ```
- _______________________________________
-/ "Life, loathe it or ignore it, you    \
-| can't like it."                       |
-|                                       |
-| -- Marvin, "Hitchhiker's Guide to the |
-\ Galaxy"                               /
- ---------------------------------------
+ ______________________________________
+/ Q: How many Marxists does it take to \
+| screw in a light bulb? A: None: The  |
+| light bulb contains the seeds of its |
+\ own revolution.                      /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
