@@ -4,13 +4,14 @@
 
 <!--START_SECTION:cowsay-->
 ```
- ____________________________________
-/ FORTUNE PROVIDES QUESTIONS FOR THE \
-| GREAT ANSWERS: #13 A: Doc, Happy,  |
-| Bashful, Dopey, Sneezy, Sleepy, &  |
-| Grumpy Q: Who were the Democratic  |
-\ presidential candidates?           /
- ------------------------------------
+ ________________________________________
+/ It is by the fortune of God that, in   \
+| this country, we have three benefits:  |
+| freedom of speech, freedom of thought, |
+| and the wisdom never to use either.    |
+|                                        |
+\ -- Mark Twain                          /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
