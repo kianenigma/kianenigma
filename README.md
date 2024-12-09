@@ -4,14 +4,11 @@
 
 <!--START_SECTION:cowsay-->
 ```
- ________________________________________
-/ It is by the fortune of God that, in   \
-| this country, we have three benefits:  |
-| freedom of speech, freedom of thought, |
-| and the wisdom never to use either.    |
-|                                        |
-\ -- Mark Twain                          /
- ----------------------------------------
+ ______________________________________
+/ You'll never see all the places, or  \
+| read all the books, but fortunately, |
+\ they're not all recommended.         /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
