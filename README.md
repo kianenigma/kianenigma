@@ -4,12 +4,10 @@
 
 <!--START_SECTION:cowsay-->
 ```
- ________________________________________
-/ No violence, gentlemen -- no violence, \
-| I beg of you! Consider the furniture!  |
-|                                        |
-\ -- Sherlock Holmes                     /
- ----------------------------------------
+ ________________________________
+/ You may get an opportunity for \
+\ advancement today. Watch it!   /
+ --------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
