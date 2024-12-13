@@ -4,10 +4,9 @@
 
 <!--START_SECTION:cowsay-->
 ```
- ________________________________
-/ You may get an opportunity for \
-\ advancement today. Watch it!   /
- --------------------------------
+ _________________________________
+< So you're back... about time... >
+ ---------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
