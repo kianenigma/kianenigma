@@ -4,10 +4,10 @@
 
 <!--START_SECTION:cowsay-->
 ```
- _______________________________________
-/ You never hesitate to tackle the most \
-\ difficult problems.                   /
- ---------------------------------------
+ _________________________________________
+/ Ships are safe in harbor, but they were \
+\ never meant to stay there.              /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
