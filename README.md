@@ -4,10 +4,10 @@
 
 <!--START_SECTION:cowsay-->
 ```
- _______________________________________
-/ Today is the last day of your life so \
-\ far.                                  /
- ---------------------------------------
+ __________________________________
+/ You will overcome the attacks of \
+\ jealous associates.              /
+ ----------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
