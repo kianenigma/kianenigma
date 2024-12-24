@@ -4,10 +4,12 @@
 
 <!--START_SECTION:cowsay-->
 ```
- __________________________________
-/ You will overcome the attacks of \
-\ jealous associates.              /
- ----------------------------------
+ _______________________________
+/ The surest protection against \
+| temptation is cowardice.      |
+|                               |
+\ -- Mark Twain                 /
+ -------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
