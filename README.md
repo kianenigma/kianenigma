@@ -4,12 +4,9 @@
 
 <!--START_SECTION:cowsay-->
 ```
- _______________________________
-/ The surest protection against \
-| temptation is cowardice.      |
-|                               |
-\ -- Mark Twain                 /
- -------------------------------
+ ________________________________________
+< You will forget that you ever knew me. >
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
