@@ -4,9 +4,11 @@
 
 <!--START_SECTION:cowsay-->
 ```
- ________________________________________
-< You will forget that you ever knew me. >
- ----------------------------------------
+ _________________________________________
+/ You'll feel devilish tonight. Toss      \
+| dynamite caps under a flamenco dancer's |
+\ heel.                                   /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
