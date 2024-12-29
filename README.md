@@ -4,10 +4,10 @@
 
 <!--START_SECTION:cowsay-->
 ```
- ________________________________________
-/ Tuesday After Lunch is the cosmic time \
-\ of the week.                           /
- ----------------------------------------
+ ______________________________________
+/ You will be the last person to buy a \
+\ Chrysler.                            /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
