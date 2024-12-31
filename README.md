@@ -4,12 +4,10 @@
 
 <!--START_SECTION:cowsay-->
 ```
- ________________________________________
-/ It usually takes more than three weeks \
-| to prepare a good impromptu speech.    |
-|                                        |
-\ -- Mark Twain                          /
- ----------------------------------------
+ ________________________________
+/ You may get an opportunity for \
+\ advancement today. Watch it!   /
+ --------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
