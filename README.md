@@ -4,10 +4,9 @@
 
 <!--START_SECTION:cowsay-->
 ```
- ________________________________
-/ You may get an opportunity for \
-\ advancement today. Watch it!   /
- --------------------------------
+ ________________________________________
+< You enjoy the company of other people. >
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
