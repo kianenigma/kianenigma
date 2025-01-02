@@ -4,9 +4,12 @@
 
 <!--START_SECTION:cowsay-->
 ```
- ________________________________________
-< You enjoy the company of other people. >
- ----------------------------------------
+ _________________________________________
+/ But, for my own part, it was Greek to   \
+| me.                                     |
+|                                         |
+\ -- William Shakespeare, "Julius Caesar" /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
