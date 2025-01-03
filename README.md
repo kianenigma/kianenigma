@@ -4,12 +4,9 @@
 
 <!--START_SECTION:cowsay-->
 ```
- _________________________________________
-/ But, for my own part, it was Greek to   \
-| me.                                     |
-|                                         |
-\ -- William Shakespeare, "Julius Caesar" /
- -----------------------------------------
+ __________________________________
+< Someone is speaking well of you. >
+ ----------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
