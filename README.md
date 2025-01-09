@@ -4,12 +4,10 @@
 
 <!--START_SECTION:cowsay-->
 ```
- ________________________________________
-/ Q: How many college football players   \
-| does it take to screw in a light bulb? |
-| A: Only one, but he gets three credits |
-\ for it.                                /
- ----------------------------------------
+ _____________________________________
+/ Among the lucky, you are the chosen \
+\ one.                                /
+ -------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
