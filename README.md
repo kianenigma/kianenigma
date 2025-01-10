@@ -4,10 +4,10 @@
 
 <!--START_SECTION:cowsay-->
 ```
- _____________________________________
-/ Among the lucky, you are the chosen \
-\ one.                                /
- -------------------------------------
+ _________________________________________
+/ Your mode of life will be changed for   \
+\ the better because of new developments. /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
