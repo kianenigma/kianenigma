@@ -4,10 +4,10 @@
 
 <!--START_SECTION:cowsay-->
 ```
- ______________________________________
-/ You will remember something that you \
-\ should not have forgotten.           /
- --------------------------------------
+ ____________________________________
+/ You will gain money by a fattening \
+\ action.                            /
+ ------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
