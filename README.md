@@ -4,10 +4,10 @@
 
 <!--START_SECTION:cowsay-->
 ```
- _________________________________________
-/ Don't read any sky-writing for the next \
-\ two weeks.                              /
- -----------------------------------------
+ ________________________________________
+/ Q: Why did the tachyon cross the road? \
+\ A: Because it was on the other side.   /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
