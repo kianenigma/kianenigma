@@ -5,12 +5,8 @@
 <!--START_SECTION:cowsay-->
 ```
  ______________________________________
-/ F.S. Fitzgerald to Hemingway:        \
-|                                      |
-| "Ernest, the rich are different from |
-| us." Hemingway:                      |
-|                                      |
-\ "Yes. They have more money."         /
+/ A few hours grace before the madness \
+\ begins again.                        /
  --------------------------------------
         \   ^__^
          \  (oo)\_______
