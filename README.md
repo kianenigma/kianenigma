@@ -4,10 +4,13 @@
 
 <!--START_SECTION:cowsay-->
 ```
- ___________________________________
-/ Life is to you a dashing and bold \
-\ adventure.                        /
- -----------------------------------
+ ________________________________________
+/ You may my glories and my state        \
+| dispose, But not my griefs; still am I |
+| king of those.                         |
+|                                        |
+\ -- William Shakespeare, "Richard II"   /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
