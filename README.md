@@ -4,10 +4,12 @@
 
 <!--START_SECTION:cowsay-->
 ```
- _______________________________________
-/ Today is the last day of your life so \
-\ far.                                  /
- ---------------------------------------
+ ________________________________________
+/ Never laugh at live dragons.           \
+|                                        |
+| -- Bilbo Baggins [J.R.R. Tolkien, "The |
+\ Hobbit"]                               /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
