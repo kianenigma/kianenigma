@@ -4,12 +4,11 @@
 
 <!--START_SECTION:cowsay-->
 ```
- ________________________________________
-/ Never laugh at live dragons.           \
-|                                        |
-| -- Bilbo Baggins [J.R.R. Tolkien, "The |
-\ Hobbit"]                               /
- ----------------------------------------
+ ____________________________________
+/ You tread upon my patience.        \
+|                                    |
+\ -- William Shakespeare, "Henry IV" /
+ ------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
