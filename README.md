@@ -4,11 +4,10 @@
 
 <!--START_SECTION:cowsay-->
 ```
- _______________________________________
-/ You had some happiness once, but your \
-| parents moved away, and you had to    |
-\ leave it behind.                      /
- ---------------------------------------
+ ___________________________________
+/ You will gain money by an illegal \
+\ action.                           /
+ -----------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
