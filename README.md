@@ -4,10 +4,11 @@
 
 <!--START_SECTION:cowsay-->
 ```
- ___________________________________
-/ You will gain money by an illegal \
-\ action.                           /
- -----------------------------------
+ ______________________________________
+/ Q: How can you tell when a Burroughs \
+| salesman is lying? A: When his lips  |
+\ move.                                /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
