@@ -4,15 +4,10 @@
 
 <!--START_SECTION:cowsay-->
 ```
- _________________________________________
-/ In Marseilles they make half the toilet \
-| soap we consume in America, but the     |
-| Marseillaise only have a vague          |
-| theoretical idea of its use, which they |
-| have obtained from books of travel.     |
-|                                         |
-\ -- Mark Twain                           /
- -----------------------------------------
+ _________________________________
+/ Q: What is the sound of one cat \
+\ napping? A: Mu.                 /
+ ---------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
