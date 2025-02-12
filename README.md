@@ -5,12 +5,11 @@
 <!--START_SECTION:cowsay-->
 ```
  ________________________________________
-/ I don't know half of you half as well  \
-| as I should like; and I like less than |
-| half of you half as well as you        |
-| deserve.                               |
+/ The difference between a Miracle and a \
+| Fact is exactly the difference between |
+| a mermaid and a seal.                  |
 |                                        |
-\ -- J. R. R. Tolkien                    /
+\ -- Mark Twain                          /
  ----------------------------------------
         \   ^__^
          \  (oo)\_______
