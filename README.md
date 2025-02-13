@@ -4,13 +4,11 @@
 
 <!--START_SECTION:cowsay-->
 ```
- ________________________________________
-/ The difference between a Miracle and a \
-| Fact is exactly the difference between |
-| a mermaid and a seal.                  |
-|                                        |
-\ -- Mark Twain                          /
- ----------------------------------------
+ _________________________________________
+/ You will pay for your sins. If you have \
+| already paid, please disregard this     |
+\ message.                                /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
