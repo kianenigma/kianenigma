@@ -4,9 +4,10 @@
 
 <!--START_SECTION:cowsay-->
 ```
- ________________________________
-< You will be run over by a bus. >
- --------------------------------
+ ___________________________________
+/ Your heart is pure, and your mind \
+\ clear, and your soul devout.      /
+ -----------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
