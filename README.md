@@ -4,14 +4,10 @@
 
 <!--START_SECTION:cowsay-->
 ```
- _________________________________________
-/ In a museum in Havana, there are two    \
-| skulls of Christopher Columbus, "one    |
-| when he was a boy and one when he was a |
-| man."                                   |
-|                                         |
-\ -- Mark Twain                           /
- -----------------------------------------
+ _______________________________________
+/ You will be held hostage by a radical \
+\ group.                                /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
