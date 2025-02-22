@@ -4,9 +4,15 @@
 
 <!--START_SECTION:cowsay-->
 ```
- ________________________
-< Cold hands, no gloves. >
- ------------------------
+ _________________________________________
+/ Q: How many bureaucrats does it take to \
+| screw in a light bulb? A: Two. One to   |
+| assure everyone that everything         |
+| possible is being                       |
+|                                         |
+| done while the other screws the bulb    |
+\ into the water faucet.                  /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
