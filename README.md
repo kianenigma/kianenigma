@@ -4,9 +4,10 @@
 
 <!--START_SECTION:cowsay-->
 ```
- _____________________________________
-< Excellent day to have a rotten day. >
- -------------------------------------
+ ________________________________________
+/ Beauty and harmony are as necessary to \
+\ you as the very breath of life.        /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
