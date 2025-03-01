@@ -4,10 +4,14 @@
 
 <!--START_SECTION:cowsay-->
 ```
- ________________________________________
-/ Beauty and harmony are as necessary to \
-\ you as the very breath of life.        /
- ----------------------------------------
+ _____________________________________
+/ It were not best that we should all \
+| think alike; it is difference of    |
+| opinion that makes horse-races.     |
+|                                     |
+| -- Mark Twain, "Pudd'nhead Wilson's |
+\ Calendar"                           /
+ -------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
