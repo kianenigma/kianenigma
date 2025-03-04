@@ -4,10 +4,15 @@
 
 <!--START_SECTION:cowsay-->
 ```
- _______________________________________
-/ Many changes of mind and mood; do not \
-\ hesitate too long.                    /
- ---------------------------------------
+ _________________________________
+/ AWAKE! FEAR! FIRE! FOES! AWAKE! \
+|                                 |
+| FEAR! FIRE! FOES!               |
+|                                 |
+| AWAKE! AWAKE!                   |
+|                                 |
+\ -- J. R. R. Tolkien             /
+ ---------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
