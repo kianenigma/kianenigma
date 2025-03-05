@@ -4,15 +4,9 @@
 
 <!--START_SECTION:cowsay-->
 ```
- _________________________________
-/ AWAKE! FEAR! FIRE! FOES! AWAKE! \
-|                                 |
-| FEAR! FIRE! FOES!               |
-|                                 |
-| AWAKE! AWAKE!                   |
-|                                 |
-\ -- J. R. R. Tolkien             /
- ---------------------------------
+ ______________________________________
+< You will have long and healthy life. >
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
