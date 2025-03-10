@@ -4,10 +4,11 @@
 
 <!--START_SECTION:cowsay-->
 ```
- ________________________________________
-/ Beauty and harmony are as necessary to \
-\ you as the very breath of life.        /
- ----------------------------------------
+ _________________________________________
+/ Better hope the life-inspector doesn't  \
+| come around while you have your life in |
+\ such a mess.                            /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
