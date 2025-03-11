@@ -4,11 +4,10 @@
 
 <!--START_SECTION:cowsay-->
 ```
- _________________________________________
-/ Better hope the life-inspector doesn't  \
-| come around while you have your life in |
-\ such a mess.                            /
- -----------------------------------------
+ ______________________________________
+/ Q: What's hard going in and soft and \
+\ sticky coming out? A: Chewing gum.   /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
