@@ -4,11 +4,11 @@
 
 <!--START_SECTION:cowsay-->
 ```
- _____________________________________
-/ You're growing out of some of your  \
-| problems, but there are others that |
-\ you're growing into.                /
- -------------------------------------
+ ______________________________________
+/ Good day to deal with people in high \
+| places; particularly lonely          |
+\ stewardesses.                        /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
