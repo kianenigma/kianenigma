@@ -4,11 +4,10 @@
 
 <!--START_SECTION:cowsay-->
 ```
- ______________________________________
-/ Good day to deal with people in high \
-| places; particularly lonely          |
-\ stewardesses.                        /
- --------------------------------------
+ _______________________________________
+/ You will be singled out for promotion \
+\ in your work.                         /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
