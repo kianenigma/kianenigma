@@ -4,10 +4,11 @@
 
 <!--START_SECTION:cowsay-->
 ```
- _______________________________________
-/ You will be singled out for promotion \
-\ in your work.                         /
- ---------------------------------------
+ _________________________________________
+/ How apt the poor are to be proud.       \
+|                                         |
+\ -- William Shakespeare, "Twelfth-Night" /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
