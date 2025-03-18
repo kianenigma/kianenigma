@@ -4,10 +4,12 @@
 
 <!--START_SECTION:cowsay-->
 ```
- ________________________________________
-/ Alimony and bribes will engage a large \
-\ share of your wealth.                  /
- ----------------------------------------
+ _________________________________________
+/ Seeing that death, a necessary end,     \
+| Will come when it will come.            |
+|                                         |
+\ -- William Shakespeare, "Julius Caesar" /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
