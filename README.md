@@ -4,9 +4,12 @@
 
 <!--START_SECTION:cowsay-->
 ```
- _________________
-< You look tired. >
- -----------------
+ _____________________________________
+/ A kind of Batman of contemporary    \
+| letters.                            |
+|                                     |
+\ -- Philip Larkin on Anthony Burgess /
+ -------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
