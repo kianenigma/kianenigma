@@ -4,13 +4,10 @@
 
 <!--START_SECTION:cowsay-->
 ```
- _____________________________________
-/ Nothing so needs reforming as other \
-| people's habits.                    |
-|                                     |
-| -- Mark Twain, "Pudd'nhead Wilson's |
-\ Calendar"                           /
- -------------------------------------
+ _________________________________________
+/ You will be imprisoned for contributing \
+\ your time and skill to a bank robbery.  /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
