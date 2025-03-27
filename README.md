@@ -4,10 +4,10 @@
 
 <!--START_SECTION:cowsay-->
 ```
- _________________________________________
-/ You will be imprisoned for contributing \
-\ your time and skill to a bank robbery.  /
- -----------------------------------------
+ _______________________________________
+/ Don't plan any hasty moves. You'll be \
+\ evicted soon anyway.                  /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
