@@ -4,10 +4,11 @@
 
 <!--START_SECTION:cowsay-->
 ```
- _______________________________________
-/ Don't plan any hasty moves. You'll be \
-\ evicted soon anyway.                  /
- ---------------------------------------
+ ____________________________________
+/ You may be gone tomorrow, but that \
+| doesn't mean that you weren't here |
+\ today.                             /
+ ------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
