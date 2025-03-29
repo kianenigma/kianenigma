@@ -4,11 +4,10 @@
 
 <!--START_SECTION:cowsay-->
 ```
- ____________________________________
-/ You may be gone tomorrow, but that \
-| doesn't mean that you weren't here |
-\ today.                             /
- ------------------------------------
+ _____________________________________
+/ Don't you feel more like you do now \
+\ than you did when you came in?      /
+ -------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
