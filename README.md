@@ -4,10 +4,13 @@
 
 <!--START_SECTION:cowsay-->
 ```
- _____________________________________
-/ Don't you feel more like you do now \
-\ than you did when you came in?      /
- -------------------------------------
+ ______________________________________
+/ Tell the truth or trump--but get the \
+| trick.                               |
+|                                      |
+| -- Mark Twain, "Pudd'nhead Wilson's  |
+\ Calendar"                            /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
