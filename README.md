@@ -5,11 +5,7 @@
 <!--START_SECTION:cowsay-->
 ```
  _________________________________________
-/ Q: How does a hacker fix a function     \
-| which                                   |
-|                                         |
-| doesn't work for all of the elements in |
-\ its domain? A: He changes the domain.   /
+< Do something unusual today. Pay a bill. >
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
