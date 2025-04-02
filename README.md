@@ -4,9 +4,13 @@
 
 <!--START_SECTION:cowsay-->
 ```
- _________________________________________
-< Do something unusual today. Pay a bill. >
- -----------------------------------------
+ _____________________________________
+/ Many a writer seems to think he is  \
+| never profound except when he can't |
+| understand his own meaning.         |
+|                                     |
+\ -- George D. Prentice               /
+ -------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
