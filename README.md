@@ -4,10 +4,11 @@
 
 <!--START_SECTION:cowsay-->
 ```
- ________________________________________
-/ You have a will that can be influenced \
-\ by all with whom you come in contact.  /
- ----------------------------------------
+ _________________________________________
+/ Q: What's the difference between a Mac  \
+| and an Etch-a-Sketch? A: You don't have |
+\ to shake the Mac to clear the screen.   /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
