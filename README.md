@@ -4,11 +4,11 @@
 
 <!--START_SECTION:cowsay-->
 ```
- ______________________________________
-/ Q: How can you tell when a Burroughs \
-| salesman is lying? A: When his lips  |
-\ move.                                /
- --------------------------------------
+ _________________________________________
+/ He hath eaten me out of house and home. \
+|                                         |
+\ -- William Shakespeare, "Henry IV"      /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
