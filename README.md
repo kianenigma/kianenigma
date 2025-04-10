@@ -5,9 +5,12 @@
 <!--START_SECTION:cowsay-->
 ```
  _________________________________________
-/ He hath eaten me out of house and home. \
+/ O, it is excellent To have a giant's    \
+| strength; but it is tyrannous To use it |
+| like a giant.                           |
 |                                         |
-\ -- William Shakespeare, "Henry IV"      /
+| -- Shakespeare, "Measure for Measure",  |
+\ II, 2                                   /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
