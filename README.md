@@ -4,12 +4,10 @@
 
 <!--START_SECTION:cowsay-->
 ```
- _________________________________________
-/ Extreme fear can neither fight nor fly. \
-|                                         |
-| -- William Shakespeare, "The Rape of    |
-\ Lucrece"                                /
- -----------------------------------------
+ ______________________________________
+/ Don't tell any big lies today. Small \
+\ ones can be just as effective.       /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
