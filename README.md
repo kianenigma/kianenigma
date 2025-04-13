@@ -4,10 +4,10 @@
 
 <!--START_SECTION:cowsay-->
 ```
- ______________________________________
-/ Don't tell any big lies today. Small \
-\ ones can be just as effective.       /
- --------------------------------------
+ _________________________________________
+/ You will step on the night soil of many \
+\ countries.                              /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
