@@ -4,13 +4,11 @@
 
 <!--START_SECTION:cowsay-->
 ```
- ________________________________________
-/ Q: Why should you always serve a       \
-| Southern Carolina football man         |
-|                                        |
-| soup in a plate? A: 'Cause if you give |
-\ him a bowl, he'll throw it away.       /
- ----------------------------------------
+ _________________________________________
+/ You may worry about your hair-do today, \
+| but tomorrow much peanut butter will be |
+\ sold.                                   /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
