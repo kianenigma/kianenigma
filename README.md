@@ -5,9 +5,13 @@
 <!--START_SECTION:cowsay-->
 ```
  _________________________________________
-/ You may worry about your hair-do today, \
-| but tomorrow much peanut butter will be |
-\ sold.                                   /
+/ All I know is what the words know, and  \
+| dead things, and that makes a handsome  |
+| little sum, with a beginning and a      |
+| middle and an end, as in the well-built |
+| phrase and the long sonata of the dead. |
+|                                         |
+\ -- Samuel Beckett                       /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
