@@ -5,8 +5,8 @@
 <!--START_SECTION:cowsay-->
 ```
  ________________________________________
-/ Try the Moo Shu Pork. It is especially \
-\ good today.                            /
+/ You will be married within a year, and \
+\ divorced within two.                   /
  ----------------------------------------
         \   ^__^
          \  (oo)\_______
