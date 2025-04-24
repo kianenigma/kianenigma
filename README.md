@@ -4,10 +4,12 @@
 
 <!--START_SECTION:cowsay-->
 ```
- ________________________________________
-/ You will be married within a year, and \
-\ divorced within two.                   /
- ----------------------------------------
+ _________________________________________
+/ He that breaks a thing to find out what \
+| it is has left the path of wisdom.      |
+|                                         |
+\ -- J.R.R. Tolkien                       /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
