@@ -5,10 +5,8 @@
 <!--START_SECTION:cowsay-->
 ```
  _________________________________________
-/ He that breaks a thing to find out what \
-| it is has left the path of wisdom.      |
-|                                         |
-\ -- J.R.R. Tolkien                       /
+/ You don't become a failure until you're \
+\ satisfied with being one.               /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
