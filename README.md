@@ -4,13 +4,12 @@
 
 <!--START_SECTION:cowsay-->
 ```
- ________________________________________
-/ "You have been in Afghanistan, I       \
-| perceive."                             |
-|                                        |
-| -- Sir Arthur Conan Doyle, "A Study in |
-\ Scarlet"                               /
- ----------------------------------------
+ _______________________________________
+/ Q: What's the difference betweeen USL \
+| and the Graf Zeppelin? A: The Graf    |
+| Zeppelin represented cutting edge     |
+\ technology for its time.              /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
