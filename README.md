@@ -4,12 +4,13 @@
 
 <!--START_SECTION:cowsay-->
 ```
- _______________________________________
-/ Q: What's the difference betweeen USL \
-| and the Graf Zeppelin? A: The Graf    |
-| Zeppelin represented cutting edge     |
-\ technology for its time.              /
- ---------------------------------------
+ ________________________________________
+/ It is a wise father that knows his own \
+| child.                                 |
+|                                        |
+| -- William Shakespeare, "The Merchant  |
+\ of Venice"                             /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
