@@ -5,14 +5,8 @@
 <!--START_SECTION:cowsay-->
 ```
  _________________________________________
-/ Q: How do you shoot a blue elephant? A: \
-| With a blue-elephant gun.               |
-|                                         |
-| Q: How do you shoot a pink elephant? A: |
-| Twist its trunk until it turns blue,    |
-| then shoot it with                      |
-|                                         |
-\ a blue-elephant gun.                    /
+/ Today is the tomorrow you worried about \
+\ yesterday.                              /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
