@@ -4,11 +4,9 @@
 
 <!--START_SECTION:cowsay-->
 ```
- _______________________________________
-/ Q: What's tiny and yellow and very,   \
-| very, dangerous? A: A canary with the |
-\ super-user password.                  /
- ---------------------------------------
+ _________________
+< You love peace. >
+ -----------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
