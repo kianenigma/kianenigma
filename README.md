@@ -4,10 +4,9 @@
 
 <!--START_SECTION:cowsay-->
 ```
- ____________________________________
-/ Q: Do you know what the death rate \
-\ around here is? A: One per person. /
- ------------------------------------
+ ________________________________________
+< You will be surprised by a loud noise. >
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
