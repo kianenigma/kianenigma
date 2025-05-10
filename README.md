@@ -4,9 +4,10 @@
 
 <!--START_SECTION:cowsay-->
 ```
- ________________________________________
-< You will be surprised by a loud noise. >
- ----------------------------------------
+ __________________________________
+/ You will win success in whatever \
+\ calling you adopt.               /
+ ----------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
