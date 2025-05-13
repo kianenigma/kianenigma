@@ -4,10 +4,10 @@
 
 <!--START_SECTION:cowsay-->
 ```
- ________________________________________
-/ Q: How was Thomas J. Watson buried? A: \
-\ 9 edge down.                           /
- ----------------------------------------
+ _______________________________________
+/ Your society will be sought by people \
+\ of taste and refinement.              /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
