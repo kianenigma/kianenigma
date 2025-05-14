@@ -4,10 +4,11 @@
 
 <!--START_SECTION:cowsay-->
 ```
- _______________________________________
-/ Your society will be sought by people \
-\ of taste and refinement.              /
- ---------------------------------------
+ ________________________________________
+/ Your temporary financial embarrassment \
+| will be relieved in a surprising       |
+\ manner.                                /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
