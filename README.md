@@ -4,12 +4,10 @@
 
 <!--START_SECTION:cowsay-->
 ```
- _________________________________________
-/ Extreme fear can neither fight nor fly. \
-|                                         |
-| -- William Shakespeare, "The Rape of    |
-\ Lucrece"                                /
- -----------------------------------------
+ ___________________________________
+/ Q: How many WASPs does it take to \
+\ change a light bulb? A: One.      /
+ -----------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
