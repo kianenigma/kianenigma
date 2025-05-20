@@ -4,10 +4,10 @@
 
 <!--START_SECTION:cowsay-->
 ```
- ___________________________________
-/ Q: How many WASPs does it take to \
-\ change a light bulb? A: One.      /
- -----------------------------------
+ ____________________________________
+/ Q: What is orange and goes "click, \
+\ click?" A: A ball point carrot.    /
+ ------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
