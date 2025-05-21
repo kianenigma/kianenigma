@@ -4,10 +4,10 @@
 
 <!--START_SECTION:cowsay-->
 ```
- ____________________________________
-/ Q: What is orange and goes "click, \
-\ click?" A: A ball point carrot.    /
- ------------------------------------
+ _______________________________________
+/ Q: Why don't lawyers go to the beach? \
+\ A: The cats keep trying to bury them. /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
