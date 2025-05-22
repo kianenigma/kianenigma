@@ -4,10 +4,13 @@
 
 <!--START_SECTION:cowsay-->
 ```
- _______________________________________
-/ Q: Why don't lawyers go to the beach? \
-\ A: The cats keep trying to bury them. /
- ---------------------------------------
+ _____________________________________
+/ The naked truth of it is, I have no \
+| shirt.                              |
+|                                     |
+| -- William Shakespeare, "Love's     |
+\ Labour's Lost"                      /
+ -------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
