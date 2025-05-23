@@ -4,13 +4,10 @@
 
 <!--START_SECTION:cowsay-->
 ```
- _____________________________________
-/ The naked truth of it is, I have no \
-| shirt.                              |
-|                                     |
-| -- William Shakespeare, "Love's     |
-\ Labour's Lost"                      /
- -------------------------------------
+ _________________________________
+/ You will engage in a profitable \
+\ business activity.              /
+ ---------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
