@@ -4,13 +4,9 @@
 
 <!--START_SECTION:cowsay-->
 ```
- _________________________________________
-/ They spell it "da Vinci" and pronounce  \
-| it "da Vinchy". Foreigners always spell |
-| better than they pronounce.             |
-|                                         |
-\ -- Mark Twain                           /
- -----------------------------------------
+ _______________________
+< Blow it out your ear. >
+ -----------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
