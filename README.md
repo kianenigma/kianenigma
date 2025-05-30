@@ -5,15 +5,10 @@
 <!--START_SECTION:cowsay-->
 ```
  ________________________________________
-/ It is easy to find fault, if one has   \
-| that disposition. There was once a man |
-| who, not being able to find any other  |
-| fault with his coal, complained that   |
-| there were too many prehistoric toads  |
-| in it.                                 |
+/ A long-forgotten loved one will appear \
+| soon.                                  |
 |                                        |
-| -- Mark Twain, "Pudd'nhead Wilson's    |
-\ Calendar"                              /
+\ Buy the negatives at any price.        /
  ----------------------------------------
         \   ^__^
          \  (oo)\_______
