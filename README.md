@@ -4,12 +4,11 @@
 
 <!--START_SECTION:cowsay-->
 ```
- ________________________________________
-/ A long-forgotten loved one will appear \
-| soon.                                  |
-|                                        |
-\ Buy the negatives at any price.        /
- ----------------------------------------
+ ____________________________________
+/ It's lucky you're going so slowly, \
+| because you're going in the wrong  |
+\ direction.                         /
+ ------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
