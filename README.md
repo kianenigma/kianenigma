@@ -4,10 +4,11 @@
 
 <!--START_SECTION:cowsay-->
 ```
- ____________________________________
-/ Q: Do you know what the death rate \
-\ around here is? A: One per person. /
- ------------------------------------
+ ________________________________
+/ When in doubt, tell the truth. \
+|                                |
+\ -- Mark Twain                  /
+ --------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
