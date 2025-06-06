@@ -4,11 +4,13 @@
 
 <!--START_SECTION:cowsay-->
 ```
- ________________________________
-/ When in doubt, tell the truth. \
-|                                |
-\ -- Mark Twain                  /
- --------------------------------
+ ________________________________________
+/ What good is an obscenity trial except \
+| to popularize literature?              |
+|                                        |
+| -- Nero Wolfe, "The League of          |
+\ Frightened Men"                        /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
