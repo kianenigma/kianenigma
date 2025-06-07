@@ -4,13 +4,10 @@
 
 <!--START_SECTION:cowsay-->
 ```
- ________________________________________
-/ What good is an obscenity trial except \
-| to popularize literature?              |
-|                                        |
-| -- Nero Wolfe, "The League of          |
-\ Frightened Men"                        /
- ----------------------------------------
+ _______________________________________
+/ You'll be called to a post requiring  \
+\ ability in handling groups of people. /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
