@@ -5,8 +5,11 @@
 <!--START_SECTION:cowsay-->
 ```
  _______________________________________
-/ You'll be called to a post requiring  \
-\ ability in handling groups of people. /
+/ You never have to change anything you \
+| got up in the middle of the night to  |
+| write.                                |
+|                                       |
+\ -- Saul Bellow                        /
  ---------------------------------------
         \   ^__^
          \  (oo)\_______
