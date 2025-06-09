@@ -4,13 +4,9 @@
 
 <!--START_SECTION:cowsay-->
 ```
- _______________________________________
-/ You never have to change anything you \
-| got up in the middle of the night to  |
-| write.                                |
-|                                       |
-\ -- Saul Bellow                        /
- ---------------------------------------
+ __________________________________
+< Make a wish, it might come true. >
+ ----------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
