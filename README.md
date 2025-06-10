@@ -4,9 +4,10 @@
 
 <!--START_SECTION:cowsay-->
 ```
- __________________________________
-< Make a wish, it might come true. >
- ----------------------------------
+ ____________________________________
+/ After your lover has gone you will \
+\ still have PEANUT BUTTER!          /
+ ------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
