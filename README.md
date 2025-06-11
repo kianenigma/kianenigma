@@ -4,10 +4,13 @@
 
 <!--START_SECTION:cowsay-->
 ```
- ____________________________________
-/ After your lover has gone you will \
-\ still have PEANUT BUTTER!          /
- ------------------------------------
+ _________________________________________
+/ He that is giddy thinks the world turns \
+| round.                                  |
+|                                         |
+| -- William Shakespeare, "The Taming of  |
+\ the Shrew"                              /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
