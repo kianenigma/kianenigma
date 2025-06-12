@@ -4,13 +4,12 @@
 
 <!--START_SECTION:cowsay-->
 ```
- _________________________________________
-/ He that is giddy thinks the world turns \
-| round.                                  |
-|                                         |
-| -- William Shakespeare, "The Taming of  |
-\ the Shrew"                              /
- -----------------------------------------
+ ________________________________________
+/ Today's weirdness is tomorrow's reason \
+| why.                                   |
+|                                        |
+\ -- Hunter S. Thompson                  /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
