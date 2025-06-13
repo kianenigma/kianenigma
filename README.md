@@ -4,12 +4,12 @@
 
 <!--START_SECTION:cowsay-->
 ```
- ________________________________________
-/ Today's weirdness is tomorrow's reason \
-| why.                                   |
-|                                        |
-\ -- Hunter S. Thompson                  /
- ----------------------------------------
+ ____________________________________
+/ A horse! A horse! My kingdom for a \
+| horse!                             |
+|                                    |
+\ -- Wm. Shakespeare, "Richard III"  /
+ ------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
