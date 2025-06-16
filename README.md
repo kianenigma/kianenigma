@@ -4,12 +4,10 @@
 
 <!--START_SECTION:cowsay-->
 ```
- ________________________________
-/ She is not refined. She is not \
-| unrefined. She keeps a parrot. |
-|                                |
-\ -- Mark Twain                  /
- --------------------------------
+ _____________________________________
+/ You single-handedly fought your way \
+\ into this hopeless mess.            /
+ -------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
