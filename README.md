@@ -4,10 +4,11 @@
 
 <!--START_SECTION:cowsay-->
 ```
- _____________________________________
-/ You single-handedly fought your way \
-\ into this hopeless mess.            /
- -------------------------------------
+ _________________________________________
+/ "... all the modern inconveniences ..." \
+|                                         |
+\ -- Mark Twain                           /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
