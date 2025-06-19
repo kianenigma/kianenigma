@@ -5,12 +5,9 @@
 <!--START_SECTION:cowsay-->
 ```
  ________________________________________
-/ A classic is something that everyone   \
-| wants to have read and nobody wants to |
-| read.                                  |
+/ For a light heart lives long.          \
 |                                        |
-| -- Mark Twain, "The Disappearance of   |
-\ Literature"                            /
+\ -- Shakespeare, "Love's Labour's Lost" /
  ----------------------------------------
         \   ^__^
          \  (oo)\_______
