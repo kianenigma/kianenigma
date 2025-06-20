@@ -4,11 +4,9 @@
 
 <!--START_SECTION:cowsay-->
 ```
- ________________________________________
-/ For a light heart lives long.          \
-|                                        |
-\ -- Shakespeare, "Love's Labour's Lost" /
- ----------------------------------------
+ _____________________________
+< Give him an evasive answer. >
+ -----------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
