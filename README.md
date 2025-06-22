@@ -4,10 +4,12 @@
 
 <!--START_SECTION:cowsay-->
 ```
- _____________________________________
-/ You are dishonest, but never to the \
-\ point of hurting a friend.          /
- -------------------------------------
+ ________________________________________
+/ Q: How many college football players   \
+| does it take to screw in a light bulb? |
+| A: Only one, but he gets three credits |
+\ for it.                                /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
