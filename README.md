@@ -4,15 +4,16 @@
 
 <!--START_SECTION:cowsay-->
 ```
- ________________________________________
-/ Q: How many lawyers does it take to    \
-| change a light bulb? A: You won't find |
-| a lawyer who can change a light bulb.  |
-| Now, if                                |
-|                                        |
-| you're looking for a lawyer to screw a |
-\ light bulb...                          /
- ----------------------------------------
+ ______________________________________
+/ April 1                              \
+|                                      |
+| This is the day upon which we are    |
+| reminded of what we are on the other |
+| three hundred and sixty-four.        |
+|                                      |
+| -- Mark Twain, "Pudd'nhead Wilson's  |
+\ Calendar"                            /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
