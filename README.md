@@ -4,9 +4,13 @@
 
 <!--START_SECTION:cowsay-->
 ```
- ____________________________________
-< So this is it. We're going to die. >
- ------------------------------------
+ ________________________________________
+/ No group of professionals meets except \
+| to conspire against the public at      |
+| large.                                 |
+|                                        |
+\ -- Mark Twain                          /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
