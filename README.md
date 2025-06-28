@@ -4,13 +4,9 @@
 
 <!--START_SECTION:cowsay-->
 ```
- ________________________________________
-/ No group of professionals meets except \
-| to conspire against the public at      |
-| large.                                 |
-|                                        |
-\ -- Mark Twain                          /
- ----------------------------------------
+ ___________________________________
+< You may be recognized soon. Hide. >
+ -----------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
