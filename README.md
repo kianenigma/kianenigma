@@ -4,9 +4,13 @@
 
 <!--START_SECTION:cowsay-->
 ```
- ______________________________________
-< You are fairminded, just and loving. >
- --------------------------------------
+ ____________________________________
+/ The last thing one knows in        \
+| constructing a work is what to put |
+| first.                             |
+|                                    |
+\ -- Blaise Pascal                   /
+ ------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
