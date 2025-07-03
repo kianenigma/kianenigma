@@ -4,13 +4,9 @@
 
 <!--START_SECTION:cowsay-->
 ```
- ____________________________________
-/ The last thing one knows in        \
-| constructing a work is what to put |
-| first.                             |
-|                                    |
-\ -- Blaise Pascal                   /
- ------------------------------------
+ ___________________________
+< You are as I am with You. >
+ ---------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
