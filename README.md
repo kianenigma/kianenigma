@@ -4,9 +4,12 @@
 
 <!--START_SECTION:cowsay-->
 ```
- ___________________________
-< You are as I am with You. >
- ---------------------------
+ ________________________________________
+/ FORTUNE PROVIDES QUESTIONS FOR THE     \
+| GREAT ANSWERS: #15 A: The Royal        |
+| Canadian Mounted Police. Q: What was   |
+\ the greatest achievement in taxidermy? /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
