@@ -4,14 +4,10 @@
 
 <!--START_SECTION:cowsay-->
 ```
- _______________________________________
-/ So so is good, very good, very        \
-| excellent good: and yet it is not; it |
-| is but so so.                         |
-|                                       |
-| -- William Shakespeare, "As You Like  |
-\ It"                                   /
- ---------------------------------------
+ ______________________________________
+/ You have an unusual understanding of \
+\ the problems of human relationships. /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
