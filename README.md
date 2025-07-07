@@ -4,10 +4,13 @@
 
 <!--START_SECTION:cowsay-->
 ```
- ______________________________________
-/ You have an unusual understanding of \
-\ the problems of human relationships. /
- --------------------------------------
+ ________________________________________
+/ You may my glories and my state        \
+| dispose, But not my griefs; still am I |
+| king of those.                         |
+|                                        |
+\ -- William Shakespeare, "Richard II"   /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
