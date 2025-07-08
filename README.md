@@ -5,11 +5,11 @@
 <!--START_SECTION:cowsay-->
 ```
  ________________________________________
-/ You may my glories and my state        \
-| dispose, But not my griefs; still am I |
-| king of those.                         |
+/ Hain't we got all the fools in town on \
+| our side? And hain't that a big enough |
+| majority in any town?                  |
 |                                        |
-\ -- William Shakespeare, "Richard II"   /
+\ -- Mark Twain, "Huckleberry Finn"      /
  ----------------------------------------
         \   ^__^
          \  (oo)\_______
