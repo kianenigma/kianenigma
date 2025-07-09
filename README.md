@@ -4,13 +4,12 @@
 
 <!--START_SECTION:cowsay-->
 ```
- ________________________________________
-/ Hain't we got all the fools in town on \
-| our side? And hain't that a big enough |
-| majority in any town?                  |
-|                                        |
-\ -- Mark Twain, "Huckleberry Finn"      /
- ----------------------------------------
+ ______________________________________
+/ Hell is empty and all the devils are \
+| here.                                |
+|                                      |
+\ -- Wm. Shakespeare, "The Tempest"    /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
