@@ -4,12 +4,9 @@
 
 <!--START_SECTION:cowsay-->
 ```
- ______________________________________
-/ Hell is empty and all the devils are \
-| here.                                |
-|                                      |
-\ -- Wm. Shakespeare, "The Tempest"    /
- --------------------------------------
+ ________________________________________
+< Courage is your greatest present need. >
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
