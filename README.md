@@ -4,9 +4,12 @@
 
 <!--START_SECTION:cowsay-->
 ```
- ________________________________________
-< Courage is your greatest present need. >
- ----------------------------------------
+ ______________________________________
+/ Go not to the elves for counsel, for \
+| they will say both yes and no.       |
+|                                      |
+\ -- J.R.R. Tolkien                    /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
