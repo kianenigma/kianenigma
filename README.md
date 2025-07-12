@@ -4,12 +4,10 @@
 
 <!--START_SECTION:cowsay-->
 ```
- ______________________________________
-/ Go not to the elves for counsel, for \
-| they will say both yes and no.       |
-|                                      |
-\ -- J.R.R. Tolkien                    /
- --------------------------------------
+ ____________________________
+/ Your lucky number has been \
+\ disconnected.              /
+ ----------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
