@@ -4,10 +4,13 @@
 
 <!--START_SECTION:cowsay-->
 ```
- ____________________________
-/ Your lucky number has been \
-\ disconnected.              /
- ----------------------------
+ _________________________________________
+/ They spell it "da Vinci" and pronounce  \
+| it "da Vinchy". Foreigners always spell |
+| better than they pronounce.             |
+|                                         |
+\ -- Mark Twain                           /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
