@@ -5,8 +5,11 @@
 <!--START_SECTION:cowsay-->
 ```
  _______________________________________
-/ This will be a memorable month -- no  \
-\ matter how hard you try to forget it. /
+/ The secret source of humor is not joy \
+| but sorrow; there is no humor in      |
+| Heaven.                               |
+|                                       |
+\ -- Mark Twain                         /
  ---------------------------------------
         \   ^__^
          \  (oo)\_______
