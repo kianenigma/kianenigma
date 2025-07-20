@@ -5,13 +5,12 @@
 <!--START_SECTION:cowsay-->
 ```
  _________________________________________
-/ Q: How many Oregonians does it take to  \
-| screw in a light bulb? A: Three. One to |
-| screw in the light bulb and two to fend |
-| off all those                           |
+/ O, it is excellent To have a giant's    \
+| strength; but it is tyrannous To use it |
+| like a giant.                           |
 |                                         |
-| Californians trying to share the        |
-\ experience.                             /
+| -- Shakespeare, "Measure for Measure",  |
+\ II, 2                                   /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
