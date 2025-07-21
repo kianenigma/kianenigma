@@ -4,14 +4,10 @@
 
 <!--START_SECTION:cowsay-->
 ```
- _________________________________________
-/ O, it is excellent To have a giant's    \
-| strength; but it is tyrannous To use it |
-| like a giant.                           |
-|                                         |
-| -- Shakespeare, "Measure for Measure",  |
-\ II, 2                                   /
- -----------------------------------------
+ _______________________________________
+/ Good news. Ten weeks from Friday will \
+\ be a pretty good day.                 /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
