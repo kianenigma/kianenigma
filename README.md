@@ -5,8 +5,9 @@
 <!--START_SECTION:cowsay-->
 ```
  _______________________________________
-/ Good news. Ten weeks from Friday will \
-\ be a pretty good day.                 /
+/ Q: What's tiny and yellow and very,   \
+| very, dangerous? A: A canary with the |
+\ super-user password.                  /
  ---------------------------------------
         \   ^__^
          \  (oo)\_______
