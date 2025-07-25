@@ -4,10 +4,10 @@
 
 <!--START_SECTION:cowsay-->
 ```
- _________________________________________
-/ Q: What's tan and black and looks great \
-\ on a lawyer? A: A doberman.             /
- -----------------------------------------
+ ________________________________________
+/ Q: Why did the chicken cross the road? \
+\ A: He was giving it last rites.        /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
