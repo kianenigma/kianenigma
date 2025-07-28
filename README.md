@@ -4,13 +4,15 @@
 
 <!--START_SECTION:cowsay-->
 ```
- _______________________________________
-/ Q: What do you call the money you pay \
-| to the government when                |
-|                                       |
-| you ride into the country on the back |
-\ of an elephant? A: A howdah duty.     /
- ---------------------------------------
+ _________________________________________
+/ All I know is what the words know, and  \
+| dead things, and that makes a handsome  |
+| little sum, with a beginning and a      |
+| middle and an end, as in the well-built |
+| phrase and the long sonata of the dead. |
+|                                         |
+\ -- Samuel Beckett                       /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
