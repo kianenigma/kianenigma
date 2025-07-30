@@ -4,10 +4,9 @@
 
 <!--START_SECTION:cowsay-->
 ```
- _______________________________________
-/ This will be a memorable month -- no  \
-\ matter how hard you try to forget it. /
- ---------------------------------------
+ ______________________________
+< Don't feed the bats tonight. >
+ ------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
