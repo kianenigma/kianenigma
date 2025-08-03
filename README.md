@@ -4,11 +4,11 @@
 
 <!--START_SECTION:cowsay-->
 ```
- ____________________________________
-/ You may be gone tomorrow, but that \
-| doesn't mean that you weren't here |
-\ today.                             /
- ------------------------------------
+ _______________________________________
+/ English literature's performing flea. \
+|                                       |
+\ -- Sean O'Casey on P. G. Wodehouse    /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
