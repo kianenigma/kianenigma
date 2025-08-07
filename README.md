@@ -4,10 +4,13 @@
 
 <!--START_SECTION:cowsay-->
 ```
- _____________________________________
-/ You have a deep appreciation of the \
-\ arts and music.                     /
- -------------------------------------
+ ____________________________________
+/ FORTUNE PROVIDES QUESTIONS FOR THE \
+| GREAT ANSWERS: #13 A: Doc, Happy,  |
+| Bashful, Dopey, Sneezy, Sleepy, &  |
+| Grumpy Q: Who were the Democratic  |
+\ presidential candidates?           /
+ ------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
