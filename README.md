@@ -4,11 +4,9 @@
 
 <!--START_SECTION:cowsay-->
 ```
- _______________________________________
-/ You can create your own opportunities \
-| this week. Blackmail a senior         |
-\ executive.                            /
- ---------------------------------------
+ ____________________________________
+< You will be married within a year. >
+ ------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
