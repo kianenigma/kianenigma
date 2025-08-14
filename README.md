@@ -4,11 +4,10 @@
 
 <!--START_SECTION:cowsay-->
 ```
- _________________________________________
-/ You are wise, witty, and wonderful, but \
-| you spend too much time reading this    |
-\ sort of trash.                          /
- -----------------------------------------
+ _______________________________________
+/ You never hesitate to tackle the most \
+\ difficult problems.                   /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
