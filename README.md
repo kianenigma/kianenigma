@@ -4,10 +4,10 @@
 
 <!--START_SECTION:cowsay-->
 ```
- _______________________________________
-/ You never hesitate to tackle the most \
-\ difficult problems.                   /
- ---------------------------------------
+ _____________________________________
+/ Today is National Existential Ennui \
+\ Awareness Day.                      /
+ -------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
