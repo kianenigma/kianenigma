@@ -4,10 +4,10 @@
 
 <!--START_SECTION:cowsay-->
 ```
- _____________________________________
-/ Today is National Existential Ennui \
-\ Awareness Day.                      /
- -------------------------------------
+ _______________________________________
+/ You are so boring that when I see you \
+\ my feet go to sleep.                  /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
