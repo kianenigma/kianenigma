@@ -4,10 +4,11 @@
 
 <!--START_SECTION:cowsay-->
 ```
- _______________________________________
-/ You are so boring that when I see you \
-\ my feet go to sleep.                  /
- ---------------------------------------
+ ____________________________________
+/ Harp not on that string.           \
+|                                    |
+\ -- William Shakespeare, "Henry VI" /
+ ------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
