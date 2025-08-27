@@ -4,10 +4,13 @@
 
 <!--START_SECTION:cowsay-->
 ```
- _________________________________________
-/ Don't read any sky-writing for the next \
-\ two weeks.                              /
- -----------------------------------------
+ _______________________________________
+/ The lunatic, the lover, and the poet, \
+| Are of imagination all compact...     |
+|                                       |
+| -- Wm. Shakespeare, "A Midsummer      |
+\ Night's Dream"                        /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
