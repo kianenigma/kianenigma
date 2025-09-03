@@ -4,11 +4,14 @@
 
 <!--START_SECTION:cowsay-->
 ```
- _________________________________________
-/ While you recently had your problems on \
-| the run, they've regrouped and are      |
-\ making another attack.                  /
- -----------------------------------------
+ ________________________________________
+/ Q: Why do people who live near Niagara \
+| Falls have flat foreheads? A: Because  |
+| every morning they wake up thinking    |
+| "What *is* that noise?                 |
+|                                        |
+\ Oh, right, *of course*!                /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
