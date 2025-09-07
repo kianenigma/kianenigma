@@ -4,12 +4,12 @@
 
 <!--START_SECTION:cowsay-->
 ```
- ____________________________________
-/ He is now rising from affluence to \
-| poverty.                           |
-|                                    |
-\ -- Mark Twain                      /
- ------------------------------------
+ _______________________________________
+/ He was part of my dream, of course -- \
+| but then I was part of his dream too. |
+|                                       |
+\ -- Lewis Carroll                      /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
