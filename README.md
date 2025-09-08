@@ -4,12 +4,10 @@
 
 <!--START_SECTION:cowsay-->
 ```
- _______________________________________
-/ He was part of my dream, of course -- \
-| but then I was part of his dream too. |
-|                                       |
-\ -- Lewis Carroll                      /
- ---------------------------------------
+ ______________________________________
+/ Good day to let down old friends who \
+\ need help.                           /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
