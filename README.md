@@ -4,9 +4,12 @@
 
 <!--START_SECTION:cowsay-->
 ```
- _______________________________________
-< Be careful! UGLY strikes 9 out of 10! >
- ---------------------------------------
+ ________________________________________
+/ Q: How many Harvard MBA's does it take \
+| to screw in a light bulb? A: Just one. |
+| He grasps it firmly and the universe   |
+\ revolves around him.                   /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
