@@ -4,12 +4,11 @@
 
 <!--START_SECTION:cowsay-->
 ```
- ________________________________________
-/ Q: How many Harvard MBA's does it take \
-| to screw in a light bulb? A: Just one. |
-| He grasps it firmly and the universe   |
-\ revolves around him.                   /
- ----------------------------------------
+ _______________________________________
+/ You'll wish that you had done some of \
+| the hard things when they were easier |
+\ to do.                                /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
