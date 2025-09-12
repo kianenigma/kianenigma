@@ -4,11 +4,19 @@
 
 <!--START_SECTION:cowsay-->
 ```
- _______________________________________
-/ You'll wish that you had done some of \
-| the hard things when they were easier |
-\ to do.                                /
- ---------------------------------------
+ ________________________________________
+/ Q: How does the Polish Constitution    \
+| differ from the American? A: Under the |
+| Polish Constitution citizens are       |
+| guaranteed freedom of                  |
+|                                        |
+| speech, but under the United States    |
+| constitution they are                  |
+|                                        |
+| guaranteed freedom after speech.       |
+|                                        |
+\ -- being told in Poland, 1987          /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
