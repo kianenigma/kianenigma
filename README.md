@@ -4,11 +4,14 @@
 
 <!--START_SECTION:cowsay-->
 ```
- _________________________________________
-/ Q: What do little WASPs want to be when \
-| they grow up? A: The very best person   |
-\ they can possibly be.                   /
- -----------------------------------------
+ ________________________________________
+/ It is by the fortune of God that, in   \
+| this country, we have three benefits:  |
+| freedom of speech, freedom of thought, |
+| and the wisdom never to use either.    |
+|                                        |
+\ -- Mark Twain                          /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
