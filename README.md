@@ -4,14 +4,11 @@
 
 <!--START_SECTION:cowsay-->
 ```
- ________________________________________
-/ Your manuscript is both good and       \
-| original, but the part that is good is |
-| not original and the part that is      |
-| original is not good.                  |
-|                                        |
-\ -- Samuel Johnson                      /
- ----------------------------------------
+ _________________________________________
+/ The better part of valor is discretion. \
+|                                         |
+\ -- William Shakespeare, "Henry IV"      /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
