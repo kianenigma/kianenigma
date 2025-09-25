@@ -4,10 +4,10 @@
 
 <!--START_SECTION:cowsay-->
 ```
- ___________________________________
-/ You will be called upon to help a \
-\ friend in trouble.                /
- -----------------------------------
+ _________________________________________
+/ You're working under a slight handicap. \
+\ You happen to be human.                 /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
