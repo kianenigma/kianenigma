@@ -4,10 +4,10 @@
 
 <!--START_SECTION:cowsay-->
 ```
- _______________________________________
-/ You are so boring that when I see you \
-\ my feet go to sleep.                  /
- ---------------------------------------
+ _________________________________________
+/ Today is the tomorrow you worried about \
+\ yesterday.                              /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
