@@ -4,12 +4,10 @@
 
 <!--START_SECTION:cowsay-->
 ```
- ____________________________________
-/ Familiarity breeds contempt -- and \
-| children.                          |
-|                                    |
-\ -- Mark Twain                      /
- ------------------------------------
+ ______________________________________
+/ Another good night not to sleep in a \
+\ eucalyptus tree.                     /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
