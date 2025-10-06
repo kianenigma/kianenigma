@@ -4,10 +4,13 @@
 
 <!--START_SECTION:cowsay-->
 ```
- ______________________________________
-/ Another good night not to sleep in a \
-\ eucalyptus tree.                     /
- --------------------------------------
+ _________________________________________
+/ In the Spring, I have counted 136       \
+| different kinds of weather inside of 24 |
+| hours.                                  |
+|                                         |
+\ -- Mark Twain, on New England weather   /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
