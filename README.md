@@ -4,10 +4,10 @@
 
 <!--START_SECTION:cowsay-->
 ```
- ________________________________________
-/ Keep emotionally active. Cater to your \
-\ favorite neurosis.                     /
- ----------------------------------------
+ ___________________________________
+/ Do not sleep in a eucalyptus tree \
+\ tonight.                          /
+ -----------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
