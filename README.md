@@ -4,10 +4,10 @@
 
 <!--START_SECTION:cowsay-->
 ```
- ___________________________________
-/ Do not sleep in a eucalyptus tree \
-\ tonight.                          /
- -----------------------------------
+ _________________________________________
+/ Q: What lies on the bottom of the ocean \
+\ and twitches? A: A nervous wreck.       /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
