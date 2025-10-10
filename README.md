@@ -4,10 +4,10 @@
 
 <!--START_SECTION:cowsay-->
 ```
- _________________________________________
-/ Q: What lies on the bottom of the ocean \
-\ and twitches? A: A nervous wreck.       /
- -----------------------------------------
+ ______________________________________
+/ You are only young once, but you can \
+\ stay immature indefinitely.          /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
