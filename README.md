@@ -4,10 +4,12 @@
 
 <!--START_SECTION:cowsay-->
 ```
- ______________________________________
-/ You are only young once, but you can \
-\ stay immature indefinitely.          /
- --------------------------------------
+ _________________________________________
+/ Patch griefs with proverbs.             \
+|                                         |
+| -- William Shakespeare, "Much Ado About |
+\ Nothing"                                /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
