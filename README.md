@@ -4,12 +4,9 @@
 
 <!--START_SECTION:cowsay-->
 ```
- _________________________________________
-/ Patch griefs with proverbs.             \
-|                                         |
-| -- William Shakespeare, "Much Ado About |
-\ Nothing"                                /
- -----------------------------------------
+ __________________________________
+< Make a wish, it might come true. >
+ ----------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
