@@ -4,9 +4,10 @@
 
 <!--START_SECTION:cowsay-->
 ```
- __________________________________
-< Make a wish, it might come true. >
- ----------------------------------
+ _________________________________________
+/ Q: What is the difference between Texas \
+\ and yogurt? A: Yogurt has culture.      /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
