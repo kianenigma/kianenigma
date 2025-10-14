@@ -5,8 +5,9 @@
 <!--START_SECTION:cowsay-->
 ```
  _________________________________________
-/ Q: What is the difference between Texas \
-\ and yogurt? A: Yogurt has culture.      /
+/ Q: What do Winnie the Pooh and John the \
+| Baptist have in common? A: The same     |
+\ middle name.                            /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
