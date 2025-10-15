@@ -5,9 +5,8 @@
 <!--START_SECTION:cowsay-->
 ```
  _________________________________________
-/ Q: What do Winnie the Pooh and John the \
-| Baptist have in common? A: The same     |
-\ middle name.                            /
+/ Don't read any sky-writing for the next \
+\ two weeks.                              /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
