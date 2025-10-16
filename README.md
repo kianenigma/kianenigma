@@ -4,10 +4,10 @@
 
 <!--START_SECTION:cowsay-->
 ```
- _________________________________________
-/ Don't read any sky-writing for the next \
-\ two weeks.                              /
- -----------------------------------------
+ _____________________________________
+/ You have the capacity to learn from \
+\ mistakes. You'll learn a lot today. /
+ -------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
