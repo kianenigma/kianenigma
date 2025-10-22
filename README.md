@@ -4,15 +4,14 @@
 
 <!--START_SECTION:cowsay-->
 ```
- _________________________________________
-/ "I understand this is your first dead   \
-| client," Sabian was saying. The         |
-| absurdity of the statement made me want |
-| to laugh but they don't call me Deadpan |
-| Allie and lie.                          |
-|                                         |
-\ -- Pat Cadigan, "Mindplayers"           /
- -----------------------------------------
+ _____________________________________
+/ It were not best that we should all \
+| think alike; it is difference of    |
+| opinion that makes horse-races.     |
+|                                     |
+| -- Mark Twain, "Pudd'nhead Wilson's |
+\ Calendar"                           /
+ -------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
