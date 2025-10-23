@@ -4,14 +4,10 @@
 
 <!--START_SECTION:cowsay-->
 ```
- _____________________________________
-/ It were not best that we should all \
-| think alike; it is difference of    |
-| opinion that makes horse-races.     |
-|                                     |
-| -- Mark Twain, "Pudd'nhead Wilson's |
-\ Calendar"                           /
- -------------------------------------
+ ________________________________________
+/ Q: Why did the WASP cross the road? A: \
+\ To get to the middle.                  /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
