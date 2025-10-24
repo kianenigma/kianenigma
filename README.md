@@ -4,10 +4,12 @@
 
 <!--START_SECTION:cowsay-->
 ```
- ________________________________________
-/ Q: Why did the WASP cross the road? A: \
-\ To get to the middle.                  /
- ----------------------------------------
+ ______________________________________
+/ "Not Hercules could have knock'd out \
+| his brains, for he had none."        |
+|                                      |
+\ -- Shakespeare                       /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
