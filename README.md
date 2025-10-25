@@ -4,12 +4,13 @@
 
 <!--START_SECTION:cowsay-->
 ```
- ______________________________________
-/ "Not Hercules could have knock'd out \
-| his brains, for he had none."        |
-|                                      |
-\ -- Shakespeare                       /
- --------------------------------------
+ _______________________________________
+/ The devil can cite Scripture for his  \
+| purpose.                              |
+|                                       |
+| -- William Shakespeare, "The Merchant |
+\ of Venice"                            /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
