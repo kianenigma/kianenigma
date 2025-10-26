@@ -4,13 +4,9 @@
 
 <!--START_SECTION:cowsay-->
 ```
- _______________________________________
-/ The devil can cite Scripture for his  \
-| purpose.                              |
-|                                       |
-| -- William Shakespeare, "The Merchant |
-\ of Venice"                            /
- ---------------------------------------
+ ________________________
+< Snow Day -- stay home. >
+ ------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
