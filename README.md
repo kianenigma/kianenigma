@@ -4,10 +4,13 @@
 
 <!--START_SECTION:cowsay-->
 ```
- _____________________________________
-/ You are dishonest, but never to the \
-\ point of hurting a friend.          /
- -------------------------------------
+ ________________________________________
+/ No group of professionals meets except \
+| to conspire against the public at      |
+| large.                                 |
+|                                        |
+\ -- Mark Twain                          /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
