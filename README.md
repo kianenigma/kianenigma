@@ -4,10 +4,13 @@
 
 <!--START_SECTION:cowsay-->
 ```
- ______________________________________
-/ A few hours grace before the madness \
-\ begins again.                        /
- --------------------------------------
+ _______________________________________
+/ Sometimes I wonder if I'm in my right \
+| mind. Then it passes off and I'm as   |
+| intelligent as ever.                  |
+|                                       |
+\ -- Samuel Beckett, "Endgame"          /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
