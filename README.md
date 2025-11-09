@@ -4,11 +4,10 @@
 
 <!--START_SECTION:cowsay-->
 ```
- ________________________________________
-/ I fell asleep reading a dull book, and \
-| I dreamt that I was reading on, so I   |
-\ woke up from sheer boredom.            /
- ----------------------------------------
+ _________________________________________
+/ You will be traveling and coming into a \
+\ fortune.                                /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
