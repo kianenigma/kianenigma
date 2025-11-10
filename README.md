@@ -5,8 +5,8 @@
 <!--START_SECTION:cowsay-->
 ```
  _________________________________________
-/ You will be traveling and coming into a \
-\ fortune.                                /
+/ Your mode of life will be changed for   \
+\ the better because of new developments. /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
