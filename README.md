@@ -5,8 +5,8 @@
 <!--START_SECTION:cowsay-->
 ```
  _________________________________________
-/ Your mode of life will be changed for   \
-\ the better because of new developments. /
+/ Truth will out this morning. (Which may \
+\ really mess things up.)                 /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
