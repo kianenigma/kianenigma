@@ -4,10 +4,10 @@
 
 <!--START_SECTION:cowsay-->
 ```
- _________________________________________
-/ Truth will out this morning. (Which may \
-\ really mess things up.)                 /
- -----------------------------------------
+ ________________________________________
+/ Tuesday After Lunch is the cosmic time \
+\ of the week.                           /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
