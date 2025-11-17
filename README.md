@@ -4,9 +4,11 @@
 
 <!--START_SECTION:cowsay-->
 ```
- ___________________________________
-< You may be recognized soon. Hide. >
- -----------------------------------
+ ________________________________________
+/ Your temporary financial embarrassment \
+| will be relieved in a surprising       |
+\ manner.                                /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
