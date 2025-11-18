@@ -4,11 +4,9 @@
 
 <!--START_SECTION:cowsay-->
 ```
- ________________________________________
-/ Your temporary financial embarrassment \
-| will be relieved in a surprising       |
-\ manner.                                /
- ----------------------------------------
+ ______________________________
+< You are standing on my toes. >
+ ------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
