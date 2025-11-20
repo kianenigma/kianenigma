@@ -4,11 +4,10 @@
 
 <!--START_SECTION:cowsay-->
 ```
- ________________________
-/ I'll burn my books.    \
-|                        |
-\ -- Christopher Marlowe /
- ------------------------
+ ______________________________________
+/ Good day to let down old friends who \
+\ need help.                           /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
