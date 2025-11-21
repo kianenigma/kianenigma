@@ -4,10 +4,11 @@
 
 <!--START_SECTION:cowsay-->
 ```
- ______________________________________
-/ Good day to let down old friends who \
-\ need help.                           /
- --------------------------------------
+ _________________________________________
+/ You will be attacked by a beast who has \
+| the body of a wolf, the tail of a lion, |
+\ and the face of Donald Duck.            /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
