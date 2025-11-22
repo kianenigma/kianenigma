@@ -4,11 +4,12 @@
 
 <!--START_SECTION:cowsay-->
 ```
- _________________________________________
-/ You will be attacked by a beast who has \
-| the body of a wolf, the tail of a lion, |
-\ and the face of Donald Duck.            /
- -----------------------------------------
+ ______________________________________
+/ Every why hath a wherefore.          \
+|                                      |
+| -- William Shakespeare, "A Comedy of |
+\ Errors"                              /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
