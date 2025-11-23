@@ -4,12 +4,10 @@
 
 <!--START_SECTION:cowsay-->
 ```
- ______________________________________
-/ Every why hath a wherefore.          \
-|                                      |
-| -- William Shakespeare, "A Comedy of |
-\ Errors"                              /
- --------------------------------------
+ _________________________________________
+/ You are a very redundant person, that's \
+\ what kind of person you are.            /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
