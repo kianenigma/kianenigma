@@ -4,13 +4,11 @@
 
 <!--START_SECTION:cowsay-->
 ```
- _____________________________________
-/ Many a writer seems to think he is  \
-| never profound except when he can't |
-| understand his own meaning.         |
-|                                     |
-\ -- George D. Prentice               /
- -------------------------------------
+ _______________________________
+/ Don't worry. Life's too long. \
+|                               |
+\ -- Vincent Sardi, Jr.         /
+ -------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
