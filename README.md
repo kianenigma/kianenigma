@@ -4,11 +4,13 @@
 
 <!--START_SECTION:cowsay-->
 ```
- _______________________________
-/ Don't worry. Life's too long. \
-|                               |
-\ -- Vincent Sardi, Jr.         /
- -------------------------------
+ _________________________________________
+/ Soap and education are not as sudden as \
+| a massacre, but they are more deadly in |
+| the long run.                           |
+|                                         |
+\ -- Mark Twain                           /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
