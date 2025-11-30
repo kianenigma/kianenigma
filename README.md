@@ -5,11 +5,11 @@
 <!--START_SECTION:cowsay-->
 ```
  _________________________________________
-/ Soap and education are not as sudden as \
-| a massacre, but they are more deadly in |
-| the long run.                           |
+/ Q: What's the difference between a dead \
+| dog in the road and a dead              |
 |                                         |
-\ -- Mark Twain                           /
+| lawyer in the road? A: There are skid   |
+\ marks in front of the dog.              /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
