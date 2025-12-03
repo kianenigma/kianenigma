@@ -5,8 +5,8 @@
 <!--START_SECTION:cowsay-->
 ```
  _____________________________________
-/ Someone whom you reject today, will \
-\ reject you tomorrow.                /
+/ You will be awarded the Nobel Peace \
+\ Prize... posthumously.              /
  -------------------------------------
         \   ^__^
          \  (oo)\_______
