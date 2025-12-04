@@ -4,10 +4,10 @@
 
 <!--START_SECTION:cowsay-->
 ```
- _____________________________________
-/ You will be awarded the Nobel Peace \
-\ Prize... posthumously.              /
- -------------------------------------
+ ________________________________________
+/ You will always have good luck in your \
+\ personal affairs.                      /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
