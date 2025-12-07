@@ -5,8 +5,8 @@
 <!--START_SECTION:cowsay-->
 ```
  ________________________________________
-/ Tuesday After Lunch is the cosmic time \
-\ of the week.                           /
+/ You will become rich and famous unless \
+\ you don't.                             /
  ----------------------------------------
         \   ^__^
          \  (oo)\_______
