@@ -5,8 +5,8 @@
 <!--START_SECTION:cowsay-->
 ```
  _______________________________________
-/ You will feel hungry again in another \
-\ hour.                                 /
+/ You will visit the Dung Pits of Glive \
+\ soon.                                 /
  ---------------------------------------
         \   ^__^
          \  (oo)\_______
