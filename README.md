@@ -4,10 +4,13 @@
 
 <!--START_SECTION:cowsay-->
 ```
- _______________________________________
-/ You will visit the Dung Pits of Glive \
-\ soon.                                 /
- ---------------------------------------
+ ____________________________________
+/ The last thing one knows in        \
+| constructing a work is what to put |
+| first.                             |
+|                                    |
+\ -- Blaise Pascal                   /
+ ------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
