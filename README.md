@@ -4,13 +4,13 @@
 
 <!--START_SECTION:cowsay-->
 ```
- ____________________________________
-/ The last thing one knows in        \
-| constructing a work is what to put |
-| first.                             |
-|                                    |
-\ -- Blaise Pascal                   /
- ------------------------------------
+ _____________________________________
+/ When angry, count four; when very   \
+| angry, swear.                       |
+|                                     |
+| -- Mark Twain, "Pudd'nhead Wilson's |
+\ Calendar"                           /
+ -------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
