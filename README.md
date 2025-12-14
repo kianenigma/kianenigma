@@ -4,13 +4,10 @@
 
 <!--START_SECTION:cowsay-->
 ```
- _____________________________________
-/ When angry, count four; when very   \
-| angry, swear.                       |
-|                                     |
-| -- Mark Twain, "Pudd'nhead Wilson's |
-\ Calendar"                           /
- -------------------------------------
+ ______________________________________
+/ Q: What's hard going in and soft and \
+\ sticky coming out? A: Chewing gum.   /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
