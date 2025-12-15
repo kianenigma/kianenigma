@@ -4,10 +4,10 @@
 
 <!--START_SECTION:cowsay-->
 ```
- ______________________________________
-/ Q: What's hard going in and soft and \
-\ sticky coming out? A: Chewing gum.   /
- --------------------------------------
+ ____________________________
+/ Your lucky number has been \
+\ disconnected.              /
+ ----------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
