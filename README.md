@@ -4,10 +4,10 @@
 
 <!--START_SECTION:cowsay-->
 ```
- ____________________________
-/ Your lucky number has been \
-\ disconnected.              /
- ----------------------------
+ ________________________________
+/ Your business will assume vast \
+\ proportions.                   /
+ --------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
