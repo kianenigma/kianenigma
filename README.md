@@ -4,12 +4,13 @@
 
 <!--START_SECTION:cowsay-->
 ```
- ____________________________________
-/ Tempt not a desperate man.         \
-|                                    |
-| -- William Shakespeare, "Romeo and |
-\ Juliet"                            /
- ------------------------------------
+ _______________________________________
+/ Noise proves nothing. Often a hen who \
+| has merely laid an egg cackles as if  |
+| she laid an asteroid.                 |
+|                                       |
+\ -- Mark Twain                         /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
