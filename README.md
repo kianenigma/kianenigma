@@ -4,11 +4,10 @@
 
 <!--START_SECTION:cowsay-->
 ```
- __________________________________
-/ Be cheerful while you are alive. \
-|                                  |
-\ -- Phathotep, 24th Century B.C.  /
- ----------------------------------
+ _________________________________________
+/ Go to a movie tonight. Darkness becomes \
+\ you.                                    /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
