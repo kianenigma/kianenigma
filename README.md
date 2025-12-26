@@ -4,10 +4,11 @@
 
 <!--START_SECTION:cowsay-->
 ```
- _________________________________________
-/ Go to a movie tonight. Darkness becomes \
-\ you.                                    /
- -----------------------------------------
+ ________________________________________
+/ Give thought to your reputation.       \
+| Consider changing name and moving to a |
+\ new town.                              /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
