@@ -4,11 +4,12 @@
 
 <!--START_SECTION:cowsay-->
 ```
- _______________________________________
-/ You are destined to become the        \
-| commandant of the fighting men of the |
-\ department of transportation.         /
- ---------------------------------------
+ ________________________________________
+/ Rebellion lay in his way, and he found \
+| it.                                    |
+|                                        |
+\ -- William Shakespeare, "Henry IV"     /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
