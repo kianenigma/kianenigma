@@ -4,10 +4,11 @@
 
 <!--START_SECTION:cowsay-->
 ```
- _________________________________________
-/ You will be imprisoned for contributing \
-\ your time and skill to a bank robbery.  /
- -----------------------------------------
+ ______________________________________
+/ Q: What do agnostic, insomniac       \
+| dyslexics do at night? A: Stay awake |
+\ and wonder if there's a dog.         /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
