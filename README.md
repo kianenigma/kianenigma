@@ -4,11 +4,10 @@
 
 <!--START_SECTION:cowsay-->
 ```
- ______________________________________
-/ Q: What do agnostic, insomniac       \
-| dyslexics do at night? A: Stay awake |
-\ and wonder if there's a dog.         /
- --------------------------------------
+ ________________________________________
+/ Keep emotionally active. Cater to your \
+\ favorite neurosis.                     /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
