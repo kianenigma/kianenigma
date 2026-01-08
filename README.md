@@ -4,13 +4,13 @@
 
 <!--START_SECTION:cowsay-->
 ```
- _______________________________________
-/ You never have to change anything you \
-| got up in the middle of the night to  |
-| write.                                |
-|                                       |
-\ -- Saul Bellow                        /
- ---------------------------------------
+ ______________________________________
+/ I was gratified to be able to answer \
+| promptly, and I did. I said I didn't |
+| know.                                |
+|                                      |
+\ -- Mark Twain                        /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
