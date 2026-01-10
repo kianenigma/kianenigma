@@ -4,12 +4,12 @@
 
 <!--START_SECTION:cowsay-->
 ```
- ________________________________________
-/ Today's weirdness is tomorrow's reason \
-| why.                                   |
-|                                        |
-\ -- Hunter S. Thompson                  /
- ----------------------------------------
+ ____________________________________
+/ Tempt not a desperate man.         \
+|                                    |
+| -- William Shakespeare, "Romeo and |
+\ Juliet"                            /
+ ------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
