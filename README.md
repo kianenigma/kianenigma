@@ -4,12 +4,10 @@
 
 <!--START_SECTION:cowsay-->
 ```
- ____________________________________
-/ Tempt not a desperate man.         \
-|                                    |
-| -- William Shakespeare, "Romeo and |
-\ Juliet"                            /
- ------------------------------------
+ ___________________________________
+/ Your heart is pure, and your mind \
+\ clear, and your soul devout.      /
+ -----------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
