@@ -5,9 +5,8 @@
 <!--START_SECTION:cowsay-->
 ```
  ______________________________________
-/ You plan things that you do not even \
-| attempt because of your extreme      |
-\ caution.                             /
+/ Your life would be very empty if you \
+\ had nothing to regret.               /
  --------------------------------------
         \   ^__^
          \  (oo)\_______
