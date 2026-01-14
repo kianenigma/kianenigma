@@ -4,10 +4,10 @@
 
 <!--START_SECTION:cowsay-->
 ```
- ______________________________________
-/ Your life would be very empty if you \
-\ had nothing to regret.               /
- --------------------------------------
+ _______________________________________
+/ You get along very well with everyone \
+\ except animals and people.            /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
