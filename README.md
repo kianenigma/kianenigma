@@ -4,11 +4,9 @@
 
 <!--START_SECTION:cowsay-->
 ```
- _________________________________________
-/ While you recently had your problems on \
-| the run, they've regrouped and are      |
-\ making another attack.                  /
- -----------------------------------------
+ ______________________________
+< Reply hazy, ask again later. >
+ ------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
