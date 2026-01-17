@@ -4,9 +4,10 @@
 
 <!--START_SECTION:cowsay-->
 ```
- ______________________________
-< Reply hazy, ask again later. >
- ------------------------------
+ _____________________________________
+/ You will have a long and unpleasant \
+\ discussion with your supervisor.    /
+ -------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
