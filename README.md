@@ -4,10 +4,10 @@
 
 <!--START_SECTION:cowsay-->
 ```
- ______________________________________
-/ Never be led astray onto the path of \
-\ virtue.                              /
- --------------------------------------
+ ___________________________________
+/ Your nature demands love and your \
+\ happiness depends on it.          /
+ -----------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
