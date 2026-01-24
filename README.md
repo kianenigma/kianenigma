@@ -4,12 +4,12 @@
 
 <!--START_SECTION:cowsay-->
 ```
- _________________________________________
-/ FORTUNE PROVIDES QUESTIONS FOR THE      \
-| GREAT ANSWERS: #21 A: Dr. Livingston I. |
-| Presume. Q: What's Dr. Presume's full   |
-\ name?                                   /
- -----------------------------------------
+ _______________________________________
+/ Q: What's the difference betweeen USL \
+| and the Graf Zeppelin? A: The Graf    |
+| Zeppelin represented cutting edge     |
+\ technology for its time.              /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
