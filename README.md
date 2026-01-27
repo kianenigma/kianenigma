@@ -4,11 +4,14 @@
 
 <!--START_SECTION:cowsay-->
 ```
- _______________________________
-/ Don't worry. Life's too long. \
-|                               |
-\ -- Vincent Sardi, Jr.         /
- -------------------------------
+ _________________________________________
+/ There is no hunting like the hunting of \
+| man, and those who have hunted armed    |
+| men long enough and liked it, never     |
+| care for anything else thereafter.      |
+|                                         |
+\ -- Ernest Hemingway                     /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
