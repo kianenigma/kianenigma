@@ -4,10 +4,10 @@
 
 <!--START_SECTION:cowsay-->
 ```
- _________________________________________
-/ You have a strong appeal for members of \
-\ your own sex.                           /
- -----------------------------------------
+ ____________________________________
+/ Don't worry so loud, your roommate \
+\ can't think.                       /
+ ------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
