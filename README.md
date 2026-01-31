@@ -4,11 +4,10 @@
 
 <!--START_SECTION:cowsay-->
 ```
- _________________________________________
-/ Q: What do you say to a New Yorker with \
-| a job? A: Big Mac, fries and a Coke,    |
-\ please!                                 /
- -----------------------------------------
+ _____________________________________
+/ Good news from afar can bring you a \
+\ welcome visitor.                    /
+ -------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
