@@ -5,11 +5,9 @@
 <!--START_SECTION:cowsay-->
 ```
  _________________________________________
-/ The fashion wears out more apparel than \
-| the man.                                |
+/ The better part of valor is discretion. \
 |                                         |
-| -- William Shakespeare, "Much Ado About |
-\ Nothing"                                /
+\ -- William Shakespeare, "Henry IV"      /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
