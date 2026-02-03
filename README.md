@@ -5,9 +5,11 @@
 <!--START_SECTION:cowsay-->
 ```
  _________________________________________
-/ The better part of valor is discretion. \
+/ Fame is a vapor; popularity an          \
+| accident; the only earthly certainty is |
+| oblivion.                               |
 |                                         |
-\ -- William Shakespeare, "Henry IV"      /
+\ -- Mark Twain                           /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
