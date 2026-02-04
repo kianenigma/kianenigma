@@ -5,11 +5,8 @@
 <!--START_SECTION:cowsay-->
 ```
  _________________________________________
-/ Fame is a vapor; popularity an          \
-| accident; the only earthly certainty is |
-| oblivion.                               |
-|                                         |
-\ -- Mark Twain                           /
+/ You're ugly and your mother dresses you \
+\ funny.                                  /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
