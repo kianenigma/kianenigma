@@ -4,12 +4,9 @@
 
 <!--START_SECTION:cowsay-->
 ```
- _________________________________________
-/ Q: What do you get when you cross a     \
-| mobster with an international standard? |
-| A: You get someone who makes you an     |
-\ offer that you can't understand!        /
- -----------------------------------------
+ _______________________________________
+< Be careful! UGLY strikes 9 out of 10! >
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
