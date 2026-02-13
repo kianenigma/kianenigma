@@ -4,10 +4,9 @@
 
 <!--START_SECTION:cowsay-->
 ```
- _________________________________________
-/ Q: What is the difference between Texas \
-\ and yogurt? A: Yogurt has culture.      /
- -----------------------------------------
+ ___________________________
+< You have no real enemies. >
+ ---------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
