@@ -4,9 +4,10 @@
 
 <!--START_SECTION:cowsay-->
 ```
- ___________________________
-< You have no real enemies. >
- ---------------------------
+ ________________________________
+/ It was all so different before \
+\ everything changed.            /
+ --------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
