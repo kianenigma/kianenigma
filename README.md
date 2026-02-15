@@ -4,10 +4,10 @@
 
 <!--START_SECTION:cowsay-->
 ```
- ________________________________
-/ It was all so different before \
-\ everything changed.            /
- --------------------------------
+ _____________________________________
+/ Don't get stuck in a closet -- wear \
+\ yourself out.                       /
+ -------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
