@@ -4,10 +4,11 @@
 
 <!--START_SECTION:cowsay-->
 ```
- _____________________________________
-/ Don't get stuck in a closet -- wear \
-\ yourself out.                       /
- -------------------------------------
+ ___________________________
+/ Too much is just enough.  \
+|                           |
+\ -- Mark Twain, on whiskey /
+ ---------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
