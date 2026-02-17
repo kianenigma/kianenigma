@@ -4,11 +4,11 @@
 
 <!--START_SECTION:cowsay-->
 ```
- ___________________________
-/ Too much is just enough.  \
-|                           |
-\ -- Mark Twain, on whiskey /
- ---------------------------
+ ______________________________________
+/ Having nothing, nothing can he lose. \
+|                                      |
+\ -- William Shakespeare, "Henry VI"   /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
