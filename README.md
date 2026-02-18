@@ -4,11 +4,13 @@
 
 <!--START_SECTION:cowsay-->
 ```
- ______________________________________
-/ Having nothing, nothing can he lose. \
-|                                      |
-\ -- William Shakespeare, "Henry VI"   /
- --------------------------------------
+ ________________________________________
+/ Reader, suppose you were an idiot. And \
+| suppose you were a member of Congress. |
+| But I repeat myself.                   |
+|                                        |
+\ -- Mark Twain                          /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
