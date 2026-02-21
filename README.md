@@ -4,13 +4,11 @@
 
 <!--START_SECTION:cowsay-->
 ```
- ____________________________________
-/ They have been at a great feast of \
-| languages, and stolen the scraps.  |
-|                                    |
-| -- William Shakespeare, "Love's    |
-\ Labour's Lost"                     /
- ------------------------------------
+ ______________________________________
+/ Good night to spend with family, but \
+| avoid arguments with your mate's new |
+\ lover.                               /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
