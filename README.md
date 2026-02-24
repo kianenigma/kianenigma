@@ -4,13 +4,9 @@
 
 <!--START_SECTION:cowsay-->
 ```
- _________________________________________
-/ The fashion wears out more apparel than \
-| the man.                                |
-|                                         |
-| -- William Shakespeare, "Much Ado About |
-\ Nothing"                                /
- -----------------------------------------
+ ________________________________
+< You will get what you deserve. >
+ --------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
