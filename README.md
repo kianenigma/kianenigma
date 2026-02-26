@@ -4,11 +4,11 @@
 
 <!--START_SECTION:cowsay-->
 ```
- ________________________________________
-/ You can do very well in speculation    \
-| where land or anything to do with dirt |
-\ is concerned.                          /
- ----------------------------------------
+ _________________________________________
+/ Next Friday will not be your lucky day. \
+| As a matter of fact, you don't have a   |
+\ lucky day this year.                    /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
