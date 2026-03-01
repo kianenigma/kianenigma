@@ -4,10 +4,13 @@
 
 <!--START_SECTION:cowsay-->
 ```
- _________________________________________
-/ You will be traveling and coming into a \
-\ fortune.                                /
- -----------------------------------------
+ ______________________________________
+/ Tell the truth or trump--but get the \
+| trick.                               |
+|                                      |
+| -- Mark Twain, "Pudd'nhead Wilson's  |
+\ Calendar"                            /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
