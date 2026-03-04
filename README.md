@@ -4,10 +4,11 @@
 
 <!--START_SECTION:cowsay-->
 ```
- ________________________________________
-/ Celebrate Hannibal Day this year. Take \
-\ an elephant to lunch.                  /
- ----------------------------------------
+ _______________________________________
+/ Troubled day for virgins over 16 who  \
+| are beautiful and wealthy and live in |
+\ eucalyptus trees.                     /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
