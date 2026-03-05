@@ -4,11 +4,10 @@
 
 <!--START_SECTION:cowsay-->
 ```
- _______________________________________
-/ Troubled day for virgins over 16 who  \
-| are beautiful and wealthy and live in |
-\ eucalyptus trees.                     /
- ---------------------------------------
+ ________________________________________
+/ Tonight you will pay the wages of sin; \
+\ Don't forget to leave a tip.           /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
