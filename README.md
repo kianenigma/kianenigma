@@ -4,10 +4,12 @@
 
 <!--START_SECTION:cowsay-->
 ```
- _____________________________________
-/ You are not dead yet. But watch for \
-\ further reports.                    /
- -------------------------------------
+ ____________________________________
+/ An honest tale speeds best being   \
+| plainly told.                      |
+|                                    |
+\ -- William Shakespeare, "Henry VI" /
+ ------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
