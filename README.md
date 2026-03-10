@@ -4,12 +4,13 @@
 
 <!--START_SECTION:cowsay-->
 ```
- ____________________________________
-/ An honest tale speeds best being   \
-| plainly told.                      |
-|                                    |
-\ -- William Shakespeare, "Henry VI" /
- ------------------------------------
+ ______________________________________
+/ Tell the truth or trump--but get the \
+| trick.                               |
+|                                      |
+| -- Mark Twain, "Pudd'nhead Wilson's  |
+\ Calendar"                            /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
