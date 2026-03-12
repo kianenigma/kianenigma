@@ -4,11 +4,10 @@
 
 <!--START_SECTION:cowsay-->
 ```
- ____________________________________
-/ Small things make base men proud.  \
-|                                    |
-\ -- William Shakespeare, "Henry VI" /
- ------------------------------------
+ ________________________________________
+/ You will be honored for contributing   \
+\ your time and skill to a worthy cause. /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
