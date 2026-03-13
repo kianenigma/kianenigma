@@ -4,10 +4,14 @@
 
 <!--START_SECTION:cowsay-->
 ```
- ________________________________________
-/ You will be honored for contributing   \
-\ your time and skill to a worthy cause. /
- ----------------------------------------
+ _________________________________________
+/ Let us endeavor so to live that when we \
+| come to die even the undertaker will be |
+| sorry.                                  |
+|                                         |
+| -- Mark Twain, "Pudd'nhead Wilson's     |
+\ Calendar"                               /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
