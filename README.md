@@ -5,12 +5,11 @@
 <!--START_SECTION:cowsay-->
 ```
  ________________________________________
-/ I don't know half of you half as well  \
-| as I should like; and I like less than |
-| half of you half as well as you        |
-| deserve.                               |
+/ No group of professionals meets except \
+| to conspire against the public at      |
+| large.                                 |
 |                                        |
-\ -- J. R. R. Tolkien                    /
+\ -- Mark Twain                          /
  ----------------------------------------
         \   ^__^
          \  (oo)\_______
