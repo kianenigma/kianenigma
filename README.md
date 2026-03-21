@@ -4,11 +4,9 @@
 
 <!--START_SECTION:cowsay-->
 ```
- _________________________________________
-/ You will stop at nothing to reach your  \
-| objective, but only because your brakes |
-\ are defective.                          /
- -----------------------------------------
+ ________________________________
+< You will be run over by a bus. >
+ --------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
