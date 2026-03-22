@@ -4,9 +4,10 @@
 
 <!--START_SECTION:cowsay-->
 ```
- ________________________________
-< You will be run over by a bus. >
- --------------------------------
+ _____________________________________
+/ Things will be bright in P.M. A cop \
+\ will shine a light in your face.    /
+ -------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
