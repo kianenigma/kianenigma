@@ -4,10 +4,10 @@
 
 <!--START_SECTION:cowsay-->
 ```
- _____________________________________
-/ Things will be bright in P.M. A cop \
-\ will shine a light in your face.    /
- -------------------------------------
+ _______________________________________
+/ You never hesitate to tackle the most \
+\ difficult problems.                   /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
