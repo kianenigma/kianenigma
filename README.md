@@ -4,9 +4,13 @@
 
 <!--START_SECTION:cowsay-->
 ```
- ________________________________________
-< Your love life will be... interesting. >
- ----------------------------------------
+ _________________________________________
+/ Q: How do you catch a unique rabbit? A: \
+| Unique up on it!                        |
+|                                         |
+| Q: How do you catch a tame rabbit? A:   |
+\ The tame way!                           /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
