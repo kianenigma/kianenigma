@@ -4,13 +4,10 @@
 
 <!--START_SECTION:cowsay-->
 ```
- _________________________________________
-/ Q: How do you catch a unique rabbit? A: \
-| Unique up on it!                        |
-|                                         |
-| Q: How do you catch a tame rabbit? A:   |
-\ The tame way!                           /
- -----------------------------------------
+ ________________________________________
+/ You have Egyptian flu: you're going to \
+\ be a mummy.                            /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
