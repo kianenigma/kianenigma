@@ -4,10 +4,10 @@
 
 <!--START_SECTION:cowsay-->
 ```
- ________________________________________
-/ You have Egyptian flu: you're going to \
-\ be a mummy.                            /
- ----------------------------------------
+ ____________________________
+/ Your lucky number has been \
+\ disconnected.              /
+ ----------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
