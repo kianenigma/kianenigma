@@ -4,13 +4,12 @@
 
 <!--START_SECTION:cowsay-->
 ```
- _______________________________________
-/ You never have to change anything you \
-| got up in the middle of the night to  |
-| write.                                |
-|                                       |
-\ -- Saul Bellow                        /
- ---------------------------------------
+ _____________________________________
+/ Let him choose out of my files, his \
+| projects to accomplish.             |
+|                                     |
+\ -- Shakespeare, "Coriolanus"        /
+ -------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
