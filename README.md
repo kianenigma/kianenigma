@@ -4,9 +4,10 @@
 
 <!--START_SECTION:cowsay-->
 ```
- ___________________________________
-< You will outgrow your usefulness. >
- -----------------------------------
+ ____________________________________
+/ After your lover has gone you will \
+\ still have PEANUT BUTTER!          /
+ ------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
