@@ -4,10 +4,13 @@
 
 <!--START_SECTION:cowsay-->
 ```
- ______________________________________
-/ You need more time; and you probably \
-\ always will.                         /
- --------------------------------------
+ _______________________________________
+/ "Elves and Dragons!" I says to him.   \
+| "Cabbages and potatoes are better for |
+| you and me."                          |
+|                                       |
+\ -- J. R. R. Tolkien                   /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
