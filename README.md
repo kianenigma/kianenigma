@@ -5,8 +5,10 @@
 <!--START_SECTION:cowsay-->
 ```
  _______________________________________
-/ Communicate! It can't make things any \
-\ worse.                                /
+/ As flies to wanton boys are we to the \
+| gods; they kill us for their sport.   |
+|                                       |
+\ -- Shakespeare, "King Lear"           /
  ---------------------------------------
         \   ^__^
          \  (oo)\_______
