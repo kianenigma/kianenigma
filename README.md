@@ -4,12 +4,9 @@
 
 <!--START_SECTION:cowsay-->
 ```
- _______________________________________
-/ As flies to wanton boys are we to the \
-| gods; they kill us for their sport.   |
-|                                       |
-\ -- Shakespeare, "King Lear"           /
- ---------------------------------------
+ ________________________________________
+< Avoid gunfire in the bathroom tonight. >
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
