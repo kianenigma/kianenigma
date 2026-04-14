@@ -4,9 +4,11 @@
 
 <!--START_SECTION:cowsay-->
 ```
- ________________________________________
-< Avoid gunfire in the bathroom tonight. >
- ----------------------------------------
+ ____________________________________
+/ It's lucky you're going so slowly, \
+| because you're going in the wrong  |
+\ direction.                         /
+ ------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
