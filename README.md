@@ -4,10 +4,10 @@
 
 <!--START_SECTION:cowsay-->
 ```
- _____________________________________
-/ You'll feel much better once you've \
-\ given up hope.                      /
- -------------------------------------
+ ___________________________________
+/ Your heart is pure, and your mind \
+\ clear, and your soul devout.      /
+ -----------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
