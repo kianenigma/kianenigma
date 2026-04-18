@@ -4,10 +4,15 @@
 
 <!--START_SECTION:cowsay-->
 ```
- ___________________________________
-/ Your heart is pure, and your mind \
-\ clear, and your soul devout.      /
- -----------------------------------
+ _________________________________________
+/  You will remember, Watson, how the     \
+| dreadful business of the Abernetty      |
+| family was first brought to my notice   |
+| by the depth which the parsley had sunk |
+| into the butter upon a hot day.         |
+|                                         |
+\ -- Sherlock Holmes                      /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
