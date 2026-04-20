@@ -4,12 +4,9 @@
 
 <!--START_SECTION:cowsay-->
 ```
- ________________________________________
-/ The very ink with which all history is \
-| written is merely fluid prejudice.     |
-|                                        |
-\ -- Mark Twain                          /
- ----------------------------------------
+ _____________________________________
+< You will be divorced within a year. >
+ -------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
