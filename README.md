@@ -5,7 +5,11 @@
 <!--START_SECTION:cowsay-->
 ```
  _____________________________________
-< You will be divorced within a year. >
+/ Many a writer seems to think he is  \
+| never profound except when he can't |
+| understand his own meaning.         |
+|                                     |
+\ -- George D. Prentice               /
  -------------------------------------
         \   ^__^
          \  (oo)\_______
