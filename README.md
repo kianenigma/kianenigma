@@ -4,11 +4,9 @@
 
 <!--START_SECTION:cowsay-->
 ```
- _____________________________________
-/ For courage mounteth with occasion. \
-|                                     |
-\ -- William Shakespeare, "King John" /
- -------------------------------------
+ _______________________________________
+< You will be run over by a beer truck. >
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
