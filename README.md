@@ -4,10 +4,10 @@
 
 <!--START_SECTION:cowsay-->
 ```
- ________________________________________
-/ Q: What's a WASP's idea of             \
-\ open-mindedness? A: Dating a Canadian. /
- ----------------------------------------
+ _________________________________________
+/ An exotic journey in downtown Newark is \
+\ in your future.                         /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
