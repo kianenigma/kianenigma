@@ -4,10 +4,10 @@
 
 <!--START_SECTION:cowsay-->
 ```
- _________________________________________
-/ An exotic journey in downtown Newark is \
-\ in your future.                         /
- -----------------------------------------
+ ________________________________________
+/ You are farsighted, a good planner, an \
+\ ardent lover, and a faithful friend.   /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
