@@ -4,10 +4,12 @@
 
 <!--START_SECTION:cowsay-->
 ```
- ________________________________________
-/ You are farsighted, a good planner, an \
-\ ardent lover, and a faithful friend.   /
- ----------------------------------------
+ ____________________________________
+/ The smallest worm will turn being  \
+| trodden on.                        |
+|                                    |
+\ -- William Shakespeare, "Henry VI" /
+ ------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
