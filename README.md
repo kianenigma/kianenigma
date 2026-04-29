@@ -4,12 +4,10 @@
 
 <!--START_SECTION:cowsay-->
 ```
- ____________________________________
-/ The smallest worm will turn being  \
-| trodden on.                        |
-|                                    |
-\ -- William Shakespeare, "Henry VI" /
- ------------------------------------
+ _________________________________________
+/ Are you ever going to do the dishes? Or \
+\ will you change your major to biology?  /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
