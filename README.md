@@ -4,10 +4,10 @@
 
 <!--START_SECTION:cowsay-->
 ```
- _________________________________________
-/ Best of all is never to have been born. \
-\ Second best is to die soon.             /
- -----------------------------------------
+ ______________________________________
+/ Q: What's hard going in and soft and \
+\ sticky coming out? A: Chewing gum.   /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
