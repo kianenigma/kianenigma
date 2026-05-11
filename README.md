@@ -5,10 +5,20 @@
 <!--START_SECTION:cowsay-->
 ```
  _________________________________________
-/ It is so very hard to be an             \
-| on-your-own-take-care-of-yourself-becau |
-| se-there-is-no-one-else-to-do-it-for-yo |
-\ u grown-up.                             /
+/ Mind! I don't mean to say that I know,  \
+| of my own knowledge, what there is      |
+| particularly dead about a door-nail. I  |
+| might have been inclined, myself, to    |
+| regard a coffin-nail as the deadest     |
+| piece of ironmongery in the trade. But  |
+| the wisdom of our ancestors is in the   |
+| simile; and my unhallowed hands shall   |
+| not disturb it, or the Country's done   |
+| for. You will therefore permit me to    |
+| repeat, emphatically, that Marley was   |
+| as dead as a door-nail.                 |
+|                                         |
+\ -- Charles Dickens, "A Christmas Carol" /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
