@@ -4,16 +4,19 @@
 
 <!--START_SECTION:cowsay-->
 ```
- _______________________________________
-/ October 12, the Discovery.            \
-|                                       |
-| It was wonderful to find America, but |
-| it would have been more wonderful to  |
-| miss it.                              |
-|                                       |
-| -- Mark Twain, "Pudd'nhead Wilson's   |
-\ Calendar"                             /
- ---------------------------------------
+ _________________________________________
+/ October.                                \
+|                                         |
+| This is one of the peculiarly dangerous |
+| months to speculate in stocks in.       |
+|                                         |
+| The others are July, January,           |
+| September, April, November, May, March, |
+| June, December, August, and February.   |
+|                                         |
+| -- Mark Twain, "Pudd'nhead Wilson's     |
+\ Calendar"                               /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
