@@ -4,12 +4,9 @@
 
 <!--START_SECTION:cowsay-->
 ```
- _________________________________________
-/ The whole world is a tuxedo and you are \
-| a pair of brown shoes.                  |
-|                                         |
-\ -- George Gobel                         /
- -----------------------------------------
+ _________________
+< Stay the curse. >
+ -----------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
