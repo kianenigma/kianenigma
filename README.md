@@ -4,9 +4,13 @@
 
 <!--START_SECTION:cowsay-->
 ```
- _________________
-< Stay the curse. >
- -----------------
+ _________________________________________
+/ Fame is a vapor; popularity an          \
+| accident; the only earthly certainty is |
+| oblivion.                               |
+|                                         |
+\ -- Mark Twain                           /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
