@@ -4,11 +4,9 @@
 
 <!--START_SECTION:cowsay-->
 ```
- _________________________________________
-/ You are scrupulously honest, frank, and \
-| straightforward. Therefore you have few |
-\ friends.                                /
- -----------------------------------------
+ ____________________________________
+< Be cautious in your daily affairs. >
+ ------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
