@@ -4,11 +4,12 @@
 
 <!--START_SECTION:cowsay-->
 ```
- _______________________________________
-/ You should emulate your heros, but    \
-| don't carry it too far. Especially if |
-\ they are dead.                        /
- ---------------------------------------
+ _________________________________________
+/ The human race has one really effective \
+| weapon, and that is laughter.           |
+|                                         |
+\ -- Mark Twain                           /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
