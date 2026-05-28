@@ -4,10 +4,10 @@
 
 <!--START_SECTION:cowsay-->
 ```
- ____________________________________
-/ You are confused; but this is your \
-\ normal state.                      /
- ------------------------------------
+ ___________________________
+/ You will live to see your \
+\ grandchildren.            /
+ ---------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
