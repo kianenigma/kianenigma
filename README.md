@@ -4,10 +4,10 @@
 
 <!--START_SECTION:cowsay-->
 ```
- _________________________________________
-/ You don't become a failure until you're \
-\ satisfied with being one.               /
- -----------------------------------------
+ _____________________________________
+/ Your sister swims out to meet troop \
+\ ships.                              /
+ -------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
