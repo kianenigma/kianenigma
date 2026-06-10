@@ -5,8 +5,8 @@
 <!--START_SECTION:cowsay-->
 ```
  _____________________________________
-/ Your sister swims out to meet troop \
-\ ships.                              /
+/ Things will be bright in P.M. A cop \
+\ will shine a light in your face.    /
  -------------------------------------
         \   ^__^
          \  (oo)\_______
