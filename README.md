@@ -4,10 +4,9 @@
 
 <!--START_SECTION:cowsay-->
 ```
- _____________________________________
-/ Things will be bright in P.M. A cop \
-\ will shine a light in your face.    /
- -------------------------------------
+ __________________________
+< Advancement in position. >
+ --------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
