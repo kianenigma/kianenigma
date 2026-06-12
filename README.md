@@ -4,9 +4,12 @@
 
 <!--START_SECTION:cowsay-->
 ```
- __________________________
-< Advancement in position. >
- --------------------------
+ _________________________________________
+/ The abuse of greatness is when it       \
+| disjoins remorse from power.            |
+|                                         |
+\ -- William Shakespeare, "Julius Caesar" /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
