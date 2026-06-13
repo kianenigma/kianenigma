@@ -4,12 +4,13 @@
 
 <!--START_SECTION:cowsay-->
 ```
- _________________________________________
-/ The abuse of greatness is when it       \
-| disjoins remorse from power.            |
-|                                         |
-\ -- William Shakespeare, "Julius Caesar" /
- -----------------------------------------
+ ___________________________________
+/ After all, all he did was string  \
+| together a lot of old, well-known |
+| quotations.                       |
+|                                   |
+\ -- H. L. Mencken, on Shakespeare  /
+ -----------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
