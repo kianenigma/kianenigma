@@ -4,13 +4,10 @@
 
 <!--START_SECTION:cowsay-->
 ```
- ___________________________________
-/ After all, all he did was string  \
-| together a lot of old, well-known |
-| quotations.                       |
-|                                   |
-\ -- H. L. Mencken, on Shakespeare  /
- -----------------------------------
+ _______________________________________
+/ You will give someone a piece of your \
+\ mind, which you can ill afford.       /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
