@@ -4,12 +4,10 @@
 
 <!--START_SECTION:cowsay-->
 ```
- ____________________________________
-/ The smallest worm will turn being  \
-| trodden on.                        |
-|                                    |
-\ -- William Shakespeare, "Henry VI" /
- ------------------------------------
+ ______________________________________
+/ You like to form new friendships and \
+\ make new acquaintances.              /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
