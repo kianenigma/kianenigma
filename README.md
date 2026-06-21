@@ -4,13 +4,12 @@
 
 <!--START_SECTION:cowsay-->
 ```
- ________________________________________
-/ What good is an obscenity trial except \
-| to popularize literature?              |
-|                                        |
-| -- Nero Wolfe, "The League of          |
-\ Frightened Men"                        /
- ----------------------------------------
+ _______________________________________
+/ I dote on his very absence.           \
+|                                       |
+| -- William Shakespeare, "The Merchant |
+\ of Venice"                            /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
