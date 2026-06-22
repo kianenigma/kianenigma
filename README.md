@@ -5,10 +5,9 @@
 <!--START_SECTION:cowsay-->
 ```
  _______________________________________
-/ I dote on his very absence.           \
-|                                       |
-| -- William Shakespeare, "The Merchant |
-\ of Venice"                            /
+/ You are destined to become the        \
+| commandant of the fighting men of the |
+\ department of transportation.         /
  ---------------------------------------
         \   ^__^
          \  (oo)\_______
