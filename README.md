@@ -5,8 +5,11 @@
 <!--START_SECTION:cowsay-->
 ```
  ________________________________________
-/ Tuesday After Lunch is the cosmic time \
-\ of the week.                           /
+/ Q: Why does Washington have the most   \
+| lawyers per capita and                 |
+|                                        |
+| New Jersey the most toxic waste dumps? |
+\ A: God gave New Jersey first choice.   /
  ----------------------------------------
         \   ^__^
          \  (oo)\_______
