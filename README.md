@@ -4,10 +4,10 @@
 
 <!--START_SECTION:cowsay-->
 ```
- ________________________________________
-/ You will be awarded a medal for        \
-\ disregarding safety in saving someone. /
- ----------------------------------------
+ ______________________________________
+/ You will remember something that you \
+\ should not have forgotten.           /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
