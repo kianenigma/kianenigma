@@ -4,10 +4,9 @@
 
 <!--START_SECTION:cowsay-->
 ```
- ______________________________________
-/ You will remember something that you \
-\ should not have forgotten.           /
- --------------------------------------
+ _________________
+< You love peace. >
+ -----------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
