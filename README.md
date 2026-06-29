@@ -4,11 +4,10 @@
 
 <!--START_SECTION:cowsay-->
 ```
- ________________________________________
-/ What no spouse of a writer can ever    \
-| understand is that a writer is working |
-\ when he's staring out the window.      /
- ----------------------------------------
+ _________________________________________
+/ You will step on the night soil of many \
+\ countries.                              /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
