@@ -4,12 +4,10 @@
 
 <!--START_SECTION:cowsay-->
 ```
- ________________________________________
-/ Water, taken in moderation cannot hurt \
-| anybody.                               |
-|                                        |
-\ -- Mark Twain                          /
- ----------------------------------------
+ _________________________________________
+/ You will gain money by a speculation or \
+\ lottery.                                /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
