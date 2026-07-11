@@ -4,10 +4,14 @@
 
 <!--START_SECTION:cowsay-->
 ```
- _____________________________________
-/ Don't relax! It's only your tension \
-\ that's holding you together.        /
- -------------------------------------
+ _________________________________________
+/ Q: How many mathematicians does it take \
+| to screw in a light bulb? A: One. He    |
+| gives it to six Californians, thereby   |
+| reducing the problem                    |
+|                                         |
+\ to the earlier joke.                    /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
