@@ -5,8 +5,8 @@
 <!--START_SECTION:cowsay-->
 ```
  _____________________________________
-/ What happened last night can happen \
-\ again.                              /
+/ Everything will be just tickety-boo \
+\ today.                              /
  -------------------------------------
         \   ^__^
          \  (oo)\_______
