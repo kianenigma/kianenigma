@@ -4,9 +4,14 @@
 
 <!--START_SECTION:cowsay-->
 ```
- ______________________________
-< Slow day. Practice crawling. >
- ------------------------------
+ ________________________________________
+/ A classic is something that everyone   \
+| wants to have read and nobody wants to |
+| read.                                  |
+|                                        |
+| -- Mark Twain, "The Disappearance of   |
+\ Literature"                            /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
