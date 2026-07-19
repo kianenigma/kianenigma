@@ -4,10 +4,10 @@
 
 <!--START_SECTION:cowsay-->
 ```
- ________________________________________
-/ Accent on helpful side of your nature. \
-\ Drain the moat.                        /
- ----------------------------------------
+ _________________________________________
+/ You have a strong appeal for members of \
+\ the opposite sex.                       /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
