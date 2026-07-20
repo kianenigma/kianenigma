@@ -4,10 +4,11 @@
 
 <!--START_SECTION:cowsay-->
 ```
- _________________________________________
-/ You have a strong appeal for members of \
-\ the opposite sex.                       /
- -----------------------------------------
+ ______________________________________
+/ You're definitely on their list. The \
+| question to ask next is what list it |
+\ is.                                  /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
