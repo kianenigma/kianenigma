@@ -4,11 +4,12 @@
 
 <!--START_SECTION:cowsay-->
 ```
- ______________________________________
-/ You're definitely on their list. The \
-| question to ask next is what list it |
-\ is.                                  /
- --------------------------------------
+ ________________________________________
+/ Water, taken in moderation cannot hurt \
+| anybody.                               |
+|                                        |
+\ -- Mark Twain                          /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
