@@ -5,15 +5,8 @@
 <!--START_SECTION:cowsay-->
 ```
  _________________________________________
-/ Q: How many surrealists does it take to \
-| change a light bulb? A: Two, one to     |
-| hold the giraffe, and the other to fill |
-| the bathtub                             |
-|                                         |
-| with brightly colored machine tools.    |
-|                                         |
-| [Surrealist jokes just aren't my cup of |
-\ fur. Ed.]                               /
+/ You have a strong desire for a home and \
+\ your family interests come first.       /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
