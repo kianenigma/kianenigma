@@ -4,10 +4,9 @@
 
 <!--START_SECTION:cowsay-->
 ```
- _________________________________________
-/ You have a strong desire for a home and \
-\ your family interests come first.       /
- -----------------------------------------
+ ______________________________
+< Slow day. Practice crawling. >
+ ------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
