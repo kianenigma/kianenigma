@@ -4,13 +4,10 @@
 
 <!--START_SECTION:cowsay-->
 ```
- _______________________________________
-/ Don't go around saying the world owes \
-| you a living. The world owes you      |
-| nothing. It was here first.           |
-|                                       |
-\ -- Mark Twain                         /
- ---------------------------------------
+ ______________________________________
+/ You will soon meet a person who will \
+\ play an important role in your life. /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
