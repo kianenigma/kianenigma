@@ -4,10 +4,12 @@
 
 <!--START_SECTION:cowsay-->
 ```
- ______________________________________
-/ You will soon meet a person who will \
-\ play an important role in your life. /
- --------------------------------------
+ _______________________________________
+/ He was part of my dream, of course -- \
+| but then I was part of his dream too. |
+|                                       |
+\ -- Lewis Carroll                      /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
