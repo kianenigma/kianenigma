@@ -4,12 +4,13 @@
 
 <!--START_SECTION:cowsay-->
 ```
- _______________________________________
-/ He was part of my dream, of course -- \
-| but then I was part of his dream too. |
-|                                       |
-\ -- Lewis Carroll                      /
- ---------------------------------------
+ _________________________________________
+/ In the Spring, I have counted 136       \
+| different kinds of weather inside of 24 |
+| hours.                                  |
+|                                         |
+\ -- Mark Twain, on New England weather   /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
