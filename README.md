@@ -5,11 +5,13 @@
 <!--START_SECTION:cowsay-->
 ```
  _________________________________________
-/ In the Spring, I have counted 136       \
-| different kinds of weather inside of 24 |
-| hours.                                  |
+/  You will remember, Watson, how the     \
+| dreadful business of the Abernetty      |
+| family was first brought to my notice   |
+| by the depth which the parsley had sunk |
+| into the butter upon a hot day.         |
 |                                         |
-\ -- Mark Twain, on New England weather   /
+\ -- Sherlock Holmes                      /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
