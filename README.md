@@ -5,8 +5,10 @@
 <!--START_SECTION:cowsay-->
 ```
  _______________________________________
-/ Don't plan any hasty moves. You'll be \
-\ evicted soon anyway.                  /
+/ Wrinkles should merely indicate where \
+| smiles have been.                     |
+|                                       |
+\ -- Mark Twain                         /
  ---------------------------------------
         \   ^__^
          \  (oo)\_______
