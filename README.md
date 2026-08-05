@@ -4,12 +4,11 @@
 
 <!--START_SECTION:cowsay-->
 ```
- _______________________________________
-/ Wrinkles should merely indicate where \
-| smiles have been.                     |
-|                                       |
-\ -- Mark Twain                         /
- ---------------------------------------
+ ______________________________________
+/ Good night to spend with family, but \
+| avoid arguments with your mate's new |
+\ lover.                               /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
