@@ -4,10 +4,10 @@
 
 <!--START_SECTION:cowsay-->
 ```
- _______________________________________
-/ You have an ability to sense and know \
-\ higher truth.                         /
- ---------------------------------------
+ ___________________________________
+/ Q: How many WASPs does it take to \
+\ change a light bulb? A: One.      /
+ -----------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
