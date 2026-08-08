@@ -4,10 +4,10 @@
 
 <!--START_SECTION:cowsay-->
 ```
- ___________________________________
-/ Q: How many WASPs does it take to \
-\ change a light bulb? A: One.      /
- -----------------------------------
+ ______________________________________
+/ You will be the last person to buy a \
+\ Chrysler.                            /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
