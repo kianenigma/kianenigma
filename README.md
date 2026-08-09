@@ -4,10 +4,12 @@
 
 <!--START_SECTION:cowsay-->
 ```
- ______________________________________
-/ You will be the last person to buy a \
-\ Chrysler.                            /
- --------------------------------------
+ ________________________________________
+/ Today's weirdness is tomorrow's reason \
+| why.                                   |
+|                                        |
+\ -- Hunter S. Thompson                  /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
