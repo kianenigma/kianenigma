@@ -5,7 +5,7 @@
 <!--START_SECTION:cowsay-->
 ```
  _________________________________________
-< Q: How do you keep a moron in suspense? >
+< If you can read this, you're too close. >
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
