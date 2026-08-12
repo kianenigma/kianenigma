@@ -5,7 +5,8 @@
 <!--START_SECTION:cowsay-->
 ```
  _________________________________________
-< If you can read this, you're too close. >
+/ People are beginning to notice you. Try \
+\ dressing before you leave the house.    /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
