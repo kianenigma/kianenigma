@@ -5,12 +5,8 @@
 <!--START_SECTION:cowsay-->
 ```
  _________________________________________
-/ Q: How many mathematicians does it take \
-| to screw in a light bulb? A: One. He    |
-| gives it to six Californians, thereby   |
-| reducing the problem                    |
-|                                         |
-\ to the earlier joke.                    /
+/ You don't become a failure until you're \
+\ satisfied with being one.               /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
