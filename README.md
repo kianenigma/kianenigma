@@ -4,10 +4,13 @@
 
 <!--START_SECTION:cowsay-->
 ```
- _________________________________________
-/ You don't become a failure until you're \
-\ satisfied with being one.               /
- -----------------------------------------
+ _____________________________________
+/ Many a writer seems to think he is  \
+| never profound except when he can't |
+| understand his own meaning.         |
+|                                     |
+\ -- George D. Prentice               /
+ -------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
