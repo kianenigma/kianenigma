@@ -4,9 +4,10 @@
 
 <!--START_SECTION:cowsay-->
 ```
- ______________________________________
-< You will have long and healthy life. >
- --------------------------------------
+ _________________________________________
+/ Q: What's yellow, and equivalent to the \
+\ Axiom of Choice? A: Zorn's Lemon.       /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
