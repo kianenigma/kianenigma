@@ -4,9 +4,10 @@
 
 <!--START_SECTION:cowsay-->
 ```
- _______________________________________
-< You will inherit millions of dollars. >
- ---------------------------------------
+ _________________________________________
+/ And do you think (fop that I am) that I \
+\ could be the Scarlet Pumpernickel?      /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
