@@ -4,9 +4,14 @@
 
 <!--START_SECTION:cowsay-->
 ```
- _______________________________________
-< Your domestic life may be harmonious. >
- ---------------------------------------
+ ________________________________________
+/ There is always one thing to remember: \
+| writers are always selling somebody    |
+| out.                                   |
+|                                        |
+| -- Joan Didion, "Slouching Towards     |
+\ Bethlehem"                             /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
