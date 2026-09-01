@@ -4,11 +4,10 @@
 
 <!--START_SECTION:cowsay-->
 ```
- ____________________________________
-/ It's lucky you're going so slowly, \
-| because you're going in the wrong  |
-\ direction.                         /
- ------------------------------------
+ _______________________________________
+/ You have an ability to sense and know \
+\ higher truth.                         /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
