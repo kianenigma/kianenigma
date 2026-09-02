@@ -5,8 +5,8 @@
 <!--START_SECTION:cowsay-->
 ```
  _______________________________________
-/ You have an ability to sense and know \
-\ higher truth.                         /
+/ You will be given a post of trust and \
+\ responsibility.                       /
  ---------------------------------------
         \   ^__^
          \  (oo)\_______
