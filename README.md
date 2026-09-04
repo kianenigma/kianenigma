@@ -4,9 +4,12 @@
 
 <!--START_SECTION:cowsay-->
 ```
- ________________________________________
-< The time is right to make new friends. >
- ----------------------------------------
+ ______________________________________
+/ Things past redress and now with me  \
+| past care.                           |
+|                                      |
+\ -- William Shakespeare, "Richard II" /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
