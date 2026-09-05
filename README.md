@@ -4,12 +4,10 @@
 
 <!--START_SECTION:cowsay-->
 ```
- ______________________________________
-/ Things past redress and now with me  \
-| past care.                           |
-|                                      |
-\ -- William Shakespeare, "Richard II" /
- --------------------------------------
+ ________________________________________
+/ You will be Told about it Tomorrow. Go \
+\ Home and Prepare Thyself.              /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
