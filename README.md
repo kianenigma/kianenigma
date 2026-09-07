@@ -4,12 +4,14 @@
 
 <!--START_SECTION:cowsay-->
 ```
- ________________________________________
-/ FORTUNE PROVIDES QUESTIONS FOR THE     \
-| GREAT ANSWERS: #4 A: Go west, young    |
-| man, go west! Q: What do wabbits do    |
-\ when they get tiwed of wunning awound? /
- ----------------------------------------
+ _________________________________________
+/ Q: How many mathematicians does it take \
+| to screw in a light bulb? A: One. He    |
+| gives it to six Californians, thereby   |
+| reducing the problem                    |
+|                                         |
+\ to the earlier joke.                    /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
