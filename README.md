@@ -4,10 +4,10 @@
 
 <!--START_SECTION:cowsay-->
 ```
- _____________________________________
-/ You'll feel much better once you've \
-\ given up hope.                      /
- -------------------------------------
+ ____________________________________
+/ Q: What is orange and goes "click, \
+\ click?" A: A ball point carrot.    /
+ ------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
