@@ -4,10 +4,10 @@
 
 <!--START_SECTION:cowsay-->
 ```
- ____________________________________
-/ Q: What is orange and goes "click, \
-\ click?" A: A ball point carrot.    /
- ------------------------------------
+ _______________________________________
+/ You can rent this space for only $5 a \
+\ week.                                 /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
