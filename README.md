@@ -4,13 +4,9 @@
 
 <!--START_SECTION:cowsay-->
 ```
- _______________________________________
-/ There are more things in heaven and   \
-| earth, Horatio, than are dreamt of in |
-| your philosophy.                      |
-|                                       |
-\ -- Wm. Shakespeare, "Hamlet"          /
- ---------------------------------------
+ ____________________________
+< You will soon forget this. >
+ ----------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
