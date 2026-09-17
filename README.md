@@ -4,9 +4,14 @@
 
 <!--START_SECTION:cowsay-->
 ```
- ______________________________
-< There is a fly on your nose. >
- ------------------------------
+ __________________________________
+/ Knock, knock!                    \
+|                                  |
+| Who's there? Sam and Janet.      |
+|                                  |
+| Sam and Janet who? Sam and Janet |
+\ Evening...                       /
+ ----------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
