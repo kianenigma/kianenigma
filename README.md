@@ -4,14 +4,11 @@
 
 <!--START_SECTION:cowsay-->
 ```
- __________________________________
-/ Knock, knock!                    \
-|                                  |
-| Who's there? Sam and Janet.      |
-|                                  |
-| Sam and Janet who? Sam and Janet |
-\ Evening...                       /
- ----------------------------------
+ _________________________________________
+/ Conscience doth make cowards of us all. \
+|                                         |
+\ -- Shakespeare                          /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
