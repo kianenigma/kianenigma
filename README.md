@@ -1,4 +1,6 @@
-# Kian Paimani aka `kianenigma`
+# Kian Paimani aka [`kianenigma`](https://kianenigma.com)
+
+Have you ever thought, [what is a blockchain, actually](https://blog.kianenigma.com/what-blockchain-actually/)? 
 
 ## Wisdom
 
