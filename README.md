@@ -6,14 +6,10 @@ Have you ever thought, [what is a blockchain, actually](https://blog.kianenigma.
 
 <!--START_SECTION:cowsay-->
 ```
- _________________________________________
-/ Q: How many Bell Labs Vice Presidents   \
-| does it take to change a light bulb? A: |
-| That's proprietary information. Answer  |
-| available from AT&T on payment          |
-|                                         |
-\ of license fee (binary only).           /
- -----------------------------------------
+ ________________________________________
+/ Don't let your mind wander -- it's too \
+\ little to be let out alone.            /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
