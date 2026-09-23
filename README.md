@@ -7,8 +7,11 @@ Have you ever thought, [what is a blockchain, actually](https://blog.kianenigma.
 <!--START_SECTION:cowsay-->
 ```
  ________________________________________
-/ Don't let your mind wander -- it's too \
-\ little to be let out alone.            /
+/ ... A solemn, unsmiling, sanctimonious \
+| old iceberg who looked like he was     |
+| waiting for a vacancy in the Trinity.  |
+|                                        |
+\ -- Mark Twain                          /
  ----------------------------------------
         \   ^__^
          \  (oo)\_______
