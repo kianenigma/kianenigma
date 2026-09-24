@@ -6,13 +6,13 @@ Have you ever thought, [what is a blockchain, actually](https://blog.kianenigma.
 
 <!--START_SECTION:cowsay-->
 ```
- ________________________________________
-/ ... A solemn, unsmiling, sanctimonious \
-| old iceberg who looked like he was     |
-| waiting for a vacancy in the Trinity.  |
-|                                        |
-\ -- Mark Twain                          /
- ----------------------------------------
+ _____________________________________
+/ As to the Adjective: when in doubt, \
+| strike it out.                      |
+|                                     |
+| -- Mark Twain, "Pudd'nhead Wilson's |
+\ Calendar"                           /
+ -------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
