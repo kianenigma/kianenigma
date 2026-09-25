@@ -6,13 +6,9 @@ Have you ever thought, [what is a blockchain, actually](https://blog.kianenigma.
 
 <!--START_SECTION:cowsay-->
 ```
- _____________________________________
-/ As to the Adjective: when in doubt, \
-| strike it out.                      |
-|                                     |
-| -- Mark Twain, "Pudd'nhead Wilson's |
-\ Calendar"                           /
- -------------------------------------
+ _________________________________
+< You too can wear a nose mitten. >
+ ---------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
