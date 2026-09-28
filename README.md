@@ -7,9 +7,11 @@ Have you ever thought, [what is a blockchain, actually](https://blog.kianenigma.
 <!--START_SECTION:cowsay-->
 ```
  _______________________________________
-/ You should emulate your heros, but    \
-| don't carry it too far. Especially if |
-\ they are dead.                        /
+/ The secret source of humor is not joy \
+| but sorrow; there is no humor in      |
+| Heaven.                               |
+|                                       |
+\ -- Mark Twain                         /
  ---------------------------------------
         \   ^__^
          \  (oo)\_______
