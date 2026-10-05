@@ -6,12 +6,11 @@ Have you ever thought, [what is a blockchain, actually](https://blog.kianenigma.
 
 <!--START_SECTION:cowsay-->
 ```
- ________________________________
-/ She is not refined. She is not \
-| unrefined. She keeps a parrot. |
-|                                |
-\ -- Mark Twain                  /
- --------------------------------
+ ________________________________________
+/ Q: How many lawyers does it take to    \
+| change a light bulb? A: One. Only it's |
+\ his light bulb when he's done.         /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
