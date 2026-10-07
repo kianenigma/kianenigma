@@ -6,12 +6,11 @@ Have you ever thought, [what is a blockchain, actually](https://blog.kianenigma.
 
 <!--START_SECTION:cowsay-->
 ```
- _______________________________
-/ The surest protection against \
-| temptation is cowardice.      |
-|                               |
-\ -- Mark Twain                 /
- -------------------------------
+ _____________________
+/ Big book, big bore. \
+|                     |
+\ -- Callimachus      /
+ ---------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
