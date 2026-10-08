@@ -6,11 +6,9 @@ Have you ever thought, [what is a blockchain, actually](https://blog.kianenigma.
 
 <!--START_SECTION:cowsay-->
 ```
- _____________________
-/ Big book, big bore. \
-|                     |
-\ -- Callimachus      /
- ---------------------
+ _____________________________
+< You fill a much-needed gap. >
+ -----------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
