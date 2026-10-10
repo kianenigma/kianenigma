@@ -6,14 +6,10 @@ Have you ever thought, [what is a blockchain, actually](https://blog.kianenigma.
 
 <!--START_SECTION:cowsay-->
 ```
- _______________________________________
-/ Perilous to all of us are the devices \
-| of an art deeper than we ourselves    |
-| possess.                              |
-|                                       |
-| -- Gandalf the Grey [J.R.R. Tolkien,  |
-\ "Lord of the Rings"]                  /
- ---------------------------------------
+ _________________________________________
+/ Q: What do you call a blind, deaf-mute, \
+\ quadraplegic Virginian? A: Trustworthy. /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
