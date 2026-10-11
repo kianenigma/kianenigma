@@ -6,10 +6,10 @@ Have you ever thought, [what is a blockchain, actually](https://blog.kianenigma.
 
 <!--START_SECTION:cowsay-->
 ```
- _________________________________________
-/ Q: What do you call a blind, deaf-mute, \
-\ quadraplegic Virginian? A: Trustworthy. /
- -----------------------------------------
+ ________________________________________
+/ Q: Why was Stonehenge abandoned? A: It \
+\ wasn't IBM compatible.                 /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
