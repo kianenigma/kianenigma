@@ -7,9 +7,7 @@ Have you ever thought, [what is a blockchain, actually](https://blog.kianenigma.
 <!--START_SECTION:cowsay-->
 ```
  ____________________________________
-/ Q: Why did the germ cross the      \
-| microscope? A: To get to the other |
-\ slide.                             /
+< Be cautious in your daily affairs. >
  ------------------------------------
         \   ^__^
          \  (oo)\_______
