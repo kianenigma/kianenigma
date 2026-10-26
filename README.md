@@ -6,10 +6,9 @@ Have you ever thought, [what is a blockchain, actually](https://blog.kianenigma.
 
 <!--START_SECTION:cowsay-->
 ```
- _________________________________________
-/ And do you think (fop that I am) that I \
-\ could be the Scarlet Pumpernickel?      /
- -----------------------------------------
+ ________________________________
+< It's all in the mind, ya know. >
+ --------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
