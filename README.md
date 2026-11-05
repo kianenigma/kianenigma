@@ -6,14 +6,10 @@ Have you ever thought, [what is a blockchain, actually](https://blog.kianenigma.
 
 <!--START_SECTION:cowsay-->
 ```
- ________________________________________
-/ Your manuscript is both good and       \
-| original, but the part that is good is |
-| not original and the part that is      |
-| original is not good.                  |
-|                                        |
-\ -- Samuel Johnson                      /
- ----------------------------------------
+ _________________________________________
+/ Your reasoning powers are good, and you \
+\ are a fairly good planner.              /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
