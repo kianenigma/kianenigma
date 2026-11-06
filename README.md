@@ -6,10 +6,10 @@ Have you ever thought, [what is a blockchain, actually](https://blog.kianenigma.
 
 <!--START_SECTION:cowsay-->
 ```
- _________________________________________
-/ Your reasoning powers are good, and you \
-\ are a fairly good planner.              /
- -----------------------------------------
+ ________________________________________
+/ You work very hard. Don't try to think \
+\ as well.                               /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
