@@ -7,8 +7,8 @@ Have you ever thought, [what is a blockchain, actually](https://blog.kianenigma.
 <!--START_SECTION:cowsay-->
 ```
  ________________________________________
-/ You work very hard. Don't try to think \
-\ as well.                               /
+/ Q: How was Thomas J. Watson buried? A: \
+\ 9 edge down.                           /
  ----------------------------------------
         \   ^__^
          \  (oo)\_______
