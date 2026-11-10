@@ -6,11 +6,13 @@ Have you ever thought, [what is a blockchain, actually](https://blog.kianenigma.
 
 <!--START_SECTION:cowsay-->
 ```
- _________________________________________
-/ Q: What do you get when you cross the   \
-| Godfather with an attorney? A: An offer |
-\ you can't understand.                   /
- -----------------------------------------
+ ______________________________________
+/ Tell the truth or trump--but get the \
+| trick.                               |
+|                                      |
+| -- Mark Twain, "Pudd'nhead Wilson's  |
+\ Calendar"                            /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
