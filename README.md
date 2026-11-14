@@ -6,11 +6,19 @@ Have you ever thought, [what is a blockchain, actually](https://blog.kianenigma.
 
 <!--START_SECTION:cowsay-->
 ```
- ______________________________________
-/ You're definitely on their list. The \
-| question to ask next is what list it |
-\ is.                                  /
- --------------------------------------
+ _________________________________________
+/ October.                                \
+|                                         |
+| This is one of the peculiarly dangerous |
+| months to speculate in stocks in.       |
+|                                         |
+| The others are July, January,           |
+| September, April, November, May, March, |
+| June, December, August, and February.   |
+|                                         |
+| -- Mark Twain, "Pudd'nhead Wilson's     |
+\ Calendar"                               /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
