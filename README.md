@@ -6,10 +6,10 @@ Have you ever thought, [what is a blockchain, actually](https://blog.kianenigma.
 
 <!--START_SECTION:cowsay-->
 ```
- _____________________________________
-/ Your true value depends entirely on \
-\ what you are compared with.         /
- -------------------------------------
+ _________________________________________
+/ You will experience a strong urge to do \
+\ good; but it will pass.                 /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
