@@ -6,10 +6,9 @@ Have you ever thought, [what is a blockchain, actually](https://blog.kianenigma.
 
 <!--START_SECTION:cowsay-->
 ```
- _________________________________________
-/ You will experience a strong urge to do \
-\ good; but it will pass.                 /
- -----------------------------------------
+ _________________________________
+< So you're back... about time... >
+ ---------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
