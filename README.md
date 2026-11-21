@@ -6,10 +6,10 @@ Have you ever thought, [what is a blockchain, actually](https://blog.kianenigma.
 
 <!--START_SECTION:cowsay-->
 ```
- _______________________________________
-/ Don't you wish you had more energy... \
-\ or less ambition?                     /
- ---------------------------------------
+ _________________________________________
+/ Truth will out this morning. (Which may \
+\ really mess things up.)                 /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
