@@ -6,10 +6,9 @@ Have you ever thought, [what is a blockchain, actually](https://blog.kianenigma.
 
 <!--START_SECTION:cowsay-->
 ```
- _________________________________________
-/ Truth will out this morning. (Which may \
-\ really mess things up.)                 /
- -----------------------------------------
+ _______________________________________
+< You will be run over by a beer truck. >
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
