@@ -7,7 +7,9 @@ Have you ever thought, [what is a blockchain, actually](https://blog.kianenigma.
 <!--START_SECTION:cowsay-->
 ```
  _______________________________________
-< You will be run over by a beer truck. >
+/ You'll wish that you had done some of \
+| the hard things when they were easier |
+\ to do.                                /
  ---------------------------------------
         \   ^__^
          \  (oo)\_______
