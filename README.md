@@ -7,12 +7,15 @@ Have you ever thought, [what is a blockchain, actually](https://blog.kianenigma.
 <!--START_SECTION:cowsay-->
 ```
  ________________________________________
-/ It is often the case that the man who  \
-| can't tell a lie thinks he is the best |
-| judge of one.                          |
+/ You mentioned your name as if I should \
+| recognize it, but beyond the obvious   |
+| facts that you are a bachelor, a       |
+| solicitor, a freemason, and an         |
+| asthmatic, I know nothing whatever     |
+| about you.                             |
 |                                        |
-| -- Mark Twain, "Pudd'nhead Wilson's    |
-\ Calendar"                              /
+| -- Sherlock Holmes, "The Norwood       |
+\ Builder"                               /
  ----------------------------------------
         \   ^__^
          \  (oo)\_______
