@@ -6,11 +6,13 @@ Have you ever thought, [what is a blockchain, actually](https://blog.kianenigma.
 
 <!--START_SECTION:cowsay-->
 ```
- ________________________________________
-/ Your temporary financial embarrassment \
-| will be relieved in a surprising       |
-\ manner.                                /
- ----------------------------------------
+ _______________________________________
+/ Whenever you find that you are on the \
+| side of the majority, it is time to   |
+| reform.                               |
+|                                       |
+\ -- Mark Twain                         /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
