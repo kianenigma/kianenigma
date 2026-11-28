@@ -7,11 +7,9 @@ Have you ever thought, [what is a blockchain, actually](https://blog.kianenigma.
 <!--START_SECTION:cowsay-->
 ```
  _______________________________________
-/ Whenever you find that you are on the \
-| side of the majority, it is time to   |
-| reform.                               |
-|                                       |
-\ -- Mark Twain                         /
+/ You had some happiness once, but your \
+| parents moved away, and you had to    |
+\ leave it behind.                      /
  ---------------------------------------
         \   ^__^
          \  (oo)\_______
